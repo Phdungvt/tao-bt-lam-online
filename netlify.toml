@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "/api/redirect"
+  to = "/.netlify/functions/redirect"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/verify-token"
+  status = 200
+  force = true
+  conditions = { Query = { token = ":token" } }
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "functions"

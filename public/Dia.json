@@ -1,0 +1,99 @@
+
+{
+  "10": {
+    "Chủ đề: Địa lý tự nhiên Việt Nam": {
+      "chapter": "ĐỊA LÝ TỰ NHIÊN",
+      "content": "Nghiên cứu các đặc điểm địa lý tự nhiên của Việt Nam, bao gồm địa hình, khí hậu, tài nguyên.",
+      "objectives": [
+        "Trình bày được đặc điểm địa hình và khí hậu Việt Nam.",
+        "Phân tích được ảnh hưởng của địa lý tự nhiên đến đời sống.",
+        "Hiểu được phân bố tài nguyên thiên nhiên.",
+        "Liên hệ thực tiễn về khai thác tài nguyên ở địa phương."
+      ],
+      "common_exercises": [
+        "Vẽ bản đồ phân bố địa hình Việt Nam.",
+        "Phân tích ảnh hưởng của khí hậu đến nông nghiệp.",
+        "Liên hệ thực tiễn về khai thác tài nguyên nước."
+      ]
+    },
+    "Chuyên đề: Biến đổi khí hậu": {
+      "chapter": "ĐỊA LÝ MÔI TRƯỜNG",
+      "content": "Tìm hiểu nguyên nhân và tác động của biến đổi khí hậu ở Việt Nam.",
+      "objectives": [
+        "Trình bày được khái niệm và nguyên nhân biến đổi khí hậu.",
+        "Phân tích được tác động đến môi trường và kinh tế.",
+        "Hiểu được biện pháp ứng phó với biến đổi khí hậu.",
+        "Liên hệ thực tiễn về ngập lụt ở đồng bằng."
+      ],
+      "common_exercises": [
+        "Phân tích nguyên nhân gây biến đổi khí hậu.",
+        "Thảo luận về tác động của biến đổi khí hậu ở Việt Nam.",
+        "Đánh giá biện pháp ứng phó tại địa phương."
+      ]
+    }
+  },
+  "11": {
+    "Chủ đề: Địa lý kinh tế - xã hội Việt Nam": {
+      "chapter": "ĐỊA LÝ KINH TẾ - XÃ HỘI",
+      "content": "Nghiên cứu phân bố dân cư, kinh tế và xã hội trên lãnh thổ Việt Nam.",
+      "objectives": [
+        "Trình bày được phân bố dân cư và kinh tế Việt Nam.",
+        "Phân tích được mối quan hệ giữa dân cư và kinh tế.",
+        "Hiểu được phát triển kinh tế vùng miền.",
+        "Liên hệ thực tiễn về công nghiệp hóa địa phương."
+      ],
+      "common_exercises": [
+        "Vẽ bản đồ phân bố dân cư Việt Nam.",
+        "Phân tích phát triển kinh tế ở đồng bằng sông Cửu Long.",
+        "Đánh giá vai trò của công nghiệp ở miền Bắc."
+      ]
+    },
+    "Chuyên đề: Đô thị hóa": {
+      "chapter": "ĐỊA LÝ ĐÔ THỊ",
+      "content": "Tìm hiểu quá trình đô thị hóa và tác động đến xã hội, môi trường.",
+      "objectives": [
+        "Trình bày được khái niệm và quá trình đô thị hóa.",
+        "Phân tích được tác động của đô thị hóa đến môi trường.",
+        "Hiểu được biện pháp quản lý đô thị bền vững.",
+        "Liên hệ thực tiễn về đô thị hóa ở Hà Nội."
+      ],
+      "common_exercises": [
+        "Phân tích tác động của đô thị hóa đến giao thông.",
+        "Thảo luận về quản lý đô thị bền vững.",
+        "Đánh giá thực trạng đô thị hóa ở một thành phố lớn."
+      ]
+    }
+  },
+  "12": {
+    "Chủ đề: Địa lý thế giới": {
+      "chapter": "ĐỊA LÝ THẾ GIỚI",
+      "content": "Nghiên cứu các đặc điểm địa lý tự nhiên và kinh tế - xã hội trên thế giới.",
+      "objectives": [
+        "Trình bày được đặc điểm địa lý các châu lục.",
+        "Phân tích được sự phân bố kinh tế thế giới.",
+        "Hiểu được tác động của toàn cầu hóa đến địa lý.",
+        "Liên hệ thực tiễn về thương mại quốc tế."
+      ],
+      "common_exercises": [
+        "Vẽ bản đồ phân bố kinh tế thế giới.",
+        "Phân tích sự phát triển kinh tế ở châu Âu.",
+        "Đánh giá vai trò của địa lý trong hội nhập kinh tế."
+      ]
+    },
+    "Chuyên đề: Quản lý tài nguyên và môi trường": {
+      "chapter": "ĐỊA LÝ MÔI TRƯỜNG",
+      "content": "Tìm hiểu quản lý tài nguyên và bảo vệ môi trường trên thế giới và Việt Nam.",
+      "objectives": [
+        "Trình bày được khái niệm quản lý tài nguyên.",
+        "Phân tích được tác động của khai thác tài nguyên.",
+        "Hiểu được biện pháp bảo vệ môi trường toàn cầu.",
+        "Liên hệ thực tiễn về quản lý rừng ở Việt Nam."
+      ],
+      "common_exercises": [
+        "Phân tích tác động của khai thác khoáng sản.",
+        "Thảo luận về bảo vệ môi trường toàn cầu.",
+        "Đánh giá hiệu quả quản lý tài nguyên ở địa phương."
+      ]
+    }
+  }
+}

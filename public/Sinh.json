@@ -1,0 +1,505 @@
+{
+  "10": {
+    "Bài 1. Giới thiệu khái quát chương trình môn Sinh học": {
+      "chapter": "MỞ ĐẦU",
+      "content": "Tìm hiểu đối tượng, lĩnh vực, vai trò và ngành nghề liên quan đến Sinh học.",
+      "objectives": [
+        "Nêu được đối tượng và các lĩnh vực nghiên cứu chính của sinh học.",
+        "Phân tích được vai trò của sinh học đối với sự phát triển kinh tế – xã hội và phát triển bền vững.",
+        "Kể được tên các ngành nghề liên quan đến sinh học và ứng dụng của chúng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Các phương pháp nghiên cứu và học tập môn Sinh học": {
+      "chapter": "MỞ ĐẦU",
+      "content": "Trình bày và vận dụng các phương pháp, kĩ năng nghiên cứu trong Sinh học và vai trò của tin sinh học.",
+      "objectives": [
+        "Trình bày và vận dụng được các phương pháp nghiên cứu sinh học (quan sát, thực nghiệm, làm việc trong phòng thí nghiệm).",
+        "Trình bày và vận dụng được các kĩ năng trong tiến trình nghiên cứu (quan sát, xây dựng giả thuyết, thiết kế thí nghiệm, báo cáo kết quả).",
+        "Nêu được vai trò của tin sinh học như một công cụ trong nghiên cứu và học tập."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Các cấp độ tổ chức của thế giới sống": {
+      "chapter": "MỞ ĐẦU",
+      "content": "Phân biệt các cấp độ tổ chức sống, trình bày đặc điểm chung và giải thích mối quan hệ giữa chúng.",
+      "objectives": [
+        "Phân biệt được các cấp độ tổ chức sống và nêu được các cấp độ tổ chức sống cơ bản.",
+        "Trình bày được các đặc điểm chung của các cấp độ tổ chức sống (tổ chức theo nguyên tắc thứ bậc, hệ thống mở và tự điều chỉnh, liên tục tiến hoá).",
+        "Giải thích được mối quan hệ giữa các cấp độ tổ chức sống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Khái quát về tế bào": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Nghiên cứu học thuyết tế bào và vai trò của tế bào là đơn vị cơ bản của sự sống.",
+      "objectives": [
+        "Nêu được các nội dung cơ bản của học thuyết tế bào.",
+        "Giải thích được tại sao tế bào được xem là đơn vị cấu trúc và chức năng cơ bản của cơ thể sống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Các nguyên tố hoá học và nước": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Phân biệt các nguyên tố đa lượng, vi lượng và tìm hiểu vai trò của nước trong tế bào.",
+      "objectives": [
+        "Phân biệt được nguyên tố đa lượng và vi lượng và nêu được vai trò của chúng.",
+        "Giải thích được vai trò quan trọng của nguyên tố carbon trong cấu tạo các phân tử sinh học.",
+        "Trình bày được mối quan hệ giữa cấu trúc và tính chất của phân tử nước với vai trò sinh học của nước trong tế bào."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Các phân tử sinh học trong tế bào": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Trình bày cấu tạo và vai trò của các phân tử sinh học chính như carbohydrate, lipid, protein, nucleic acid.",
+      "objectives": [
+        "Trình bày được thành phần cấu tạo (đơn phân) và vai trò của carbohydrate, lipid, protein, nucleic acid.",
+        "Phân tích được mối quan hệ giữa cấu trúc và vai trò của các phân tử sinh học.",
+        "Vận dụng kiến thức để giải thích các hiện tượng thực tiễn (ví dụ: ăn uống hợp lí, vai trò của DNA trong xác định huyết thống)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Tế bào nhân sơ": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Mô tả cấu tạo, chức năng của tế bào nhân sơ và phân biệt vi khuẩn Gram dương, Gram âm.",
+      "objectives": [
+        "Mô tả được kích thước, cấu tạo và chức năng các thành phần của tế bào nhân sơ (thành tế bào, màng sinh chất, tế bào chất, vùng nhân).",
+        "Phân biệt được vi khuẩn Gram dương và Gram âm dựa vào cấu trúc thành tế bào."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Tế bào nhân thực": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Trình bày cấu trúc và chức năng của các bào quan trong tế bào nhân thực, so sánh với tế bào nhân sơ.",
+      "objectives": [
+        "Trình bày được cấu trúc và chức năng của nhân tế bào.",
+        "Phân tích được mối quan hệ giữa cấu tạo và chức năng của các bào quan: ribosome, lưới nội chất, bộ máy Golgi, ti thể, lục lạp, lysosome, peroxisome, không bào, trung thể.",
+        "Lập được bảng so sánh cấu tạo tế bào thực vật và động vật, tế bào nhân sơ và tế bào nhân thực."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Vận chuyển các chất qua màng sinh chất": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Phân biệt các hình thức vận chuyển chất qua màng và giải thích các hiện tượng thực tiễn liên quan.",
+      "objectives": [
+        "Phân biệt được các hình thức vận chuyển thụ động và chủ động qua màng sinh chất.",
+        "Giải thích được cơ chế và ý nghĩa của quá trình xuất bào, nhập bào (thực bào, ẩm bào).",
+        "Vận dụng kiến thức để giải thích các hiện tượng thực tiễn (muối dưa, co và phản co nguyên sinh)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Chuyển hoá vật chất và năng lượng trong tế bào": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Nghiên cứu về các dạng năng lượng, vai trò của ATP và cơ chế hoạt động của enzyme trong tế bào.",
+      "objectives": [
+        "Phân biệt được các dạng năng lượng trong tế bào (hoá năng, nhiệt năng, điện năng, cơ năng).",
+        "Phân tích được cấu tạo và chức năng của ATP như là 'đồng tiền' năng lượng.",
+        "Trình bày được vai trò, cấu trúc và cơ chế tác động của enzyme.",
+        "Phân tích được các yếu tố ảnh hưởng đến hoạt tính của enzyme."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Tổng hợp các chất và tích luỹ năng lượng": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Trình bày quá trình tổng hợp các chất và tích lũy năng lượng, đặc biệt là vai trò của quang hợp.",
+      "objectives": [
+        "Trình bày được quá trình tổng hợp các chất song song với tích luỹ năng lượng.",
+        "Phân tích được vai trò của quang hợp trong việc tổng hợp các chất và tích luỹ năng lượng.",
+        "Nêu được vai trò của hoá tổng hợp và quang khử ở vi khuẩn."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Phân giải các chất và giải phóng năng lượng": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Trình bày các giai đoạn của quá trình phân giải hiếu khí và kị khí trong tế bào.",
+      "objectives": [
+        "Trình bày được các giai đoạn của quá trình phân giải hiếu khí (đường phân, chu trình Krebs, chuỗi chuyền electron).",
+        "Trình bày được các giai đoạn của quá trình phân giải kị khí (đường phân và lên men).",
+        "Phân tích được mối quan hệ giữa tổng hợp và phân giải các chất trong tế bào."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Thông tin giữa các tế bào": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Trình bày các quá trình và các kiểu truyền thông tin giữa các tế bào trong cơ thể sống.",
+      "objectives": [
+        "Trình bày được các quá trình của truyền thông tin tế bào: tiếp nhận, truyền tin và đáp ứng.",
+        "Nêu được các kiểu truyền thông tin giữa các tế bào (tiếp xúc trực tiếp, cục bộ, qua khoảng cách xa)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Chu kì tế bào": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Trình bày các giai đoạn của chu kì tế bào và cơ chế kiểm soát, bao gồm cả hậu quả khi bị rối loạn như ung thư.",
+      "objectives": [
+        "Trình bày được các giai đoạn và mối quan hệ giữa các giai đoạn trong chu kì tế bào.",
+        "Giải thích được cơ chế kiểm soát chu kì tế bào và hậu quả khi cơ chế này bị rối loạn (ung thư)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Quá trình phân bào": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Mô tả và so sánh quá trình nguyên phân, giảm phân và ý nghĩa của chúng đối với sinh sản và di truyền.",
+      "objectives": [
+        "Mô tả được các kì của quá trình nguyên phân và giảm phân.",
+        "Giải thích được ý nghĩa của nguyên phân, giảm phân và thụ tinh đối với sinh sản và di truyền.",
+        "Lập được bảng so sánh quá trình nguyên phân và giảm phân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Công nghệ tế bào": {
+      "chapter": "SINH HỌC TẾ BÀO",
+      "content": "Nêu khái niệm, nguyên lí và một số thành tựu nổi bật của công nghệ tế bào thực vật và động vật.",
+      "objectives": [
+        "Nêu được khái niệm, nguyên lí và một số thành tựu của công nghệ tế bào thực vật (nuôi cấy mô, lai tế bào sinh dưỡng).",
+        "Nêu được khái niệm, nguyên lí và một số thành tựu của công nghệ tế bào động vật (nhân bản vô tính, cấy truyền phôi)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22. Khái quát về vi sinh vật": {
+      "chapter": "SINH HỌC VI SINH VẬT VÀ VIRUS",
+      "content": "Nêu các đặc điểm chung của vi sinh vật và phân biệt các kiểu dinh dưỡng của chúng.",
+      "objectives": [
+        "Nêu được các đặc điểm chung của vi sinh vật.",
+        "Phân biệt được các kiểu dinh dưỡng ở vi sinh vật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 24. Quá trình tổng hợp và phân giải ở vi sinh vật": {
+      "chapter": "SINH HỌC VI SINH VẬT VÀ VIRUS",
+      "content": "Trình bày các quá trình tổng hợp và phân giải các chất diễn ra trong vi sinh vật.",
+      "objectives": [
+        "Trình bày được quá trình tổng hợp các chất ở vi sinh vật (quang tổng hợp, hoá tổng hợp).",
+        "Trình bày được quá trình phân giải các chất ở vi sinh vật (phân giải hiếu khí, kị khí, lên men)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 25. Sinh trưởng và sinh sản ở vi sinh vật": {
+      "chapter": "SINH HỌC VI SINH VẬT VÀ VIRUS",
+      "content": "Mô tả các pha sinh trưởng của quần thể vi khuẩn và phân biệt các hình thức sinh sản của vi sinh vật.",
+      "objectives": [
+        "Mô tả được các pha sinh trưởng của quần thể vi khuẩn trong môi trường nuôi cấy không liên tục.",
+        "Phân biệt được các hình thức sinh sản ở vi sinh vật nhân sơ và nhân thực."
+      ],
+      "common_exercises": []
+    },
+    "Bài 26. Công nghệ vi sinh vật": {
+      "chapter": "SINH HỌC VI SINH VẬT VÀ VIRUS",
+      "content": "Nêu cơ sở khoa học và một số thành tựu của công nghệ vi sinh vật trong các lĩnh vực sản xuất.",
+      "objectives": [
+        "Nêu được cơ sở khoa học và một số thành tựu của công nghệ vi sinh vật trong sản xuất các sản phẩm (thực phẩm, dược phẩm, xử lí môi trường)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 29. Virus": {
+      "chapter": "SINH HỌC VI SINH VẬT VÀ VIRUS",
+      "content": "Mô tả cấu tạo, hình thái và chu trình nhân lên của virus trong tế bào chủ.",
+      "objectives": [
+        "Mô tả được cấu tạo và các hình thái của virus.",
+        "Trình bày được các giai đoạn trong chu trình nhân lên của virus (chu trình tan và tiềm tan)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 30. Ứng dụng của virus trong y học và thực tiễn": {
+      "chapter": "SINH HỌC VI SINH VẬT VÀ VIRUS",
+      "content": "Trình bày các ứng dụng quan trọng của virus trong sản xuất vaccine, thuốc trừ sâu sinh học và công nghệ di truyền.",
+      "objectives": [
+        "Trình bày được các ứng dụng của virus trong sản xuất vaccine, thuốc trừ sâu sinh học và trong công nghệ di truyền."
+      ],
+      "common_exercises": []
+    }
+  },
+  "11": {
+    "Bài 2. Trao đổi nước và khoáng ở thực vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Mô tả quá trình hấp thụ, vận chuyển nước và khoáng, và cơ chế điều tiết thoát hơi nước ở thực vật.",
+      "objectives": [
+        "Mô tả được quá trình hấp thụ nước và khoáng ở rễ qua hai con đường (gian bào và tế bào chất).",
+        "Mô tả được sự vận chuyển các chất trong cây theo dòng mạch gỗ và dòng mạch rây.",
+        "Trình bày được cơ chế đóng, mở khí khổng để điều tiết quá trình thoát hơi nước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Quang hợp ở thực vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Nghiên cứu về vai trò của quang hợp, hệ sắc tố và phân biệt các con đường đồng hóa carbon ở các nhóm thực vật.",
+      "objectives": [
+        "Viết được phương trình tổng quát của quang hợp và nêu được vai trò của quang hợp.",
+        "Trình bày được vai trò của hệ sắc tố quang hợp và các sản phẩm của pha sáng.",
+        "Phân biệt được các con đường đồng hoá carbon ở thực vật C3, C4 và CAM."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Hô hấp ở thực vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Trình bày các giai đoạn của hô hấp, ảnh hưởng của môi trường và mối quan hệ với quang hợp.",
+      "objectives": [
+        "Trình bày được sơ đồ các giai đoạn của hô hấp hiếu khí và kị khí ở thực vật.",
+        "Phân tích được ảnh hưởng của các điều kiện môi trường đến hô hấp.",
+        "Phân tích được mối quan hệ giữa quang hợp và hô hấp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Dinh dưỡng và tiêu hoá ở động vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các hình thức tiêu hóa và mô tả quá trình tiêu hóa trong ống tiêu hóa của người.",
+      "objectives": [
+        "Phân biệt được các hình thức tiêu hoá ở động vật (tiêu hoá nội bào, ngoại bào, trong túi và ống tiêu hoá).",
+        "Mô tả được quá trình tiêu hoá cơ học và hoá học ở các cơ quan trong ống tiêu hoá của người."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Hô hấp ở động vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các hình thức trao đổi khí và giải thích cơ chế thông khí ở các nhóm động vật khác nhau.",
+      "objectives": [
+        "Phân biệt được các hình thức trao đổi khí ở động vật (qua bề mặt cơ thể, hệ thống ống khí, mang, phổi).",
+        "Giải thích được cơ chế thông khí ở người và chim."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Tuần hoàn ở động vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các loại hệ tuần hoàn, mô tả cấu tạo và hoạt động của hệ tuần hoàn ở người.",
+      "objectives": [
+        "Phân biệt được hệ tuần hoàn hở và hệ tuần hoàn kín (tuần hoàn đơn, tuần hoàn kép).",
+        "Mô tả được cấu tạo và hoạt động của tim, hệ mạch.",
+        "Giải thích được cơ chế điều hoà hoạt động tim mạch."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Miễn dịch ở động vật và người": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các loại miễn dịch và giải thích các cơ chế miễn dịch, bao gồm cả hiện tượng dị ứng.",
+      "objectives": [
+        "Phân biệt được miễn dịch không đặc hiệu và miễn dịch đặc hiệu (dịch thể, qua trung gian tế bào).",
+        "Giải thích được cơ sở của hiện tượng dị ứng và cơ chế thử phản ứng khi tiêm kháng sinh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Bài tiết và cân bằng nội môi": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Trình bày vai trò của thận và các cơ chế điều hòa cân bằng nội môi trong cơ thể.",
+      "objectives": [
+        "Trình bày được vai trò của thận trong bài tiết và cân bằng nội môi.",
+        "Giải thích được cơ chế điều hoà áp suất thẩm thấu, hàm lượng đường và pH nội môi."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Cảm ứng ở thực vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các hình thức cảm ứng ở thực vật như hướng động và ứng động.",
+      "objectives": [
+        "Phân biệt được các hình thức hướng động (hướng sáng, trọng lực, nước, hoá, tiếp xúc).",
+        "Phân biệt được các hình thức ứng động (sinh trưởng, không sinh trưởng)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Cảm ứng ở động vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các hình thức cảm ứng ở các nhóm động vật và mô tả cấu tạo, hoạt động của cung phản xạ.",
+      "objectives": [
+        "Phân biệt được các hình thức cảm ứng ở các nhóm động vật (chưa có hệ thần kinh, hệ thần kinh dạng lưới, chuỗi hạch, ống).",
+        "Mô tả được cấu tạo và hoạt động của cung phản xạ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Sinh trưởng và phát triển ở thực vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các loại sinh trưởng và trình bày vai trò của các hormone thực vật.",
+      "objectives": [
+        "Phân biệt được sinh trưởng sơ cấp và thứ cấp.",
+        "Trình bày được vai trò của các hormone thực vật (auxin, gibberellin, cytokinin, abscisic acid, ethylene)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Sinh trưởng và phát triển ở động vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các hình thức phát triển và trình bày vai trò của hormone trong quá trình này.",
+      "objectives": [
+        "Phân biệt được phát triển qua biến thái và không qua biến thái.",
+        "Trình bày được vai trò của các hormone ảnh hưởng đến sinh trưởng và phát triển ở động vật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 24. Sinh sản ở thực vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các hình thức sinh sản và mô tả quá trình sinh sản hữu tính ở thực vật có hoa.",
+      "objectives": [
+        "Phân biệt được các hình thức sinh sản vô tính ở thực vật.",
+        "Mô tả được quá trình hình thành hạt phấn, túi phôi và thụ tinh kép ở thực vật có hoa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 26. Sinh sản ở động vật": {
+      "chapter": "SINH HỌC CƠ THỂ",
+      "content": "Phân biệt các hình thức sinh sản và mô tả cơ chế điều hòa sinh sản ở động vật.",
+      "objectives": [
+        "Phân biệt được các hình thức sinh sản vô tính ở động vật.",
+        "So sánh được các hình thức thụ tinh ngoài và thụ tinh trong.",
+        "Mô tả được cơ chế điều hoà sinh tinh và sinh trứng."
+      ],
+      "common_exercises": []
+    }
+  },
+  "12": {
+    "Bài 1. Gene và cơ chế truyền thông tin di truyền": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Phân tích các cơ chế tái bản DNA, phiên mã, dịch mã và sơ đồ di truyền ở cấp phân tử.",
+      "objectives": [
+        "Phân tích được cơ chế tái bản DNA theo nguyên tắc bổ sung và bán bảo toàn.",
+        "Phân tích được cơ chế phiên mã và dịch mã.",
+        "Vẽ và giải thích được sơ đồ cơ chế di truyền ở cấp phân tử."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Điều hoà biểu hiện gene": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Phân tích cơ chế điều hòa biểu hiện gene ở sinh vật nhân sơ và ý nghĩa của nó.",
+      "objectives": [
+        "Phân tích được cơ chế điều hoà biểu hiện gene của operon Lac ở E. coli khi có và không có lactose.",
+        "Trình bày được ý nghĩa của điều hoà biểu hiện gene trong phát triển cá thể."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Hệ gene, đột biến gene và công nghệ gene": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Phân biệt các dạng đột biến gene, phân tích nguyên nhân và tìm hiểu về công nghệ DNA tái tổ hợp.",
+      "objectives": [
+        "Phân biệt được các dạng đột biến gene (mất, thêm, thay thế cặp nucleotide).",
+        "Phân tích được nguyên nhân, cơ chế phát sinh đột biến gene.",
+        "Trình bày được nguyên lí và một số thành tựu của công nghệ DNA tái tổ hợp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Nhiễm sắc thể và đột biến nhiễm sắc thể": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Mô tả cấu trúc nhiễm sắc thể và phân biệt các dạng đột biến cấu trúc, số lượng nhiễm sắc thể.",
+      "objectives": [
+        "Mô tả được cấu trúc siêu hiển vi của nhiễm sắc thể.",
+        "Phân biệt được các dạng đột biến cấu trúc (mất, lặp, đảo, chuyển đoạn) và số lượng nhiễm sắc thể (lệch bội, đa bội).",
+        "Phân tích được nguyên nhân, cơ chế phát sinh và vai trò của đột biến nhiễm sắc thể."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Di truyền học Mendel và mở rộng học thuyết Mendel": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Giải thích các quy luật di truyền của Mendel và các hiện tượng tương tác gene.",
+      "objectives": [
+        "Giải thích được quy luật phân li và phân li độc lập của Mendel.",
+        "Trình bày được cơ sở tế bào học của các quy luật Mendel.",
+        "Phân tích được các hiện tượng tương tác gene (trội không hoàn toàn, đồng trội, tương tác bổ sung, át chế)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Các quy luật di truyền của Morgan và di truyền giới tính": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Phân tích cơ chế xác định giới tính và các hiện tượng di truyền liên kết với giới tính, liên kết gene, hoán vị gene.",
+      "objectives": [
+        "Phân tích được cơ chế di truyền xác định giới tính.",
+        "Trình bày được thí nghiệm và giải thích được hiện tượng di truyền liên kết với giới tính.",
+        "Phân tích được cơ sở tế bào học và ý nghĩa của liên kết gene và hoán vị gene."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Mối quan hệ giữa kiểu gene – kiểu hình – môi trường": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Phân tích sự tương tác giữa kiểu gene và môi trường trong việc hình thành kiểu hình.",
+      "objectives": [
+        "Phân tích được sự tương tác giữa kiểu gene và môi trường để hình thành kiểu hình.",
+        "Nêu được khái niệm mức phản ứng và thường biến."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Di truyền quần thể": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Trình bày các đặc trưng di truyền của quần thể và vận dụng định luật Hardy-Weinberg.",
+      "objectives": [
+        "Trình bày được các đặc trưng di truyền của quần thể (tần số allele, tần số kiểu gene).",
+        "Phân tích được cấu trúc di truyền của quần thể tự thụ phấn và giao phối gần.",
+        "Phát biểu và vận dụng được định luật Hardy-Weinberg cho quần thể ngẫu phối."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Di truyền học người": {
+      "chapter": "DI TRUYỀN HỌC",
+      "content": "Nêu một số phương pháp nghiên cứu di truyền người và giải thích cơ sở của y học tư vấn, liệu pháp gene.",
+      "objectives": [
+        "Nêu được một số phương pháp nghiên cứu di truyền người (phả hệ, trẻ đồng sinh, tế bào học).",
+        "Giải thích được cơ sở của y học tư vấn và liệu pháp gene."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Các bằng chứng tiến hoá": {
+      "chapter": "TIẾN HOÁ",
+      "content": "Trình bày các bằng chứng tiến hóa từ các lĩnh vực khác nhau như hóa thạch, giải phẫu so sánh, sinh học phân tử.",
+      "objectives": [
+        "Trình bày được các bằng chứng tiến hoá: hoá thạch, giải phẫu so sánh, sinh học phân tử, sinh học tế bào, phôi sinh học so sánh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Thuyết tiến hoá tổng hợp hiện đại": {
+      "chapter": "TIẾN HOÁ",
+      "content": "Trình bày và phân tích vai trò của các nhân tố tiến hóa trong việc làm thay đổi vốn gene của quần thể.",
+      "objectives": [
+        "Trình bày được các nhân tố tiến hoá: đột biến, di - nhập gene, chọn lọc tự nhiên, các yếu tố ngẫu nhiên, giao phối không ngẫu nhiên.",
+        "Phân tích được vai trò của các nhân tố tiến hoá đối với vốn gene của quần thể."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Sự phát sinh sự sống": {
+      "chapter": "TIẾN HOÁ",
+      "content": "Trình bày các giai đoạn của quá trình phát sinh sự sống trên Trái Đất, từ tiến hóa hóa học đến tiến hóa sinh học.",
+      "objectives": [
+        "Trình bày được các giai đoạn của quá trình phát sinh sự sống trên Trái Đất (tiến hoá hoá học, tiến hoá tiền sinh học, tiến hoá sinh học)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Môi trường và các nhân tố sinh thái": {
+      "chapter": "SINH THÁI HỌC VÀ MÔI TRƯỜNG",
+      "content": "Phân biệt các loại nhân tố sinh thái và trình bày các quy luật tác động của chúng lên sinh vật.",
+      "objectives": [
+        "Phân biệt được các loại nhân tố sinh thái (vô sinh, hữu sinh).",
+        "Trình bày được các quy luật tác động của các nhân tố sinh thái (giới hạn sinh thái, ổ sinh thái)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Quần thể sinh vật": {
+      "chapter": "SINH THÁI HỌC VÀ MÔI TRƯỜNG",
+      "content": "Trình bày các đặc trưng cơ bản của quần thể và phân tích các yếu tố ảnh hưởng đến kích thước quần thể.",
+      "objectives": [
+        "Trình bày được các đặc trưng cơ bản của quần thể (kích thước, mật độ, tỉ lệ giới tính, nhóm tuổi, phân bố).",
+        "Phân tích được các yếu tố ảnh hưởng đến kích thước của quần thể."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Quần xã sinh vật": {
+      "chapter": "SINH THÁI HỌC VÀ MÔI TRƯỜNG",
+      "content": "Trình bày các đặc trưng cơ bản của quần xã và phân tích các mối quan hệ giữa các loài trong quần xã.",
+      "objectives": [
+        "Trình bày được các đặc trưng cơ bản của quần xã (độ đa dạng, thành phần loài, phân bố).",
+        "Phân tích được các mối quan hệ giữa các loài trong quần xã (cạnh tranh, cộng sinh, hội sinh, kí sinh, ức chế - cảm nhiễm)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 25. Hệ sinh thái": {
+      "chapter": "SINH THÁI HỌC VÀ MÔI TRƯỜNG",
+      "content": "Trình bày các thành phần của hệ sinh thái, mô tả chuỗi thức ăn, lưới thức ăn và các chu trình sinh địa hóa.",
+      "objectives": [
+        "Trình bày được các thành phần của một hệ sinh thái.",
+        "Mô tả được chuỗi thức ăn, lưới thức ăn và tháp sinh thái.",
+        "Trình bày được các chu trình sinh địa hoá (Carbon, Nitrogen, Phosphorus)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 28. Phát triển bền vững": {
+      "chapter": "SINH THÁI HỌC VÀ MÔI TRƯỜNG",
+      "content": "Nêu khái niệm phát triển bền vững và phân tích vai trò của việc bảo vệ đa dạng sinh học và hệ sinh thái.",
+      "objectives": [
+        "Nêu được khái niệm phát triển bền vững.",
+        "Phân tích được vai trò của việc bảo vệ đa dạng sinh học và các hệ sinh thái đối với phát triển bền vững."
+      ],
+      "common_exercises": []
+    }
+  }
+}

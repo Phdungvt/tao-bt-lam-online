@@ -1,0 +1,131 @@
+
+{
+  "6": {
+    "Chủ đề: Quy tắc ứng xử trong gia đình và trường học": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Nghiên cứu các quy tắc ứng xử cơ bản trong gia đình và môi trường học đường.",
+      "objectives": [
+        "Trình bày được các quy tắc ứng xử trong gia đình và trường học.",
+        "Phân tích được ý nghĩa của việc tuân thủ quy tắc ứng xử.",
+        "Hiểu được trách nhiệm cá nhân trong việc xây dựng môi trường tốt đẹp.",
+        "Liên hệ thực tiễn về ứng xử với bạn bè."
+      ],
+      "common_exercises": [
+        "Phân tích một tình huống ứng xử tốt trong lớp học.",
+        "Thảo luận về vai trò của quy tắc trong gia đình.",
+        "Liên hệ thực tiễn về giúp đỡ bạn bè ở trường."
+      ]
+    },
+    "Chuyên đề: Tôn trọng bản thân và người khác": {
+      "chapter": "GIÁO DỤC NHÂN ÁI",
+      "content": "Tìm hiểu giá trị tôn trọng bản thân và người khác trong cuộc sống.",
+      "objectives": [
+        "Trình bày được khái niệm tôn trọng bản thân và người khác.",
+        "Phân tích được biểu hiện của sự tôn trọng trong giao tiếp.",
+        "Hiểu được lợi ích của việc tôn trọng người khác.",
+        "Liên hệ thực tiễn về ứng xử với người lớn tuổi."
+      ],
+      "common_exercises": [
+        "Phân tích một ví dụ về sự tôn trọng trong lớp học.",
+        "Thảo luận về cách tôn trọng bạn bè khác biệt.",
+        "Đánh giá hành vi tôn trọng trong gia đình."
+      ]
+    }
+  },
+  "7": {
+    "Chủ đề: Trách nhiệm với bản thân và cộng đồng": {
+      "chapter": "GIÁO DỤC TRÁCH NHIỆM",
+      "content": "Nghiên cứu trách nhiệm cá nhân trong học tập và tham gia cộng đồng.",
+      "objectives": [
+        "Trình bày được khái niệm trách nhiệm cá nhân.",
+        "Phân tích được vai trò của trách nhiệm trong học tập.",
+        "Hiểu được ý nghĩa của việc tham gia cộng đồng.",
+        "Liên hệ thực tiễn về tham gia hoạt động tập thể."
+      ],
+      "common_exercises": [
+        "Phân tích trách nhiệm học tập của học sinh.",
+        "Thảo luận về vai trò trong một nhóm hoạt động.",
+        "Liên hệ thực tiễn về tham gia dọn vệ sinh trường học."
+      ]
+    },
+    "Chuyên đề: Bảo vệ môi trường": {
+      "chapter": "GIÁO DỤC MÔI TRƯỜNG",
+      "content": "Tìm hiểu trách nhiệm bảo vệ môi trường và hành động cụ thể.",
+      "objectives": [
+        "Trình bày được khái niệm bảo vệ môi trường.",
+        "Phân tích được tác động của rác thải đến môi trường.",
+        "Hiểu được trách nhiệm của học sinh trong bảo vệ môi trường.",
+        "Liên hệ thực tiễn về phân loại rác tại trường."
+      ],
+      "common_exercises": [
+        "Phân tích tác động của nhựa dùng một lần.",
+        "Thảo luận về biện pháp giảm rác thải ở trường.",
+        "Đánh giá hiệu quả của phân loại rác."
+      ]
+    }
+  },
+  "8": {
+    "Chủ đề: Quyền và nghĩa vụ cơ bản của học sinh": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Nghiên cứu các quyền và nghĩa vụ cơ bản của học sinh theo quy định.",
+      "objectives": [
+        "Trình bày được các quyền và nghĩa vụ của học sinh.",
+        "Phân tích được ý nghĩa của việc thực hiện nghĩa vụ.",
+        "Hiểu được trách nhiệm tuân thủ quy định trường học.",
+        "Liên hệ thực tiễn về quyền học tập."
+      ],
+      "common_exercises": [
+        "Phân tích một quyền cụ thể của học sinh.",
+        "Thảo luận về trách nhiệm giữ gìn tài sản trường học.",
+        "Liên hệ thực tiễn về tham gia lớp học."
+      ]
+    },
+    "Chuyên đề: Phòng chống bạo lực học đường": {
+      "chapter": "GIÁO DỤC AN NINH",
+      "content": "Tìm hiểu nguyên nhân và biện pháp phòng chống bạo lực học đường.",
+      "objectives": [
+        "Trình bày được khái niệm bạo lực học đường.",
+        "Phân tích được nguyên nhân dẫn đến bạo lực học đường.",
+        "Hiểu được vai trò của học sinh trong phòng chống bạo lực.",
+        "Liên hệ thực tiễn về xây dựng môi trường học đường an toàn."
+      ],
+      "common_exercises": [
+        "Phân tích một tình huống bạo lực học đường.",
+        "Thảo luận về vai trò của giáo viên trong phòng chống bạo lực.",
+        "Đánh giá biện pháp giảm thiểu xung đột."
+      ]
+    }
+  },
+  "9": {
+    "Chủ đề: Tinh thần yêu nước và trách nhiệm xã hội": {
+      "chapter": "GIÁO DỤC TỔ QUỐC",
+      "content": "Nghiên cứu tinh thần yêu nước và trách nhiệm với xã hội của học sinh.",
+      "objectives": [
+        "Trình bày được khái niệm tinh thần yêu nước.",
+        "Phân tích được biểu hiện của tinh thần yêu nước ở lứa tuổi học sinh.",
+        "Hiểu được trách nhiệm tham gia các hoạt động xã hội.",
+        "Liên hệ thực tiễn về bảo vệ tài nguyên thiên nhiên."
+      ],
+      "common_exercises": [
+        "Phân tích một ví dụ về tinh thần yêu nước.",
+        "Thảo luận về vai trò của học sinh trong bảo vệ môi trường.",
+        "Đánh giá hành động yêu nước trong cộng đồng."
+      ]
+    },
+    "Chuyên đề: Hiểu biết pháp luật cơ bản": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Tìm hiểu các quy định pháp luật cơ bản và trách nhiệm tuân thủ.",
+      "objectives": [
+        "Trình bày được khái niệm pháp luật cơ bản.",
+        "Phân tích được vai trò của pháp luật trong đời sống.",
+        "Hiểu được trách nhiệm tuân thủ pháp luật của học sinh.",
+        "Liên hệ thực tiễn về tuân thủ giao thông."
+      ],
+      "common_exercises": [
+        "Phân tích một quy định giao thông cơ bản.",
+        "Thảo luận về hậu quả của vi phạm pháp luật.",
+        "Đánh giá vai trò của pháp luật trong trường học."
+      ]
+    }
+  }
+}

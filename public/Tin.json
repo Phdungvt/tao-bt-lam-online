@@ -1,0 +1,594 @@
+
+{
+  "10": {
+    "Bài 1. Thông tin và xử lí thông tin": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Tìm hiểu về sự khác biệt giữa thông tin và dữ liệu, các đơn vị lưu trữ và ưu điểm của việc xử lí thông tin bằng thiết bị số.",
+      "objectives": [
+        "Phân biệt được thông tin và dữ liệu qua các ví dụ cụ thể.",
+        "Thực hiện chuyển đổi giữa các đơn vị lưu trữ dữ liệu (Byte, KB, MB, GB, TB).",
+        "Phân tích được sự ưu việt của việc lưu trữ, xử lí và truyền thông tin bằng thiết bị số so với các phương pháp truyền thống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Vai trò của thiết bị thông minh và tin học đối với xã hội": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Nghiên cứu vai trò của thiết bị thông minh và các thành tựu của tin học đối với xã hội hiện đại.",
+      "objectives": [
+        "Nhận biết và kể tên được một số thiết bị thông minh thông dụng (điện thoại, đồng hồ, TV thông minh).",
+        "Nêu được vai trò của thiết bị thông minh trong cuộc Cách mạng công nghiệp lần thứ tư (IoT, nhà thông minh).",
+        "Trình bày được vai trò và các thành tựu nổi bật của tin học đối với xã hội (quản lí, tự động hoá, giao tiếp cộng đồng)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Một số kiểu dữ liệu và dữ liệu văn bản": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Phân loại các kiểu dữ liệu, tìm hiểu về bảng mã ASCII, Unicode và quá trình số hoá văn bản.",
+      "objectives": [
+        "Phân loại được các loại thông tin và các kiểu dữ liệu tương ứng (số, văn bản, lôgic, hình ảnh, âm thanh).",
+        "Giải thích được sự khác biệt giữa bảng mã ASCII và Unicode.",
+        "Trình bày được quá trình số hoá văn bản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Hệ nhị phân và dữ liệu số nguyên": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Thực hành chuyển đổi số giữa hệ thập phân và hệ nhị phân, cùng các phép toán cơ bản trên số nhị phân.",
+      "objectives": [
+        "Thực hiện chuyển đổi một số nguyên dương từ hệ thập phân sang hệ nhị phân và ngược lại.",
+        "Thực hiện các phép tính cộng, nhân hai số nhị phân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Dữ liệu lôgic": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Làm quen với dữ liệu lôgic, xác định giá trị chân lí của mệnh đề và vận dụng các phép toán lôgic AND, OR, NOT.",
+      "objectives": [
+        "Xác định được giá trị chân lí (Đúng/Sai) của các mệnh đề đơn giản.",
+        "Vận dụng được các phép toán lôgic AND, OR, NOT trong các biểu thức lôgic đơn giản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Dữ liệu âm thanh và hình ảnh": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Tìm hiểu quá trình số hoá dữ liệu đa phương tiện như âm thanh và hình ảnh.",
+      "objectives": [
+        "Giải thích được quá trình số hoá âm thanh (lấy mẫu, lượng tử hoá).",
+        "Giải thích được quá trình số hoá hình ảnh (ảnh bitmap, hệ màu RGB, độ sâu màu)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Mạng máy tính trong cuộc sống hiện đại": {
+      "chapter": "MẠNG MÁY TÍNH VÀ INTERNET",
+      "content": "Phân biệt mạng LAN và Internet, phân tích vai trò của Internet và các công nghệ mới như điện toán đám mây, IoT.",
+      "objectives": [
+        "Phân biệt được sự khác biệt giữa mạng LAN và Internet về quy mô, cách kết nối và sở hữu.",
+        "Phân tích được vai trò của Internet đối với xã hội (giao tiếp, giáo dục, giải trí).",
+        "Nêu được khái niệm và lợi ích của điện toán đám mây và kết nối vạn vật (IoT)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. An toàn trên không gian mạng": {
+      "chapter": "MẠNG MÁY TÍNH VÀ INTERNET",
+      "content": "Nhận biết các nguy cơ và cách phòng vệ an toàn trên không gian mạng, bao gồm cả việc phòng chống phần mềm độc hại.",
+      "objectives": [
+        "Nêu được các nguy cơ trên mạng (tin giả, lừa đảo, lộ thông tin cá nhân, bắt nạt, nghiện mạng).",
+        "Trình bày được một số cách phòng vệ khi bị bắt nạt trên mạng.",
+        "Phân biệt được các loại phần mềm độc hại (virus, worm, trojan) và cách phòng chống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Ứng xử trên môi trường số. Nghĩa vụ tôn trọng bản quyền": {
+      "chapter": "ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ",
+      "content": "Tìm hiểu về các vấn đề đạo đức, pháp luật và nghĩa vụ tôn trọng bản quyền khi tham gia môi trường số.",
+      "objectives": [
+        "Nêu được những vấn đề đạo đức, pháp luật nảy sinh khi giao tiếp qua mạng.",
+        "Trình bày được các quy định pháp lí về việc đưa tin lên mạng.",
+        "Giải thích được khái niệm quyền tác giả và các hành vi vi phạm bản quyền sản phẩm số."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Phần mềm thiết kế đồ hoạ": {
+      "chapter": "ỨNG DỤNG TIN HỌC",
+      "content": "Làm quen với phần mềm thiết kế đồ hoạ, phân biệt đồ hoạ vectơ và điểm ảnh, và thực hành vẽ các hình khối cơ bản.",
+      "objectives": [
+        "Phân biệt được đồ hoạ vectơ và đồ hoạ điểm ảnh.",
+        "Sử dụng được các công cụ cơ bản của Inkscape để vẽ các hình khối đơn giản (hình chữ nhật, hình tròn, ngôi sao)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Bổ sung các đối tượng đồ hoạ": {
+      "chapter": "ỨNG DỤNG TIN HỌC",
+      "content": "Học cách thiết lập màu sắc và vận dụng các phép ghép đối tượng để tạo ra các hình đồ hoạ phức tạp hơn.",
+      "objectives": [
+        "Sử dụng được hộp thoại Fill and Stroke để thiết lập màu tô, màu vẽ cho đối tượng.",
+        "Vận dụng được các phép ghép đối tượng (hợp, hiệu, giao) để tạo ra các hình phức tạp hơn."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Làm việc với đối tượng đường và văn bản": {
+      "chapter": "ỨNG DỤNG TIN HỌC",
+      "content": "Thực hành sử dụng các công cụ nâng cao để vẽ đường cong, tinh chỉnh hình dạng và làm việc với đối tượng văn bản trong thiết kế đồ hoạ.",
+      "objectives": [
+        "Sử dụng được công cụ Pen để vẽ đối tượng đường cong.",
+        "Sử dụng công cụ tinh chỉnh điểm neo để chỉnh sửa hình dạng của đối tượng đường.",
+        "Tạo và định dạng đối tượng văn bản, đặt văn bản theo một đường cong."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Ngôn ngữ lập trình bậc cao và Python": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Làm quen với ngôn ngữ lập trình Python và cách tạo, lưu, thực thi một chương trình đơn giản.",
+      "objectives": [
+        "Phân biệt được chế độ gõ lệnh trực tiếp và chế độ soạn thảo chương trình trong Python.",
+        "Tạo, lưu và thực hiện được một chương trình Python đơn giản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Biến và lệnh gán": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Tìm hiểu về biến, lệnh gán và các phép toán cơ bản trên các kiểu dữ liệu số và xâu kí tự trong Python.",
+      "objectives": [
+        "Sử dụng được lệnh gán để tạo và thay đổi giá trị của biến.",
+        "Vận dụng được các phép toán trên kiểu số nguyên, số thực và xâu kí tự."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Các lệnh vào ra đơn giản": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng các lệnh vào ra cơ bản và các lệnh chuyển đổi kiểu dữ liệu trong Python.",
+      "objectives": [
+        "Sử dụng được lệnh input() để nhập dữ liệu từ bàn phím.",
+        "Sử dụng được các lệnh int(), float(), str() để chuyển đổi giữa các kiểu dữ liệu cơ bản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Câu lệnh rẽ nhánh if": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Học cách viết biểu thức lôgic và sử dụng câu lệnh điều kiện if-else để giải các bài toán có cấu trúc rẽ nhánh.",
+      "objectives": [
+        "Viết được các biểu thức lôgic sử dụng các phép so sánh và các toán tử and, or, not.",
+        "Sử dụng được câu lệnh if-else để giải quyết các bài toán có cấu trúc rẽ nhánh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Câu lệnh lặp for": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng câu lệnh lặp for và hàm range() để giải quyết các bài toán có số lần lặp biết trước.",
+      "objectives": [
+        "Sử dụng được lệnh range() để tạo các vùng giá trị khác nhau.",
+        "Sử dụng được câu lệnh lặp for để giải quyết các bài toán có số lần lặp biết trước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Câu lệnh lặp while": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng câu lệnh lặp while để giải quyết các bài toán có số lần lặp không xác định trước.",
+      "objectives": [
+        "Sử dụng được câu lệnh lặp while để giải quyết các bài toán có số lần lặp không biết trước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22. Kiểu dữ liệu danh sách": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Làm việc với kiểu dữ liệu danh sách (list), bao gồm cách khởi tạo, truy cập và duyệt các phần tử.",
+      "objectives": [
+        "Khởi tạo và truy cập các phần tử của một danh sách.",
+        "Sử dụng được lệnh for để duyệt các phần tử của danh sách."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Một số lệnh làm việc với dữ liệu danh sách": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng các phương thức cơ bản để thao tác với danh sách như thêm, chèn, xóa phần tử.",
+      "objectives": [
+        "Sử dụng được các phương thức append(), insert(), remove(), clear() để thao tác với danh sách."
+      ],
+      "common_exercises": []
+    },
+    "Bài 24. Xâu kí tự": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Tìm hiểu cách truy cập và duyệt từng kí tự của một xâu kí tự trong Python.",
+      "objectives": [
+        "Truy cập được từng kí tự của một xâu thông qua chỉ số.",
+        "Sử dụng được lệnh for để duyệt các kí tự của một xâu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 25. Một số lệnh làm việc với xâu kí tự": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng các phương thức cơ bản để xử lý xâu kí tự như tìm kiếm, tách và nối xâu.",
+      "objectives": [
+        "Sử dụng được phương thức find() để tìm vị trí xâu con.",
+        "Sử dụng được các phương thức split() và join() để tách và nối xâu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 26. Hàm trong Python": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Học cách thiết lập một hàm tự định nghĩa và phân biệt giữa hàm có và không có giá trị trả về.",
+      "objectives": [
+        "Thiết lập được một hàm tự định nghĩa bằng từ khoá def.",
+        "Phân biệt được hàm có và không có giá trị trả về."
+      ],
+      "common_exercises": []
+    },
+    "Bài 27. Tham số của hàm": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Phân biệt tham số và đối số, và viết các chương trình có sử dụng chương trình con (hàm).",
+      "objectives": [
+        "Phân biệt được tham số và đối số của hàm.",
+        "Viết được chương trình có sử dụng chương trình con (hàm)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 28. Phạm vi của biến": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Tìm hiểu về phạm vi hoạt động của biến cục bộ và biến toàn cục trong một chương trình Python.",
+      "objectives": [
+        "Phân biệt được biến cục bộ và biến toàn cục.",
+        "Giải thích được phạm vi hoạt động của biến được khai báo trong và ngoài hàm."
+      ],
+      "common_exercises": []
+    },
+    "Bài 29. Nhận biết lỗi chương trình": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Phân biệt ba loại lỗi chương trình phổ biến: lỗi cú pháp, lỗi ngoại lệ và lỗi lôgic.",
+      "objectives": [
+        "Phân biệt được ba loại lỗi chương trình: lỗi cú pháp, lỗi ngoại lệ (lỗi khi chạy) và lỗi lôgic."
+      ],
+      "common_exercises": []
+    },
+    "Bài 30. Kiểm thử và gỡ lỗi chương trình": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Học cách sử dụng các phương pháp kiểm thử và công cụ gỡ lỗi (breakpoint) để tìm và sửa lỗi chương trình.",
+      "objectives": [
+        "Sử dụng được các phương pháp kiểm thử đơn giản (in các thông số trung gian, sử dụng các bộ dữ liệu test).",
+        "Sử dụng được công cụ điểm dừng (breakpoint) để gỡ lỗi."
+      ],
+      "common_exercises": []
+    }
+  },
+  "11": {
+    "Bài 1. Hệ điều hành": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Tìm hiểu về lịch sử phát triển và các đặc điểm chính của hệ điều hành máy tính cá nhân và thiết bị di động.",
+      "objectives": [
+        "Trình bày được lịch sử phát triển và các đặc điểm của hệ điều hành máy tính cá nhân (giao diện đồ hoạ, plug & play).",
+        "Chỉ ra được một số đặc điểm của hệ điều hành cho thiết bị di động."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Phần mềm nguồn mở và phần mềm chạy trên Internet": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "So sánh phần mềm nguồn mở và phần mềm thương mại, đồng thời tìm hiểu ưu điểm của các phần mềm chạy trên nền tảng Internet.",
+      "objectives": [
+        "So sánh được phần mềm nguồn mở với phần mềm thương mại.",
+        "Nêu được vai trò của phần mềm nguồn mở và phần mềm thương mại.",
+        "Trình bày được ưu điểm của phần mềm chạy trên Internet."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Bên trong máy tính": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Nhận diện các thiết bị phần cứng chính bên trong máy tính và giải thích vai trò của các mạch lôgic.",
+      "objectives": [
+        "Nhận diện được các thiết bị trong thân máy (CPU, RAM, ROM, ổ cứng) và chức năng của chúng.",
+        "Giải thích được vai trò của các mạch lôgic trong việc thực hiện các tính toán nhị phân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Lưu trữ và chia sẻ tệp tin trên Internet": {
+      "chapter": "TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN",
+      "content": "Thực hành sử dụng các dịch vụ lưu trữ đám mây để tải lên, quản lý và chia sẻ tệp tin.",
+      "objectives": [
+        "Sử dụng được các dịch vụ lưu trữ đám mây (Google Drive, Dropbox) để tải tệp lên, tạo thư mục và chia sẻ tệp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Thực hành nâng cao sử dụng thư điện tử và mạng xã hội": {
+      "chapter": "TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN",
+      "content": "Thực hành các tính năng nâng cao của thư điện tử và mạng xã hội như phân loại thư, tạo Fanpage và thiết lập quyền riêng tư.",
+      "objectives": [
+        "Sử dụng được tính năng Nhãn (Label) để phân loại thư điện tử trong Gmail.",
+        "Tạo được một Fanpage trên Facebook.",
+        "Thiết lập được các quyền riêng tư cơ bản trên Facebook."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Cơ sở dữ liệu": {
+      "chapter": "GIỚI THIỆU CÁC HỆ CƠ SỞ DỮ LIỆU",
+      "content": "Tìm hiểu về khái niệm và các thuộc tính cơ bản của một cơ sở dữ liệu.",
+      "objectives": [
+        "Nêu được khái niệm và các thuộc tính cơ bản của cơ sở dữ liệu (tính cấu trúc, không dư thừa, độc lập, toàn vẹn, bảo mật)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Hệ quản trị cơ sở dữ liệu và hệ cơ sở dữ liệu": {
+      "chapter": "GIỚI THIỆU CÁC HỆ CƠ SỞ DỮ LIỆU",
+      "content": "Nêu khái niệm, chức năng của hệ quản trị CSDL và phân biệt các loại hình CSDL.",
+      "objectives": [
+        "Nêu được khái niệm và các nhóm chức năng của hệ quản trị CSDL.",
+        "Phân biệt được CSDL tập trung và CSDL phân tán."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Cơ sở dữ liệu quan hệ": {
+      "chapter": "GIỚI THIỆU CÁC HỆ CƠ SỞ DỮ LIỆU",
+      "content": "Giải thích các thuật ngữ cơ bản trong CSDL quan hệ và mô tả mối liên kết dữ liệu giữa các bảng.",
+      "objectives": [
+        "Giải thích được các thuật ngữ: bản ghi, trường, khoá chính, khoá ngoài.",
+        "Mô tả được mối liên kết dữ liệu giữa các bảng thông qua khoá ngoài."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. SQL - Ngôn ngữ truy vấn có cấu trúc": {
+      "chapter": "GIỚI THIỆU CÁC HỆ CƠ SỞ DỮ LIỆU",
+      "content": "Sử dụng các câu lệnh SQL cơ bản để tạo lập, cập nhật và truy xuất dữ liệu từ CSDL.",
+      "objectives": [
+        "Sử dụng được câu lệnh CREATE DATABASE và CREATE TABLE để tạo lập CSDL và bảng.",
+        "Sử dụng được các câu lệnh INSERT, UPDATE, DELETE để cập nhật dữ liệu.",
+        "Sử dụng được câu lệnh SELECT...FROM...WHERE để truy xuất dữ liệu từ một bảng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Bảo mật và an toàn hệ cơ sở dữ liệu": {
+      "chapter": "GIỚI THIỆU CÁC HỆ CƠ SỞ DỮ LIỆU",
+      "content": "Tìm hiểu các biện pháp bảo mật và sự cần thiết của việc sao lưu dữ liệu định kỳ để đảm bảo an toàn cho hệ CSDL.",
+      "objectives": [
+        "Trình bày được các biện pháp bảo mật hệ CSDL (phân quyền, giám sát).",
+        "Giải thích được sự cần thiết của việc sao lưu dữ liệu định kì."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Thực hành xác định cấu trúc bảng và các trường khoá": {
+      "chapter": "THỰC HÀNH TẠO VÀ KHAI THÁC CƠ SỞ DỮ LIỆU",
+      "content": "Thực hành thiết kế cấu trúc CSDL cho một bài toán quản lí đơn giản, bao gồm việc xác định các bảng và trường khoá.",
+      "objectives": [
+        "Xác định được các bảng dữ liệu, cấu trúc và các trường khoá cho một bài toán quản lí đơn giản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Thực hành tạo lập cơ sở dữ liệu và các bảng": {
+      "chapter": "THỰC HÀNH TẠO VÀ KHAI THÁC CƠ SỞ DỮ LIỆU",
+      "content": "Thực hành sử dụng phần mềm HeidiSQL để tạo lập CSDL và các bảng, đồng thời chỉ định khoá chính và các ràng buộc.",
+      "objectives": [
+        "Sử dụng được HeidiSQL để tạo lập CSDL và các bảng không có khoá ngoài.",
+        "Chỉ định được khoá chính và khoá cấm trùng lặp cho bảng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Thực hành tạo lập các bảng có khoá ngoài": {
+      "chapter": "THỰC HÀNH TẠO VÀ KHAI THÁC CƠ SỞ DỮ LIỆU",
+      "content": "Thực hành sử dụng HeidiSQL để tạo các bảng có khoá ngoài và thiết lập mối quan hệ tham chiếu giữa chúng.",
+      "objectives": [
+        "Sử dụng được HeidiSQL để tạo các bảng có khoá ngoài và khai báo tham chiếu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Thực hành cập nhật và truy xuất dữ liệu các bảng": {
+      "chapter": "THỰC HÀNH TẠO VÀ KHAI THÁC CƠ SỞ DỮ LIỆU",
+      "content": "Thực hành các thao tác cơ bản trên dữ liệu như thêm, sửa, xoá, sắp xếp và lọc dữ liệu trong HeidiSQL.",
+      "objectives": [
+        "Sử dụng được HeidiSQL để thêm, sửa, xoá dữ liệu trong bảng.",
+        "Thực hiện được các thao tác truy xuất dữ liệu đơn giản (sắp xếp, lọc)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Thực hành truy xuất dữ liệu qua liên kết các bảng": {
+      "chapter": "THỰC HÀNH TẠO VÀ KHAI THÁC CƠ SỞ DỮ LIỆU",
+      "content": "Thực hành sử dụng câu lệnh SELECT với mệnh đề INNER JOIN để truy xuất dữ liệu từ nhiều bảng có liên kết với nhau.",
+      "objectives": [
+        "Sử dụng được câu lệnh SELECT với mệnh đề INNER JOIN để truy xuất dữ liệu từ nhiều bảng liên kết."
+      ],
+      "common_exercises": []
+    },
+    "Bài 25. Phần mềm chỉnh sửa ảnh": {
+      "chapter": "PHẦN MỀM CHỈNH SỬA ẢNH VÀ LÀM VIDEO",
+      "content": "Thực hành các thao tác chỉnh sửa ảnh cơ bản như phóng to, thu nhỏ, xoay và cắt ảnh bằng phần mềm GIMP.",
+      "objectives": [
+        "Thực hiện được các thao tác cơ bản với ảnh: phóng to, thu nhỏ, xoay, cắt ảnh bằng phần mềm GIMP."
+      ],
+      "common_exercises": []
+    },
+    "Bài 26. Công cụ tinh chỉnh màu sắc và công cụ chọn": {
+      "chapter": "PHẦN MỀM CHỈNH SỬA ẢNH VÀ LÀM VIDEO",
+      "content": "Học cách sử dụng các công cụ tinh chỉnh màu sắc và các công cụ chọn vùng để xử lí một phần của ảnh trong GIMP.",
+      "objectives": [
+        "Sử dụng được các công cụ chỉnh độ sáng, độ tương phản, cân bằng màu, sắc độ.",
+        "Sử dụng được các công cụ chọn vùng (chữ nhật, elip, tự do) để xử lí một phần của ảnh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 28. Tạo ảnh động": {
+      "chapter": "PHẦN MỀM CHỈNH SỬA ẢNH VÀ LÀM VIDEO",
+      "content": "Thực hành tạo một ảnh động (GIF) đơn giản từ các lớp ảnh bằng phần mềm GIMP.",
+      "objectives": [
+        "Tạo được một ảnh động đơn giản từ các lớp ảnh bằng GIMP."
+      ],
+      "common_exercises": []
+    },
+    "Bài 30. Biên tập phim": {
+      "chapter": "PHẦN MỀM CHỈNH SỬA ẢNH VÀ LÀM VIDEO",
+      "content": "Thực hành các thao tác biên tập video cơ bản như cắt, ghép, thêm hiệu ứng, âm thanh và phụ đề.",
+      "objectives": [
+        "Thực hiện được các thao tác biên tập video cơ bản: cắt, ghép, thêm hiệu ứng chuyển cảnh, chèn âm thanh, phụ đề."
+      ],
+      "common_exercises": []
+    }
+  },
+  "12": {
+    "Bài 1. Làm quen với Trí tuệ nhân tạo": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Tìm hiểu khái niệm, các đặc trưng cơ bản và các ứng dụng tiêu biểu của Trí tuệ nhân tạo (AI).",
+      "objectives": [
+        "Giải thích được sơ lược khái niệm Trí tuệ nhân tạo (AI).",
+        "Nêu được các đặc trưng cơ bản của AI (khả năng học, suy luận, nhận thức, hiểu ngôn ngữ, giải quyết vấn đề).",
+        "Nêu được ví dụ về các ứng dụng của AI (hệ chuyên gia, robot, dịch tự động, nhận dạng khuôn mặt, trợ lí ảo)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Trí tuệ nhân tạo trong khoa học và đời sống": {
+      "chapter": "MÁY TÍNH VÀ XÃ HỘI TRI THỨC",
+      "content": "Chỉ ra các lĩnh vực phát triển nhờ AI và nêu lên một số cảnh báo về sự phát triển của công nghệ này.",
+      "objectives": [
+        "Chỉ ra được một số lĩnh vực phát triển mạnh mẽ nhờ ứng dụng của AI (y học, giao thông, tài chính, sản xuất, giáo dục).",
+        "Nêu được một số cảnh báo về sự phát triển của AI (áp lực thất nghiệp, quyền riêng tư, rủi ro an ninh)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Một số thiết bị mạng thông dụng": {
+      "chapter": "MẠNG MÁY TÍNH VÀ INTERNET",
+      "content": "So sánh và giải thích chức năng của các thiết bị mạng thông dụng như Hub, Switch, Router, Modem và WAP.",
+      "objectives": [
+        "So sánh được chức năng của Hub và Switch.",
+        "Giải thích được chức năng của Router và ý nghĩa của việc định tuyến.",
+        "Nêu được chức năng của Modem và WAP (Điểm truy cập không dây)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Giao thức mạng": {
+      "chapter": "MẠNG MÁY TÍNH VÀ INTERNET",
+      "content": "Giải thích vai trò của giao thức mạng và mô tả chức năng của hai giao thức cốt lõi là IP và TCP.",
+      "objectives": [
+        "Giải thích được vai trò của giao thức mạng.",
+        "Mô tả được chức năng của giao thức IP (địa chỉ IP, định tuyến).",
+        "Mô tả được chức năng của giao thức TCP (đảm bảo truyền dữ liệu tin cậy)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. HTML và cấu trúc trang web": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Làm quen với HTML, giải thích cấu trúc cơ bản của một tệp HTML và phân biệt các khái niệm thẻ, phần tử.",
+      "objectives": [
+        "Giải thích được cấu trúc cơ bản của một tệp HTML (<html>, <head>, <body>).",
+        "Phân biệt được thẻ HTML và phần tử HTML."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Định dạng văn bản": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng các thẻ HTML cơ bản để tạo tiêu đề, đoạn văn và định dạng kiểu chữ cho trang web.",
+      "objectives": [
+        "Sử dụng được các thẻ tiêu đề (<h1>-<h6>) và thẻ đoạn văn bản (<p>).",
+        "Sử dụng được các thẻ định dạng kiểu chữ (<strong>, <em>, <u>, <mark>)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Tạo danh sách, bảng": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng các thẻ HTML để tạo danh sách có thứ tự, không có thứ tự và các bảng dữ liệu đơn giản, bao gồm cả việc gộp ô.",
+      "objectives": [
+        "Tạo được danh sách có thứ tự (<ol>) và không có thứ tự (<ul>).",
+        "Tạo được một bảng đơn giản bằng các thẻ <table>, <tr>, <th>, <td>.",
+        "Sử dụng được thuộc tính rowspan và colspan để gộp ô trong bảng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Tạo liên kết": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Học cách tạo liên kết (hyperlink) trong HTML, phân biệt đường dẫn tuyệt đối và tương đối.",
+      "objectives": [
+        "Phân biệt được đường dẫn tuyệt đối và tương đối.",
+        "Sử dụng được thẻ <a> để tạo liên kết đến một trang web khác hoặc một vị trí trong cùng trang."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Chèn tệp tin đa phương tiện và khung nội tuyến vào trang web": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng các thẻ HTML để chèn ảnh, video, âm thanh và các nội dung từ trang web khác vào trang của bạn.",
+      "objectives": [
+        "Sử dụng được thẻ <img> để chèn ảnh vào trang web.",
+        "Sử dụng được các thẻ <video> và <audio> để chèn video và âm thanh.",
+        "Sử dụng được thẻ <iframe> để tạo khung nội tuyến."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Tạo biểu mẫu": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Học cách sử dụng các thẻ HTML để tạo biểu mẫu (form) thu thập dữ liệu từ người dùng.",
+      "objectives": [
+        "Sử dụng được thẻ <form> để tạo biểu mẫu.",
+        "Sử dụng được các phần tử <input> (text, password, radio, checkbox, submit), <select>, <textarea> để thu thập dữ liệu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Khái niệm, vai trò của CSS": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Tìm hiểu vai trò của CSS trong việc định dạng giao diện trang web và phân biệt các cách thiết lập CSS.",
+      "objectives": [
+        "Giải thích được vai trò của CSS trong việc định dạng trang web.",
+        "Phân biệt được ba cách thiết lập CSS (trong, ngoài, nội tuyến)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Định dạng văn bản bằng CSS": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng các thuộc tính CSS để định dạng phông chữ và các dòng văn bản trên trang web.",
+      "objectives": [
+        "Sử dụng được các thuộc tính CSS để định dạng phông chữ (font-family, font-size, font-style, font-weight).",
+        "Sử dụng được các thuộc tính CSS để định dạng dòng văn bản (line-height, text-align, text-decoration)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Tạo màu cho chữ và nền": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Học cách sử dụng các hệ màu và các thuộc tính CSS để định dạng màu sắc cho chữ, nền và đường viền.",
+      "objectives": [
+        "Sử dụng được hệ màu RGB và HSL để thiết lập màu.",
+        "Sử dụng được các thuộc tính color, background-color, border để định dạng màu cho chữ, nền và viền."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Định dạng khung": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Phân biệt các loại phần tử và sử dụng các thuộc tính CSS để định dạng kích thước, khoảng cách và đường viền của các khung nội dung.",
+      "objectives": [
+        "Phân biệt được phần tử khối (block) và nội tuyến (inline).",
+        "Sử dụng được các thuộc tính CSS để định dạng khung (width, height, padding, margin, border)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Các mức ưu tiên của bộ chọn": {
+      "chapter": "GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "content": "Sử dụng các bộ chọn CSS nâng cao và giải thích các mức độ ưu tiên khi áp dụng các quy tắc định dạng.",
+      "objectives": [
+        "Sử dụng được các bộ chọn pseudo-class (ví dụ: :hover) và pseudo-element (ví dụ: ::first-line).",
+        "Giải thích được các mức độ ưu tiên khi áp dụng các quy tắc CSS."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Chuẩn bị xây dựng trang web": {
+      "chapter": "ỨNG DỤNG TIN HỌC",
+      "content": "Phân tích các bước chuẩn bị cần thiết để xây dựng một trang web, từ ý tưởng đến thiết kế và lựa chọn nền tảng.",
+      "objectives": [
+        "Phân tích được các bước chuẩn bị để xây dựng một trang web (định hình ý tưởng, thiết kế, lựa chọn nền tảng)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 24. Xây dựng phần đầu trang web": {
+      "chapter": "ỨNG DỤNG TIN HỌC",
+      "content": "Thực hành sử dụng công cụ Google Sites để tạo và tùy chỉnh phần đầu trang (header) của một trang web.",
+      "objectives": [
+        "Sử dụng được công cụ Google Sites để tạo và tùy chỉnh phần đầu trang (header) của trang web."
+      ],
+      "common_exercises": []
+    },
+    "Bài 25. Xây dựng phần thân và chân trang web": {
+      "chapter": "ỨNG DỤNG TIN HỌC",
+      "content": "Thực hành sử dụng Google Sites để thêm các khối nội dung vào phần thân và tùy chỉnh phần chân trang (footer).",
+      "objectives": [
+        "Sử dụng được Google Sites để thêm các khối nội dung vào phần thân và tùy chỉnh phần chân trang (footer)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 26. Liên kết và thanh điều hướng": {
+      "chapter": "ỨNG DỤNG TIN HỌC",
+      "content": "Thực hành sử dụng Google Sites để tạo các trang con và thiết lập thanh điều hướng để liên kết giữa các trang.",
+      "objectives": [
+        "Sử dụng được Google Sites để tạo các trang con và thiết lập thanh điều hướng để liên kết giữa các trang."
+      ],
+      "common_exercises": []
+    }
+  }
+}

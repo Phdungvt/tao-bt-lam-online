@@ -1,0 +1,566 @@
+
+{
+  "10": {
+    "Bài 1. Khái quát về môn Vật lí": {
+      "chapter": "MỞ ĐẦU",
+      "content": "Tìm hiểu về đối tượng, mục tiêu, phương pháp nghiên cứu của Vật lí và ảnh hưởng của nó đến đời sống, khoa học và công nghệ.",
+      "objectives": [
+        "Nêu được đối tượng, mục tiêu và phương pháp nghiên cứu của Vật lí.",
+        "Phân tích được ảnh hưởng của Vật lí đối với đời sống, khoa học, công nghệ và kĩ thuật.",
+        "Sơ đồ hoá được quá trình tìm hiểu thế giới tự nhiên dưới góc độ vật lí."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Vấn đề an toàn trong Vật lí": {
+      "chapter": "MỞ ĐẦU",
+      "content": "Nghiên cứu các quy tắc an toàn trong phòng thí nghiệm, ý nghĩa các biển báo, và tác động của các yếu tố vật lí như phóng xạ.",
+      "objectives": [
+        "Nêu được các quy tắc an toàn chung khi học tập và nghiên cứu trong phòng thí nghiệm.",
+        "Nhận biết và giải thích ý nghĩa của các biển báo an toàn trong phòng thí nghiệm.",
+        "Phân tích được tác hại và lợi ích của các yếu tố vật lí như phóng xạ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Đơn vị và sai số trong Vật lí": {
+      "chapter": "MỞ ĐẦU",
+      "content": "Tìm hiểu về hệ đơn vị SI, cách xác định và tính toán sai số hệ thống, sai số ngẫu nhiên trong các phép đo vật lí.",
+      "objectives": [
+        "Phân biệt được đơn vị cơ bản và đơn vị dẫn xuất trong hệ SI.",
+        "Phân tích được thứ nguyên của một đại lượng vật lí.",
+        "Xác định được sai số hệ thống và sai số ngẫu nhiên trong phép đo.",
+        "Tính toán và biểu diễn được kết quả phép đo kèm theo sai số."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Chuyển động thẳng": {
+      "chapter": "MÔ TẢ CHUYỂN ĐỘNG",
+      "content": "Nghiên cứu về chuyển động thẳng, phân biệt quãng đường và độ dịch chuyển, tính toán tốc độ và vận tốc, và phân tích đồ thị d-t.",
+      "objectives": [
+        "Phân biệt được quãng đường đi được và độ dịch chuyển.",
+        "Tính được tốc độ trung bình và vận tốc trung bình.",
+        "Vẽ và phân tích được đồ thị độ dịch chuyển – thời gian (d-t).",
+        "Xác định được vận tốc tức thời từ độ dốc của đồ thị (d-t)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Chuyển động tổng hợp": {
+      "chapter": "MÔ TẢ CHUYỂN ĐỘNG",
+      "content": "Giải thích tính tương đối của chuyển động và áp dụng công thức cộng vận tốc để giải các bài toán liên quan.",
+      "objectives": [
+        "Giải thích được tính tương đối của chuyển động.",
+        "Vận dụng được công thức cộng vận tốc để giải các bài toán chuyển động tổng hợp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Thực hành đo tốc độ của vật chuyển động thẳng": {
+      "chapter": "MÔ TẢ CHUYỂN ĐỘNG",
+      "content": "Thực hành thiết kế và thực hiện thí nghiệm đo tốc độ tức thời và tốc độ trung bình bằng các thiết bị hiện đại.",
+      "objectives": [
+        "Thiết kế và thực hiện được phương án thí nghiệm đo tốc độ tức thời và tốc độ trung bình bằng cổng quang điện và đồng hồ đo thời gian hiện số."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Gia tốc – Chuyển động thẳng biến đổi đều": {
+      "chapter": "CHUYỂN ĐỘNG BIẾN ĐỔI",
+      "content": "Nghiên cứu về gia tốc và chuyển động thẳng biến đổi đều, phân tích đồ thị v-t và vận dụng các công thức liên quan.",
+      "objectives": [
+        "Nêu được khái niệm, công thức, ý nghĩa và đơn vị của gia tốc.",
+        "Vẽ và phân tích được đồ thị vận tốc – thời gian (v-t).",
+        "Vận dụng được các công thức của chuyển động thẳng biến đổi đều: v = v₀ + at; d = v₀t + ½at²; v² - v₀² = 2ad."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Thực hành đo gia tốc rơi tự do": {
+      "chapter": "CHUYỂN ĐỘNG BIẾN ĐỔI",
+      "content": "Thực hành thiết kế và thực hiện thí nghiệm đo gia tốc rơi tự do bằng cổng quang điện và đồng hồ đo thời gian.",
+      "objectives": [
+        "Thiết kế và thực hiện được phương án thí nghiệm đo gia tốc rơi tự do bằng cổng quang điện và đồng hồ đo thời gian hiện số."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Chuyển động ném": {
+      "chapter": "CHUYỂN ĐỘNG BIẾN ĐỔI",
+      "content": "Phân tích chuyển động ném ngang thành hai thành phần và lập các phương trình mô tả quỹ đạo, thời gian và tầm xa.",
+      "objectives": [
+        "Phân tích được chuyển động ném ngang thành hai thành phần: chuyển động thẳng đều theo phương ngang và rơi tự do theo phương thẳng đứng.",
+        "Lập và vận dụng được các phương trình mô tả quỹ đạo, thời gian rơi và tầm xa của vật được ném ngang."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Ba định luật Newton về chuyển động": {
+      "chapter": "BA ĐỊNH LUẬT NEWTON. MỘT SỐ LỰC TRONG THỰC TIỄN",
+      "content": "Tìm hiểu và vận dụng ba định luật Newton về chuyển động để giải thích các hiện tượng cơ học, bao gồm khái niệm quán tính.",
+      "objectives": [
+        "Phát biểu và vận dụng được định luật I, II, III Newton.",
+        "Giải thích được khái niệm quán tính và mối liên hệ giữa khối lượng với mức quán tính."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Một số lực trong thực tiễn": {
+      "chapter": "BA ĐỊNH LUẬT NEWTON. MỘT SỐ LỰC TRONG THỰC TIỄN",
+      "content": "Mô tả và vận dụng các đặc điểm của các lực quen thuộc như trọng lực, lực ma sát, lực căng dây và lực đẩy Archimedes.",
+      "objectives": [
+        "Mô tả và vận dụng được các đặc điểm của trọng lực, lực ma sát (nghỉ, trượt, lăn), lực căng dây, lực đẩy Archimedes.",
+        "Vận dụng được biểu thức tính độ chênh lệch áp suất trong chất lỏng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Chuyển động của vật trong chất lưu": {
+      "chapter": "BA ĐỊNH LUẬT NEWTON. MỘT SỐ LỰC TRONG THỰC TIỄN",
+      "content": "Nghiên cứu các giai đoạn của chuyển động rơi trong chất lưu khi có lực cản và sự phụ thuộc của lực cản vào hình dạng vật.",
+      "objectives": [
+        "Mô tả được các giai đoạn của chuyển động rơi trong chất lưu khi có lực cản.",
+        "Giải thích được sự phụ thuộc của lực cản không khí vào hình dạng vật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Tổng hợp lực – Phân tích lực": {
+      "chapter": "MOMENT LỰC. ĐIỀU KIỆN CÂN BẰNG",
+      "content": "Tìm hiểu và vận dụng các quy tắc tổng hợp lực (hình bình hành, đa giác lực) và phân tích một lực thành các thành phần.",
+      "objectives": [
+        "Vận dụng được quy tắc hình bình hành, tam giác lực, đa giác lực để tổng hợp các lực đồng quy.",
+        "Vận dụng được quy tắc tổng hợp hai lực song song cùng chiều.",
+        "Phân tích được một lực thành hai thành phần vuông góc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Moment lực. Điều kiện cân bằng của vật": {
+      "chapter": "MOMENT LỰC. ĐIỀU KIỆN CÂN BẰNG",
+      "content": "Nghiên cứu về moment lực, ngẫu lực và các điều kiện cân bằng của một vật rắn chịu tác dụng của các lực.",
+      "objectives": [
+        "Nêu được khái niệm moment lực, moment ngẫu lực.",
+        "Vận dụng được quy tắc moment lực.",
+        "Nêu và vận dụng được điều kiện cân bằng của vật rắn (tổng lực bằng không và tổng moment lực bằng không)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Năng lượng và công": {
+      "chapter": "NĂNG LƯỢNG",
+      "content": "Phát biểu và vận dụng định luật bảo toàn năng lượng, cùng với công thức tính công của một lực không đổi.",
+      "objectives": [
+        "Phát biểu và vận dụng được định luật bảo toàn năng lượng.",
+        "Vận dụng được công thức tính công của một lực không đổi: A = F.d.cosθ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Công suất - Hiệu suất": {
+      "chapter": "NĂNG LƯỢNG",
+      "content": "Tìm hiểu và vận dụng các công thức để tính toán công suất và hiệu suất trong các quá trình vật lí.",
+      "objectives": [
+        "Vận dụng được các công thức tính công suất và hiệu suất."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Động năng và thế năng. Định luật bảo toàn cơ năng": {
+      "chapter": "NĂNG LƯỢNG",
+      "content": "Nghiên cứu về động năng, các loại thế năng (trọng trường, đàn hồi) và định luật bảo toàn cơ năng.",
+      "objectives": [
+        "Vận dụng được các công thức tính động năng, thế năng trọng trường, thế năng đàn hồi.",
+        "Phát biểu và vận dụng được định luật bảo toàn cơ năng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Động lượng và định luật bảo toàn động lượng": {
+      "chapter": "ĐỘNG LƯỢNG",
+      "content": "Nghiên cứu về khái niệm động lượng và định luật bảo toàn động lượng cho hệ kín.",
+      "objectives": [
+        "Nêu được khái niệm động lượng và mối liên hệ giữa động lượng với lực.",
+        "Phát biểu và vận dụng được định luật bảo toàn động lượng cho hệ kín."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Các loại va chạm": {
+      "chapter": "ĐỘNG LƯỢNG",
+      "content": "Phân biệt và vận dụng các định luật bảo toàn năng lượng và động lượng cho hai loại va chạm chính: va chạm đàn hồi và va chạm mềm.",
+      "objectives": [
+        "Phân biệt và vận dụng được các định luật bảo toàn cho va chạm đàn hồi và va chạm mềm."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Động học của chuyển động tròn": {
+      "chapter": "CHUYỂN ĐỘNG TRÒN",
+      "content": "Mô tả và vận dụng các đại lượng đặc trưng cho chuyển động tròn đều như tốc độ góc, chu kì và tần số.",
+      "objectives": [
+        "Mô tả và vận dụng được các đại lượng đặc trưng cho chuyển động tròn đều (tốc độ góc, chu kì, tần số)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Động lực học của chuyển động tròn. Lực hướng tâm": {
+      "chapter": "CHUYỂN ĐỘNG TRÒN",
+      "content": "Nghiên cứu về động lực học của chuyển động tròn, bao gồm công thức tính gia tốc hướng tâm và vai trò của lực hướng tâm.",
+      "objectives": [
+        "Vận dụng được công thức tính gia tốc hướng tâm và lực hướng tâm.",
+        "Giải thích được vai trò của lực hướng tâm trong một số tình huống thực tế."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22. Biến dạng của vật rắn. Đặc tính của lò xo": {
+      "chapter": "BIẾN DẠNG CỦA VẬT RẮN",
+      "content": "Phân biệt các loại biến dạng của vật rắn (đàn hồi, dẻo) và mô tả các đặc tính cơ bản của một lò xo.",
+      "objectives": [
+        "Phân biệt được biến dạng đàn hồi và biến dạng dẻo.",
+        "Mô tả được các đặc tính của lò xo."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Định luật Hooke": {
+      "chapter": "BIẾN DẠNG CỦA VẬT RẮN",
+      "content": "Phát biểu và vận dụng định luật Hooke để mô tả mối quan hệ giữa lực đàn hồi và độ biến dạng của vật rắn.",
+      "objectives": [
+        "Phát biểu và vận dụng được định luật Hooke."
+      ],
+      "common_exercises": []
+    }
+  },
+  "11": {
+    "Bài 1. Mô tả dao động": {
+      "chapter": "DAO ĐỘNG",
+      "content": "Tìm hiểu các đại lượng đặc trưng cho dao động như biên độ, chu kì, tần số, tần số góc, độ lệch pha và mô tả dao động điều hoà.",
+      "objectives": [
+        "Định nghĩa được các đại lượng: biên độ, chu kì, tần số, tần số góc, độ lệch pha.",
+        "Mô tả được dao động điều hoà."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Phương trình dao động điều hoà": {
+      "chapter": "DAO ĐỘNG",
+      "content": "Nghiên cứu và vận dụng các phương trình về li độ, vận tốc, gia tốc của dao động điều hoà và mối liên hệ giữa chúng.",
+      "objectives": [
+        "Vận dụng được các phương trình về li độ, vận tốc và gia tốc của dao động điều hoà.",
+        "Giải thích được mối liên hệ giữa gia tốc và li độ trong dao động điều hoà."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Năng lượng trong dao động điều hoà": {
+      "chapter": "DAO ĐỘNG",
+      "content": "Giải thích sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà và vận dụng định luật bảo toàn cơ năng.",
+      "objectives": [
+        "Giải thích được sự chuyển hoá động năng và thế năng trong dao động điều hoà.",
+        "Vận dụng được công thức tính cơ năng và định luật bảo toàn cơ năng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Dao động tắt dần và hiện tượng cộng hưởng": {
+      "chapter": "DAO ĐỘNG",
+      "content": "Nghiên cứu về dao động tắt dần, dao động cưỡng bức và hiện tượng cộng hưởng, bao gồm lợi ích và tác hại trong thực tế.",
+      "objectives": [
+        "Giải thích được nguyên nhân gây ra dao động tắt dần.",
+        "Mô tả được hiện tượng cộng hưởng và nêu được điều kiện xảy ra cộng hưởng.",
+        "Phân tích được lợi ích và tác hại của hiện tượng cộng hưởng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Sóng và sự truyền sóng": {
+      "chapter": "SÓNG",
+      "content": "Tìm hiểu về quá trình truyền sóng, phân biệt sóng dọc và sóng ngang, và mô tả các hiện tượng phản xạ, khúc xạ, nhiễu xạ.",
+      "objectives": [
+        "Giải thích được quá trình truyền sóng là quá trình truyền năng lượng.",
+        "So sánh được sóng dọc và sóng ngang.",
+        "Mô tả được các hiện tượng phản xạ, khúc xạ, nhiễu xạ của sóng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Các đặc trưng vật lí của sóng": {
+      "chapter": "SÓNG",
+      "content": "Nghiên cứu các đặc trưng vật lí của sóng như bước sóng, biên độ, tần số, tốc độ, cường độ và phương trình sóng.",
+      "objectives": [
+        "Nêu được khái niệm bước sóng, biên độ, tần số, tốc độ và cường độ sóng.",
+        "Vận dụng được biểu thức v = λf.",
+        "Vận dụng được phương trình sóng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Sóng điện từ": {
+      "chapter": "SÓNG",
+      "content": "Trình bày các tính chất cơ bản của sóng điện từ và mô tả thang sóng điện từ với các loại tia khác nhau.",
+      "objectives": [
+        "Trình bày được các tính chất cơ bản của sóng điện từ.",
+        "Mô tả được thang sóng điện từ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Giao thoa sóng": {
+      "chapter": "SÓNG",
+      "content": "Giải thích và vận dụng các công thức liên quan đến hiện tượng giao thoa sóng cơ và sóng ánh sáng.",
+      "objectives": [
+        "Giải thích được hiện tượng giao thoa sóng cơ và giao thoa sóng ánh sáng.",
+        "Vận dụng được các công thức xác định vị trí cực đại, cực tiểu giao thoa.",
+        "Vận dụng được công thức tính khoảng vân trong giao thoa ánh sáng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Sóng dừng": {
+      "chapter": "SÓNG",
+      "content": "Nghiên cứu sự hình thành sóng dừng, xác định vị trí nút và bụng, và các điều kiện để có sóng dừng trên dây.",
+      "objectives": [
+        "Giải thích được sự hình thành sóng dừng.",
+        "Xác định được vị trí nút và bụng của sóng dừng.",
+        "Vận dụng được điều kiện để có sóng dừng trên dây có hai đầu cố định và một đầu cố định, một đầu tự do."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Thực hành đo tần số của sóng âm và tốc độ truyền âm": {
+      "chapter": "SÓNG",
+      "content": "Thực hành thiết kế và thực hiện các thí nghiệm để đo tần số sóng âm và tốc độ truyền âm trong không khí.",
+      "objectives": [
+        "Thiết kế và thực hiện được phương án thí nghiệm đo tần số của sóng âm bằng dao động kí.",
+        "Thiết kế và thực hiện được phương án thí nghiệm đo tốc độ truyền âm bằng ống cộng hưởng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Định luật Coulomb về tương tác tĩnh điện": {
+      "chapter": "ĐIỆN TRƯỜNG",
+      "content": "Phát biểu và vận dụng định luật Coulomb để tính toán lực tương tác giữa các điện tích điểm.",
+      "objectives": [
+        "Phát biểu và vận dụng được định luật Coulomb."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Điện trường": {
+      "chapter": "ĐIỆN TRƯỜNG",
+      "content": "Nghiên cứu về khái niệm điện trường, cường độ điện trường, đường sức điện và điện phổ.",
+      "objectives": [
+        "Nêu được khái niệm điện trường.",
+        "Vận dụng được công thức tính cường độ điện trường do điện tích điểm gây ra.",
+        "Mô tả được đường sức điện và điện phổ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Điện thế và thế năng điện": {
+      "chapter": "ĐIỆN TRƯỜNG",
+      "content": "Tìm hiểu về các khái niệm điện thế, hiệu điện thế, thế năng điện và mối liên hệ giữa chúng.",
+      "objectives": [
+        "Nêu được khái niệm điện thế, hiệu điện thế, thế năng điện.",
+        "Vận dụng được mối liên hệ giữa cường độ điện trường và điện thế."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Tụ điện": {
+      "chapter": "ĐIỆN TRƯỜNG",
+      "content": "Nghiên cứu về tụ điện, khái niệm điện dung và cách tính điện dung của bộ tụ ghép nối tiếp hoặc song song.",
+      "objectives": [
+        "Nêu được khái niệm điện dung và đơn vị đo điện dung.",
+        "Vận dụng được các công thức tính điện dung của bộ tụ ghép nối tiếp, song song."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Năng lượng và ứng dụng của tụ điện": {
+      "chapter": "ĐIỆN TRƯỜNG",
+      "content": "Tìm hiểu về công thức tính năng lượng của tụ điện và một số ứng dụng quan trọng của tụ điện trong đời sống và kĩ thuật.",
+      "objectives": [
+        "Vận dụng được công thức tính năng lượng tụ điện.",
+        "Trình bày được một số ứng dụng của tụ điện trong cuộc sống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Dòng điện. Cường độ dòng điện": {
+      "chapter": "DÒNG ĐIỆN KHÔNG ĐỔI",
+      "content": "Nghiên cứu về khái niệm dòng điện, cường độ dòng điện và công thức liên hệ với các đại lượng vi mô.",
+      "objectives": [
+        "Nêu được khái niệm dòng điện, cường độ dòng điện.",
+        "Vận dụng được biểu thức I = Snve."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Điện trở. Định luật Ohm": {
+      "chapter": "DÒNG ĐIỆN KHÔNG ĐỔI",
+      "content": "Tìm hiểu về điện trở, các nguyên nhân gây ra điện trở và phát biểu, vận dụng định luật Ohm cho đoạn mạch.",
+      "objectives": [
+        "Nêu được khái niệm điện trở và các nguyên nhân gây ra điện trở.",
+        "Phát biểu và vận dụng được định luật Ohm cho vật dẫn kim loại."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Nguồn điện": {
+      "chapter": "DÒNG ĐIỆN KHÔNG ĐỔI",
+      "content": "Nghiên cứu về nguồn điện, suất điện động và ảnh hưởng của điện trở trong của nguồn lên hiệu điện thế hai cực.",
+      "objectives": [
+        "Nêu được khái niệm nguồn điện và định nghĩa suất điện động.",
+        "Mô tả được ảnh hưởng của điện trở trong của nguồn điện lên hiệu điện thế hai cực."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Năng lượng điện. Công suất điện": {
+      "chapter": "DÒNG ĐIỆN KHÔNG ĐỔI",
+      "content": "Tìm hiểu cách tính năng lượng và công suất tiêu thụ điện của một đoạn mạch, và vận dụng định luật Joule-Lenz.",
+      "objectives": [
+        "Tính được năng lượng điện và công suất tiêu thụ điện của một đoạn mạch.",
+        "Vận dụng được định luật Joule-Lenz."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Thực hành xác định suất điện động và điện trở trong của pin": {
+      "chapter": "DÒNG ĐIỆN KHÔNG ĐỔI",
+      "content": "Thực hành thiết kế và thực hiện phương án thí nghiệm để xác định các thông số quan trọng của một nguồn điện (pin).",
+      "objectives": [
+        "Thiết kế và thực hiện được phương án thí nghiệm xác định suất điện động và điện trở trong của pin."
+      ],
+      "common_exercises": []
+    }
+  },
+  "12": {
+    "Bài 1. Sự chuyển thể": {
+      "chapter": "VẬT LÍ NHIỆT",
+      "content": "Nghiên cứu về cấu trúc của các chất và các quá trình chuyển thể như nóng chảy, hóa hơi, cùng các khái niệm nhiệt riêng.",
+      "objectives": [
+        "Mô tả được cấu trúc của chất rắn, lỏng, khí dựa trên mô hình động học phân tử.",
+        "Giải thích được các hiện tượng nóng chảy, hoá hơi.",
+        "Nêu được khái niệm nhiệt nóng chảy riêng, nhiệt hoá hơi riêng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Thang nhiệt độ": {
+      "chapter": "VẬT LÍ NHIỆT",
+      "content": "Tìm hiểu về các thang nhiệt độ Celsius, Kelvin, chiều truyền nhiệt và khái niệm nhiệt độ không tuyệt đối.",
+      "objectives": [
+        "Giải thích được chiều truyền năng lượng nhiệt giữa hai vật.",
+        "Phân biệt và chuyển đổi được giữa thang nhiệt độ Celsius và Kelvin.",
+        "Nêu được khái niệm nhiệt độ không tuyệt đối."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Nội năng. Định luật 1 của nhiệt động lực học": {
+      "chapter": "VẬT LÍ NHIỆT",
+      "content": "Nghiên cứu về nội năng, định luật 1 của nhiệt động lực học và khái niệm nhiệt dung riêng của các chất.",
+      "objectives": [
+        "Giải thích được mối liên hệ giữa nội năng và năng lượng của các phân tử tạo nên vật.",
+        "Phát biểu và vận dụng được định luật 1 của nhiệt động lực học trong một số trường hợp đơn giản.",
+        "Nêu được khái niệm nhiệt dung riêng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Thực hành đo nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hoá hơi riêng": {
+      "chapter": "VẬT LÍ NHIỆT",
+      "content": "Thực hành thiết kế và thực hiện các phương án thí nghiệm để đo các đại lượng nhiệt đặc trưng của nước.",
+      "objectives": [
+        "Thiết kế và thực hiện được phương án thí nghiệm đo nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hóa hơi riêng của nước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Thuyết động học phân tử chất khí": {
+      "chapter": "KHÍ LÍ TƯỞNG",
+      "content": "Mô tả mô hình chuyển động Brown và trình bày các nội dung chính của thuyết động học phân tử chất khí.",
+      "objectives": [
+        "Mô tả được mô hình chuyển động Brown.",
+        "Trình bày được các nội dung chính của thuyết động học phân tử chất khí."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Định luật Boyle. Định luật Charles": {
+      "chapter": "KHÍ LÍ TƯỞNG",
+      "content": "Phát biểu và vận dụng các định luật Boyle (đẳng nhiệt) và Charles (đẳng áp) cho chất khí lí tưởng.",
+      "objectives": [
+        "Phát biểu và vận dụng được định luật Boyle cho quá trình đẳng nhiệt.",
+        "Phát biểu và vận dụng được định luật Charles cho quá trình đẳng áp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Phương trình trạng thái của khí lí tưởng": {
+      "chapter": "KHÍ LÍ TƯỞNG",
+      "content": "Nêu khái niệm khí lí tưởng và vận dụng phương trình trạng thái của nó để giải các bài toán liên quan.",
+      "objectives": [
+        "Nêu được khái niệm khí lí tưởng.",
+        "Vận dụng được phương trình trạng thái của khí lí tưởng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Áp suất - động năng của phân tử khí": {
+      "chapter": "KHÍ LÍ TƯỞNG",
+      "content": "Vận dụng biểu thức tính áp suất và giải thích mối liên hệ giữa động năng của phân tử khí và nhiệt độ tuyệt đối.",
+      "objectives": [
+        "Vận dụng được biểu thức áp suất p = (1/3)μm(v²).",
+        "Giải thích được mối liên hệ giữa động năng tịnh tiến trung bình của các phân tử khí và nhiệt độ tuyệt đối."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Khái niệm từ trường": {
+      "chapter": "TỪ TRƯỜNG",
+      "content": "Nêu khái niệm về từ trường và mô tả các đặc điểm của đường sức từ và từ phổ.",
+      "objectives": [
+        "Nêu được khái niệm từ trường.",
+        "Mô tả được đường sức từ và từ phổ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Lực từ. Cảm ứng từ": {
+      "chapter": "TỪ TRƯỜNG",
+      "content": "Nghiên cứu về lực từ, vận dụng quy tắc bàn tay trái để xác định chiều của lực và biểu thức tính độ lớn lực từ.",
+      "objectives": [
+        "Vận dụng được quy tắc bàn tay trái để xác định chiều của lực từ.",
+        "Vận dụng được biểu thức tính lực từ F = BILsinθ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Thực hành đo độ lớn cảm ứng từ": {
+      "chapter": "TỪ TRƯỜNG",
+      "content": "Thực hành thiết kế và thực hiện phương án thí nghiệm đo cảm ứng từ bằng phương pháp cân dòng điện.",
+      "objectives": [
+        "Thiết kế và thực hiện được phương án thí nghiệm đo cảm ứng từ bằng cân “dòng điện”."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Hiện tượng cảm ứng điện từ": {
+      "chapter": "TỪ TRƯỜNG",
+      "content": "Tìm hiểu về từ thông, hiện tượng cảm ứng điện từ và vận dụng định luật Faraday, định luật Lenz.",
+      "objectives": [
+        "Nêu được định nghĩa và đơn vị đo từ thông.",
+        "Giải thích được hiện tượng cảm ứng điện từ.",
+        "Vận dụng được định luật Faraday và định luật Lenz."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Đại cương về dòng điện xoay chiều": {
+      "chapter": "TỪ TRƯỜNG",
+      "content": "Giải thích phương pháp tạo ra dòng điện xoay chiều và nêu các đại lượng đặc trưng của nó.",
+      "objectives": [
+        "Giải thích được phương pháp tạo ra dòng điện xoay chiều.",
+        "Nêu được các đại lượng đặc trưng: chu kì, tần số, giá trị cực đại, giá trị hiệu dụng của cường độ dòng điện và điện áp xoay chiều."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Hạt nhân và mô hình nguyên tử": {
+      "chapter": "VẬT LÍ HẠT NHÂN",
+      "content": "Mô tả thí nghiệm Rutherford, sự tồn tại của hạt nhân và mô hình đơn giản của nguyên tử.",
+      "objectives": [
+        "Mô tả được thí nghiệm tán xạ hạt alpha của Rutherford và sự tồn tại của hạt nhân.",
+        "Nêu được kí hiệu hạt nhân và mô hình đơn giản của nguyên tử."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Năng lượng liên kết hạt nhân": {
+      "chapter": "VẬT LÍ HẠT NHÂN",
+      "content": "Nghiên cứu về năng lượng liên kết hạt nhân, năng lượng liên kết riêng và so sánh độ bền vững của các hạt nhân.",
+      "objectives": [
+        "Nêu được khái niệm năng lượng liên kết hạt nhân và năng lượng liên kết riêng.",
+        "So sánh được độ bền vững của các hạt nhân dựa vào năng lượng liên kết riêng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Phản ứng phân hạch, phản ứng nhiệt hạch và ứng dụng": {
+      "chapter": "VẬT LÍ HẠT NHÂN",
+      "content": "Trình bày các đặc điểm của phản ứng phân hạch, nhiệt hạch và một số ứng dụng quan trọng của chúng.",
+      "objectives": [
+        "Trình bày được các đặc điểm của phản ứng phân hạch và nhiệt hạch.",
+        "Nêu được một số ứng dụng của phản ứng phân hạch và nhiệt hạch."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Hiện tượng phóng xạ": {
+      "chapter": "VẬT LÍ HẠT NHÂN",
+      "content": "Trình bày các đặc điểm của hiện tượng phóng xạ, các loại tia phóng xạ và vận dụng định luật phóng xạ.",
+      "objectives": [
+        "Trình bày được các đặc điểm của hiện tượng phóng xạ và các loại tia phóng xạ.",
+        "Vận dụng được định luật phóng xạ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. An toàn phóng xạ": {
+      "chapter": "VẬT LÍ HẠT NHÂN",
+      "content": "Nêu các quy tắc an toàn khi làm việc với chất phóng xạ và trình bày các ứng dụng của đồng vị phóng xạ.",
+      "objectives": [
+        "Nêu được các quy tắc an toàn khi làm việc với chất phóng xạ.",
+        "Trình bày được các ứng dụng của đồng vị phóng xạ."
+      ]
+    }
+  }
+}

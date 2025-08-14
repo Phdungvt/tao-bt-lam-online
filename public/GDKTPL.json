@@ -1,0 +1,551 @@
+
+{
+  "10": {
+    "Bài 1: Nền kinh tế và các hoạt động của nền kinh tế": {
+      "chapter": "NỀN KINH TẾ VÀ CÁC CHỦ THỂ CỦA NỀN KINH TẾ",
+      "content": "Nghiên cứu về nền kinh tế, các hoạt động kinh tế cơ bản (sản xuất, phân phối, tiêu dùng) và trách nhiệm của công dân khi tham gia.",
+      "objectives": [
+        "Phân tích vai trò của hoạt động sản xuất như là hoạt động cơ bản, quyết định các hoạt động kinh tế khác.",
+        "Giải thích vai trò của hoạt động phân phối - trao đổi trong việc kết nối sản xuất với tiêu dùng.",
+        "Làm rõ vai trò của hoạt động tiêu dùng là mục đích và động lực của sản xuất.",
+        "Xác định được trách nhiệm của công dân khi tham gia các hoạt động kinh tế (tuân thủ pháp luật, bảo vệ môi trường, sản xuất/tiêu dùng có đạo đức).",
+        "Đề xuất các hoạt động kinh tế phù hợp với lứa tuổi học sinh và giải thích ý nghĩa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2: Các chủ thể của nền kinh tế": {
+      "chapter": "NỀN KINH TẾ VÀ CÁC CHỦ THỂ CỦA NỀN KINH TẾ",
+      "content": "Tìm hiểu về vai trò và trách nhiệm của các chủ thể kinh tế: người sản xuất, người tiêu dùng, chủ thể trung gian và Nhà nước.",
+      "objectives": [
+        "Nhận biết và phân tích được vai trò của các chủ thể kinh tế: người sản xuất, người tiêu dùng, chủ thể trung gian và Nhà nước.",
+        "Xác định được vai trò của bản thân và gia đình với tư cách là một chủ thể kinh tế.",
+        "Phân tích được trách nhiệm của các chủ thể kinh tế trong việc đảm bảo sự phát triển bền vững của xã hội."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3: Thị trường và chức năng của thị trường": {
+      "chapter": "THỊ TRƯỜNG VÀ CƠ CHẾ THỊ TRƯỜNG",
+      "content": "Khám phá khái niệm thị trường, các loại thị trường và các chức năng cơ bản của thị trường trong nền kinh tế.",
+      "objectives": [
+        "Nêu được khái niệm thị trường và các yếu tố cấu thành thị trường.",
+        "Phân loại được các loại thị trường dựa trên các tiêu chí khác nhau (đối tượng, phạm vi, tính chất).",
+        "Phân tích được các chức năng của thị trường: thừa nhận giá trị, cung cấp thông tin, điều tiết sản xuất và tiêu dùng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4: Cơ chế thị trường": {
+      "chapter": "THỊ TRƯỜNG VÀ CƠ CHẾ THỊ TRƯỜNG",
+      "content": "Phân tích ưu điểm, nhược điểm và đặc điểm của cơ chế thị trường.",
+      "objectives": [
+        "Nêu được khái niệm và đặc điểm của cơ chế thị trường.",
+        "Phân tích được các ưu điểm của cơ chế thị trường (kích thích sáng tạo, phân bổ nguồn lực hiệu quả).",
+        "Chỉ ra được các nhược điểm của cơ chế thị trường (suy thoái tài nguyên, phân hoá giàu nghèo, khủng hoảng kinh tế)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5: Giá cả thị trường và chức năng của giá cả thị trường": {
+      "chapter": "THỊ TRƯỜNG VÀ CƠ CHẾ THỊ TRƯỜNG",
+      "content": "Tìm hiểu về khái niệm giá cả thị trường và các chức năng quan trọng của nó trong việc điều tiết kinh tế.",
+      "objectives": [
+        "Nêu được khái niệm giá cả thị trường và các yếu tố ảnh hưởng.",
+        "Phân tích được các chức năng của giá cả thị trường: cung cấp thông tin, phân bổ nguồn lực, công cụ điều tiết của Nhà nước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6: Ngân sách nhà nước và thực hiện pháp luật về ngân sách": {
+      "chapter": "NGÂN SÁCH NHÀ NƯỚC VÀ THUẾ",
+      "content": "Nghiên cứu về vai trò của ngân sách nhà nước và quyền, nghĩa vụ của công dân liên quan đến ngân sách.",
+      "objectives": [
+        "Nêu được khái niệm, đặc điểm và vai trò của ngân sách nhà nước.",
+        "Trình bày được quyền và nghĩa vụ của công dân trong việc thực hiện pháp luật về ngân sách."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7: Thuế và thực hiện pháp luật về thuế": {
+      "chapter": "NGÂN SÁCH NHÀ NƯỚC VÀ THUẾ",
+      "content": "Tìm hiểu các loại thuế phổ biến, vai trò của thuế và trách nhiệm của công dân trong việc thực hiện pháp luật thuế.",
+      "objectives": [
+        "Phân biệt được các loại thuế phổ biến (thuế trực thu, thuế gián thu).",
+        "Giải thích được vai trò của thuế đối với nền kinh tế và xã hội.",
+        "Nêu được quyền và nghĩa vụ của công dân trong việc thực hiện pháp luật về thuế."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8: Sản xuất kinh doanh và các mô hình sản xuất kinh doanh": {
+      "chapter": "SẢN XUẤT KINH DOANH VÀ CÁC MÔ HÌNH SẢN XUẤT KINH DOANH",
+      "content": "Phân biệt các mô hình sản xuất kinh doanh phổ biến như hộ kinh doanh, hợp tác xã và doanh nghiệp.",
+      "objectives": [
+        "Nêu được vai trò của sản xuất kinh doanh.",
+        "Phân biệt được đặc điểm của các mô hình sản xuất kinh doanh: hộ sản xuất kinh doanh, hợp tác xã, doanh nghiệp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9: Tín dụng và vai trò của tín dụng": {
+      "chapter": "TÍN DỤNG VÀ CÁCH SỬ DỤNG CÁC DỊCH VỤ TÍN DỤNG",
+      "content": "Tìm hiểu về khái niệm, đặc điểm và vai trò của tín dụng trong nền kinh tế.",
+      "objectives": [
+        "Nêu được khái niệm, đặc điểm và vai trò của tín dụng.",
+        "Nhận biết được sự chênh lệch giữa chi phí sử dụng tiền mặt và mua tín dụng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10: Cách sử dụng các dịch vụ tín dụng": {
+      "chapter": "TÍN DỤNG VÀ CÁCH SỬ DỤNG CÁC DỊCH VỤ TÍN DỤNG",
+      "content": "Nhận biết các loại dịch vụ tín dụng và cách sử dụng chúng một cách có trách nhiệm.",
+      "objectives": [
+        "Kể tên và mô tả được đặc điểm của một số dịch vụ tín dụng (thương mại, nhà nước, ngân hàng, tiêu dùng).",
+        "Biết cách sử dụng một số dịch vụ tín dụng một cách có trách nhiệm."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11: Lập kế hoạch tài chính cá nhân": {
+      "chapter": "LẬP KẾ HOẠCH TÀI CHÍNH CÁ NHÂN",
+      "content": "Học cách phân loại và lập kế hoạch tài chính cá nhân hiệu quả cho các mục tiêu ngắn hạn, trung hạn và dài hạn.",
+      "objectives": [
+        "Phân biệt được các loại kế hoạch tài chính cá nhân (ngắn hạn, trung hạn, dài hạn).",
+        "Trình bày được các bước lập kế hoạch tài chính cá nhân.",
+        "Lập được một kế hoạch tài chính cá nhân đơn giản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12: Đặc điểm, cấu trúc và nguyên tắc hoạt động của hệ thống chính trị": {
+      "chapter": "HỆ THỐNG CHÍNH TRỊ NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Mô tả cấu trúc, đặc điểm và nguyên tắc hoạt động của hệ thống chính trị Việt Nam.",
+      "objectives": [
+        "Mô tả được cấu trúc hệ thống chính trị Việt Nam (Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội).",
+        "Phân tích được các đặc điểm và nguyên tắc hoạt động của hệ thống chính trị."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13: Đặc điểm, nguyên tắc tổ chức và hoạt động của bộ máy nhà nước": {
+      "chapter": "HỆ THỐNG CHÍNH TRỊ NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Trình bày các đặc điểm và nguyên tắc cơ bản trong tổ chức và hoạt động của bộ máy nhà nước Việt Nam.",
+      "objectives": [
+        "Nêu được các đặc điểm của bộ máy nhà nước (tính thống nhất, tính nhân dân, tính quyền lực, tính pháp chế).",
+        "Trình bày được các nguyên tắc tổ chức và hoạt động của bộ máy nhà nước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14: Quốc hội, Chủ tịch nước, Chính phủ": {
+      "chapter": "HỆ THỐNG CHÍNH TRỊ NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Tìm hiểu chức năng, cơ cấu tổ chức và hoạt động của các cơ quan quyền lực nhà nước cao nhất.",
+      "objectives": [
+        "Nêu được chức năng, cơ cấu tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15: Toà án nhân dân và Viện kiểm sát nhân dân": {
+      "chapter": "HỆ THỐNG CHÍNH TRỊ NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Nghiên cứu chức năng, cơ cấu tổ chức và hoạt động của các cơ quan tư pháp.",
+      "objectives": [
+        "Nêu được chức năng, cơ cấu tổ chức và hoạt động của Toà án nhân dân và Viện kiểm sát nhân dân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16: Chính quyền địa phương": {
+      "chapter": "HỆ THỐNG CHÍNH TRỊ NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Tìm hiểu về chức năng, cơ cấu tổ chức và hoạt động của Hội đồng nhân dân và Uỷ ban nhân dân các cấp.",
+      "objectives": [
+        "Nêu được chức năng, cơ cấu tổ chức và hoạt động của Hội đồng nhân dân và Uỷ ban nhân dân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17: Pháp luật và đời sống": {
+      "chapter": "PHÁP LUẬT NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Nghiên cứu khái niệm, đặc điểm và vai trò quan trọng của pháp luật trong đời sống xã hội.",
+      "objectives": [
+        "Nêu được khái niệm, đặc điểm và vai trò của pháp luật trong đời sống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18: Hệ thống pháp luật và văn bản pháp luật Việt Nam": {
+      "chapter": "PHÁP LUẬT NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Mô tả cấu trúc của hệ thống pháp luật Việt Nam và phân biệt các loại văn bản quy phạm pháp luật.",
+      "objectives": [
+        "Mô tả được cấu trúc bên trong của hệ thống pháp luật (quy phạm pháp luật, chế định pháp luật, ngành luật).",
+        "Phân biệt được các loại văn bản quy phạm pháp luật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19: Thực hiện pháp luật": {
+      "chapter": "PHÁP LUẬT NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Phân biệt các hình thức thực hiện pháp luật và tìm hiểu về các loại vi phạm pháp luật.",
+      "objectives": [
+        "Phân biệt được các hình thức thực hiện pháp luật (tuân thủ, thi hành, sử dụng và áp dụng pháp luật).",
+        "Nêu được khái niệm và các loại vi phạm pháp luật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20: Khái niệm, đặc điểm và vị trí của Hiến pháp": {
+      "chapter": "HIẾN PHÁP NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Nêu khái niệm, đặc điểm và vị trí của Hiến pháp như là đạo luật cơ bản của nhà nước.",
+      "objectives": [
+        "Nêu được khái niệm, đặc điểm và vị trí của Hiến pháp trong hệ thống pháp luật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21: Nội dung cơ bản của Hiến pháp về chính trị": {
+      "chapter": "HIẾN PHÁP NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Trình bày các nội dung cơ bản của Hiến pháp năm 2013 liên quan đến chế độ chính trị.",
+      "objectives": [
+        "Trình bày được các nội dung cơ bản của Hiến pháp 2013 về chế độ chính trị."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22: Nội dung cơ bản của Hiến pháp về quyền con người, quyền và nghĩa vụ cơ bản của công dân": {
+      "chapter": "HIẾN PHÁP NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Trình bày các nội dung cơ bản của Hiến pháp năm 2013 liên quan đến quyền con người và quyền, nghĩa vụ công dân.",
+      "objectives": [
+        "Trình bày được các nội dung cơ bản của Hiến pháp 2013 về quyền con người, quyền và nghĩa vụ cơ bản của công dân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23: Nội dung cơ bản của Hiến pháp về kinh tế, văn hoá, giáo dục, khoa học, công nghệ và môi trường": {
+      "chapter": "HIẾN PHÁP NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Trình bày các nội dung cơ bản của Hiến pháp năm 2013 liên quan đến các lĩnh vực kinh tế, xã hội.",
+      "objectives": [
+        "Trình bày được các nội dung cơ bản của Hiến pháp 2013 về kinh tế, văn hoá, giáo dục, khoa học, công nghệ và môi trường."
+      ],
+      "common_exercises": []
+    },
+    "Bài 24: Nội dung cơ bản của Hiến pháp về bộ máy nhà nước": {
+      "chapter": "HIẾN PHÁP NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "content": "Trình bày các nội dung cơ bản của Hiến pháp năm 2013 liên quan đến tổ chức bộ máy nhà nước.",
+      "objectives": [
+        "Trình bày được các nội dung cơ bản của Hiến pháp 2013 về tổ chức bộ máy nhà nước."
+      ],
+      "common_exercises": []
+    }
+  },
+  "11": {
+    "Bài 1: Cạnh tranh trong kinh tế thị trường": {
+      "chapter": "CẠNH TRANH, CUNG, CẦU TRONG KINH TẾ THỊ TRƯỜNG",
+      "content": "Nghiên cứu về khái niệm, nguyên nhân và vai trò của cạnh tranh, đồng thời phân biệt cạnh tranh lành mạnh và không lành mạnh.",
+      "objectives": [
+        "Nêu được khái niệm và nguyên nhân dẫn đến cạnh tranh.",
+        "Phân tích được vai trò của cạnh tranh trong nền kinh tế.",
+        "Phân biệt được cạnh tranh lành mạnh và không lành mạnh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2: Cung – cầu trong kinh tế thị trường": {
+      "chapter": "CẠNH TRANH, CUNG, CẦU TRONG KINH TẾ THỊ TRƯỜNG",
+      "content": "Tìm hiểu về các khái niệm cung, cầu, các nhân tố ảnh hưởng và vai trò của mối quan hệ cung - cầu trong kinh tế thị trường.",
+      "objectives": [
+        "Nêu được khái niệm cung, cầu và các nhân tố ảnh hưởng.",
+        "Phân tích được mối quan hệ và vai trò của quan hệ cung – cầu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3: Lạm phát trong kinh tế thị trường": {
+      "chapter": "LẠM PHÁT, THẤT NGHIỆP",
+      "content": "Nghiên cứu về khái niệm, các loại hình, nguyên nhân, hậu quả của lạm phát và vai trò của Nhà nước trong việc kiểm soát lạm phát.",
+      "objectives": [
+        "Nêu được khái niệm và các loại hình lạm phát.",
+        "Giải thích được nguyên nhân và hậu quả của lạm phát.",
+        "Nêu được vai trò của Nhà nước trong việc kiểm soát và kiềm chế lạm phát."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4: Thất nghiệp trong kinh tế thị trường": {
+      "chapter": "LẠM PHÁT, THẤT NGHIỆP",
+      "content": "Tìm hiểu về khái niệm, các loại hình, nguyên nhân, hậu quả của thất nghiệp và vai trò của Nhà nước trong việc giải quyết vấn đề này.",
+      "objectives": [
+        "Nêu được khái niệm và các loại hình thất nghiệp.",
+        "Giải thích được nguyên nhân và hậu quả của thất nghiệp.",
+        "Nêu được vai trò của Nhà nước trong việc kiểm soát và kiềm chế thất nghiệp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5: Thị trường lao động, việc làm": {
+      "chapter": "THỊ TRƯỜNG LAO ĐỘNG, VIỆC LÀM",
+      "content": "Phân biệt các khái niệm lao động, việc làm, thị trường lao động và nhận biết xu hướng tuyển dụng hiện nay.",
+      "objectives": [
+        "Phân biệt được khái niệm lao động, việc làm, thị trường lao động, thị trường việc làm.",
+        "Phân tích được mối quan hệ giữa thị trường lao động và thị trường việc làm.",
+        "Nhận ra được xu hướng tuyển dụng lao động của thị trường."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6: Ý tưởng và cơ hội kinh doanh": {
+      "chapter": "Ý TƯỞNG, CƠ HỘI KINH DOANH VÀ CÁC NĂNG LỰC CẦN THIẾT CỦA NGƯỜI KINH DOANH",
+      "content": "Phân biệt ý tưởng kinh doanh và cơ hội kinh doanh, đồng thời học cách xây dựng một ý tưởng kinh doanh đơn giản.",
+      "objectives": [
+        "Phân biệt được ý tưởng kinh doanh và cơ hội kinh doanh.",
+        "Giải thích được tầm quan trọng của việc xây dựng ý tưởng và xác định cơ hội kinh doanh.",
+        "Xây dựng được một ý tưởng kinh doanh đơn giản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7: Năng lực cần thiết của người kinh doanh": {
+      "chapter": "Ý TƯỞNG, CƠ HỘI KINH DOANH VÀ CÁC NĂNG LỰC CẦN THIẾT CỦA NGƯỜI KINH DOANH",
+      "content": "Chỉ ra các năng lực cần thiết của một người kinh doanh và tự phân tích năng lực bản thân qua mô hình SWOT.",
+      "objectives": [
+        "Chỉ ra được các năng lực cần thiết của người kinh doanh.",
+        "Phân tích được năng lực kinh doanh của bản thân qua mô hình SWOT."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8: Đạo đức kinh doanh": {
+      "chapter": "ĐẠO ĐỨC KINH DOANH",
+      "content": "Nghiên cứu về quan niệm, vai trò và các biểu hiện của đạo đức kinh doanh trong các mối quan hệ kinh tế.",
+      "objectives": [
+        "Nêu được quan niệm và vai trò của đạo đức kinh doanh.",
+        "Chỉ ra được các biểu hiện của đạo đức kinh doanh trong các mối quan hệ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9: Văn hoá tiêu dùng": {
+      "chapter": "VĂN HOÁ TIÊU DÙNG",
+      "content": "Tìm hiểu về vai trò của tiêu dùng, văn hóa tiêu dùng và các biện pháp xây dựng văn hóa tiêu dùng tại Việt Nam.",
+      "objectives": [
+        "Nêu được vai trò của tiêu dùng và văn hoá tiêu dùng.",
+        "Mô tả được một số đặc điểm trong văn hoá tiêu dùng Việt Nam.",
+        "Nêu được các biện pháp xây dựng văn hoá tiêu dùng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10: Quyền bình đẳng của công dân trước pháp luật": {
+      "chapter": "QUYỀN BÌNH ĐẲNG CỦA CÔNG DÂN",
+      "content": "Trình bày các quy định và ý nghĩa của quyền bình đẳng của công dân trước pháp luật về quyền, nghĩa vụ và trách nhiệm pháp lý.",
+      "objectives": [
+        "Trình bày được các quy định cơ bản về quyền bình đẳng của công dân trước pháp luật (bình đẳng về quyền, nghĩa vụ và trách nhiệm pháp lí).",
+        "Nhận biết được ý nghĩa của quyền bình đẳng của công dân trước pháp luật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11: Bình đẳng giới": {
+      "chapter": "QUYỀN BÌNH ĐẲNG CỦA CÔNG DÂN",
+      "content": "Nêu các quy định của pháp luật và nhận biết ý nghĩa của bình đẳng giới trong các lĩnh vực của đời sống xã hội.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về bình đẳng giới trong các lĩnh vực.",
+        "Nhận biết được ý nghĩa của bình đẳng giới đối với đời sống con người và xã hội."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12: Quyền bình đẳng giữa các dân tộc, tôn giáo": {
+      "chapter": "QUYỀN BÌNH ĐẲNG CỦA CÔNG DÂN",
+      "content": "Nêu các quy định của pháp luật và nhận biết ý nghĩa của quyền bình đẳng giữa các dân tộc và tôn giáo.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền bình đẳng giữa các dân tộc và tôn giáo.",
+        "Nhận biết được ý nghĩa của quyền bình đẳng giữa các dân tộc, tôn giáo."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13: Quyền và nghĩa vụ công dân trong tham gia quản lí nhà nước và xã hội": {
+      "chapter": "MỘT SỐ QUYỀN DÂN CHỦ CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Trình bày các quy định pháp luật về quyền và nghĩa vụ của công dân trong việc tham gia quản lý nhà nước ở các cấp.",
+      "objectives": [
+        "Nêu được các quy định cơ bản về quyền và nghĩa vụ của công dân trong tham gia quản lí nhà nước và xã hội ở phạm vi cả nước và cơ sở."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14: Quyền và nghĩa vụ công dân về bầu cử và ứng cử": {
+      "chapter": "MỘT SỐ QUYỀN DÂN CHỦ CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Nêu các quy định và nhận biết hậu quả của việc vi phạm pháp luật về quyền, nghĩa vụ bầu cử và ứng cử.",
+      "objectives": [
+        "Nêu được các quy định cơ bản về quyền và nghĩa vụ của công dân về bầu cử và ứng cử.",
+        "Nhận biết được hậu quả của hành vi vi phạm pháp luật về bầu cử và ứng cử."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15: Quyền và nghĩa vụ công dân về khiếu nại, tố cáo": {
+      "chapter": "MỘT SỐ QUYỀN DÂN CHỦ CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Phân biệt quyền khiếu nại và tố cáo, đồng thời nêu rõ quyền và nghĩa vụ của người thực hiện các quyền này.",
+      "objectives": [
+        "Phân biệt được quyền khiếu nại và quyền tố cáo.",
+        "Nêu được quyền và nghĩa vụ của người khiếu nại, người tố cáo."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16: Quyền và nghĩa vụ công dân về bảo vệ Tổ quốc": {
+      "chapter": "MỘT SỐ QUYỀN DÂN CHỦ CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Trình bày các quy định cơ bản của pháp luật về quyền và nghĩa vụ thiêng liêng của công dân trong việc bảo vệ Tổ quốc.",
+      "objectives": [
+        "Nêu được các quy định cơ bản về quyền và nghĩa vụ của công dân về bảo vệ Tổ quốc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17: Quyền bất khả xâm phạm về thân thể, được pháp luật bảo hộ về tính mạng, sức khoẻ, danh dự và nhân phẩm": {
+      "chapter": "MỘT SỐ QUYỀN TỰ DO CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Nêu các quy định pháp luật về quyền bất khả xâm phạm về thân thể và được bảo hộ tính mạng, sức khoẻ, danh dự, nhân phẩm.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về các quyền tự do cơ bản của công dân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18: Quyền bất khả xâm phạm về chỗ ở": {
+      "chapter": "MỘT SỐ QUYỀN TỰ DO CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Trình bày các quy định của pháp luật về quyền bất khả xâm phạm về chỗ ở của công dân.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền bất khả xâm phạm về chỗ ở."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19: Quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín": {
+      "chapter": "MỘT SỐ QUYỀN TỰ DO CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Trình bày các quy định của pháp luật về quyền được đảm bảo an toàn và bí mật thư tín, điện thoại, điện tín.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20: Quyền và nghĩa vụ công dân về tự do ngôn luận, báo chí và tiếp cận thông tin": {
+      "chapter": "MỘT SỐ QUYỀN TỰ DO CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Nêu các quy định của pháp luật về quyền và nghĩa vụ của công dân trong việc tự do ngôn luận, báo chí và tiếp cận thông tin.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền và nghĩa vụ công dân về tự do ngôn luận, báo chí và tiếp cận thông tin."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21: Quyền và nghĩa vụ công dân về tự do tín ngưỡng và tôn giáo": {
+      "chapter": "MỘT SỐ QUYỀN TỰ DO CƠ BẢN CỦA CÔNG DÂN",
+      "content": "Trình bày các quy định của pháp luật về quyền và nghĩa vụ của công dân trong việc tự do tín ngưỡng và tôn giáo.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền và nghĩa vụ công dân về tự do tín ngưỡng và tôn giáo."
+      ],
+      "common_exercises": []
+    }
+  },
+  "12": {
+    "Bài 1: Tăng trưởng kinh tế và phát triển kinh tế": {
+      "chapter": "TĂNG TRƯỞNG VÀ PHÁT TRIỂN KINH TẾ",
+      "content": "Phân biệt tăng trưởng kinh tế và phát triển kinh tế, các chỉ tiêu đo lường và vai trò của chúng đối với sự phát triển bền vững.",
+      "objectives": [
+        "Phân biệt được tăng trưởng kinh tế và phát triển kinh tế.",
+        "Nêu được các chỉ tiêu của tăng trưởng và phát triển kinh tế.",
+        "Giải thích được vai trò và mối quan hệ giữa tăng trưởng kinh tế với sự phát triển bền vững."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2: Hội nhập kinh tế quốc tế": {
+      "chapter": "HỘI NHẬP KINH TẾ QUỐC TẾ",
+      "content": "Nghiên cứu về khái niệm, sự cần thiết và các hình thức của hội nhập kinh tế quốc tế.",
+      "objectives": [
+        "Nêu được khái niệm và sự cần thiết của hội nhập kinh tế quốc tế.",
+        "Liệt kê và phân biệt được các hình thức hội nhập kinh tế quốc tế (song phương, khu vực, toàn cầu)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3: Bảo hiểm": {
+      "chapter": "BẢO HIỂM VÀ AN SINH XÃ HỘI",
+      "content": "Tìm hiểu về khái niệm, vai trò và phân biệt các loại hình bảo hiểm phổ biến như bảo hiểm xã hội, y tế, thất nghiệp và thương mại.",
+      "objectives": [
+        "Nêu được khái niệm và vai trò của bảo hiểm.",
+        "Liệt kê và phân biệt được một số loại hình bảo hiểm (xã hội, y tế, thất nghiệp, thương mại)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4: An sinh xã hội": {
+      "chapter": "BẢO HIỂM VÀ AN SINH XÃ HỘI",
+      "content": "Nghiên cứu về khái niệm, vai trò và các chính sách an sinh xã hội cơ bản của nhà nước.",
+      "objectives": [
+        "Nêu được khái niệm và vai trò của an sinh xã hội.",
+        "Gọi tên được một số chính sách an sinh xã hội cơ bản (việc làm, bảo hiểm xã hội, trợ giúp xã hội, dịch vụ xã hội cơ bản)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5: Lập kế hoạch kinh doanh": {
+      "chapter": "LẬP KẾ HOẠCH KINH DOANH",
+      "content": "Tìm hiểu các nội dung cơ bản, sự cần thiết và các bước để lập một kế hoạch kinh doanh.",
+      "objectives": [
+        "Nêu được các nội dung cơ bản và sự cần thiết của việc lập kế hoạch kinh doanh.",
+        "Diễn giải được các bước lập kế hoạch kinh doanh.",
+        "Lập được một kế hoạch kinh doanh đơn giản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6: Trách nhiệm xã hội của doanh nghiệp": {
+      "chapter": "TRÁCH NHIỆM XÃ HỘI CỦA DOANH NGHIỆP",
+      "content": "Nghiên cứu về khái niệm, các hình thức và ý nghĩa của việc thực hiện trách nhiệm xã hội của doanh nghiệp.",
+      "objectives": [
+        "Nêu được khái niệm và các hình thức thực hiện trách nhiệm xã hội của doanh nghiệp (pháp lí, kinh tế, đạo đức, nhân văn).",
+        "Trình bày được ý nghĩa của việc thực hiện trách nhiệm xã hội của doanh nghiệp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7: Quản lí thu, chi trong gia đình": {
+      "chapter": "QUẢN LÍ THU, CHI TRONG GIA ĐÌNH",
+      "content": "Tìm hiểu sự cần thiết của việc quản lý thu chi, đánh giá thói quen chi tiêu và các bước lập kế hoạch tài chính gia đình.",
+      "objectives": [
+        "Giải thích được sự cần thiết phải quản lí thu, chi trong gia đình.",
+        "Đánh giá được thói quen chi tiêu và các mục tiêu tài chính của gia đình.",
+        "Trình bày được các bước lập và thực hiện kế hoạch thu, chi hợp lí trong gia đình."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8: Quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế": {
+      "chapter": "MỘT SỐ QUYỀN VÀ NGHĨA VỤ CỦA CÔNG DÂN VỀ KINH TẾ",
+      "content": "Trình bày các quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân liên quan đến hoạt động kinh doanh và nộp thuế.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9: Quyền và nghĩa vụ của công dân về sở hữu tài sản và tôn trọng tài sản của người khác": {
+      "chapter": "MỘT SỐ QUYỀN VÀ NGHĨA VỤ CỦA CÔNG DÂN VỀ KINH TẾ",
+      "content": "Nêu các quy định pháp luật về quyền sở hữu (chiếm hữu, sử dụng, định đoạt) và nghĩa vụ tôn trọng tài sản của người khác.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền sở hữu (chiếm hữu, sử dụng, định đoạt) và nghĩa vụ tôn trọng tài sản của người khác."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10: Quyền và nghĩa vụ của công dân trong hôn nhân và gia đình": {
+      "chapter": "QUYỀN VÀ NGHĨA VỤ CỦA CÔNG DÂN VỀ VĂN HOÁ, XÃ HỘI",
+      "content": "Trình bày các quy định pháp luật về quyền và nghĩa vụ của công dân trong các mối quan hệ hôn nhân và gia đình.",
+      "objectives": [
+        "Nêu được các quy định cơ bản về quyền và nghĩa vụ của công dân trong hôn nhân (kết hôn, li hôn) và trong gia đình (giữa vợ chồng, cha mẹ và con)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11: Quyền và nghĩa vụ của công dân trong học tập": {
+      "chapter": "QUYỀN VÀ NGHĨA VỤ CỦA CÔNG DÂN VỀ VĂN HOÁ, XÃ HỘI",
+      "content": "Trình bày các quy định cơ bản của pháp luật về quyền và nghĩa vụ học tập của mỗi công dân.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền và nghĩa vụ học tập của công dân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12: Quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khoẻ và đảm bảo an sinh xã hội": {
+      "chapter": "QUYỀN VÀ NGHĨA VỤ CỦA CÔNG DÂN VỀ VĂN HOÁ, XÃ HỘI",
+      "content": "Trình bày các quy định pháp luật về quyền và nghĩa vụ của công dân trong việc bảo vệ, chăm sóc sức khỏe và đảm bảo an sinh xã hội.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khoẻ và đảm bảo an sinh xã hội."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13: Quyền và nghĩa vụ của công dân trong bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên": {
+      "chapter": "QUYỀN VÀ NGHĨA VỤ CỦA CÔNG DÂN VỀ VĂN HOÁ, XÃ HỘI",
+      "content": "Trình bày các quy định pháp luật về quyền và nghĩa vụ của công dân trong việc bảo vệ di sản văn hóa, môi trường và tài nguyên thiên nhiên.",
+      "objectives": [
+        "Nêu được các quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân trong bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14: Khái quát chung về pháp luật quốc tế": {
+      "chapter": "MỘT SỐ VẤN ĐỀ CƠ BẢN CỦA PHÁP LUẬT QUỐC TẾ",
+      "content": "Nghiên cứu khái niệm, vai trò, các nguyên tắc cơ bản của pháp luật quốc tế và mối quan hệ với pháp luật quốc gia.",
+      "objectives": [
+        "Nêu được khái niệm, vai trò và các nguyên tắc cơ bản của pháp luật quốc tế.",
+        "Nêu được mối quan hệ giữa pháp luật quốc tế và pháp luật quốc gia."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15: Một số nội dung cơ bản của Công pháp quốc tế về dân cư, lãnh thổ, biên giới quốc gia": {
+      "chapter": "MỘT SỐ VẤN ĐỀ CƠ BẢN CỦA PHÁP LUẬT QUỐC TẾ",
+      "content": "Tìm hiểu một số nội dung cơ bản của Công pháp quốc tế liên quan đến các vấn đề dân cư, lãnh thổ và biên giới quốc gia.",
+      "objectives": [
+        "Nêu được một số nội dung cơ bản của Công pháp quốc tế về dân cư, lãnh thổ và biên giới quốc gia."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16: Một số nguyên tắc cơ bản của Tổ chức Thương mại Thế giới và hợp đồng thương mại quốc tế": {
+      "chapter": "MỘT SỐ VẤN ĐỀ CƠ BẢN CỦA PHÁP LUẬT QUỐC TẾ",
+      "content": "Nêu các nguyên tắc cơ bản của Tổ chức Thương mại Thế giới (WTO) và các vấn đề liên quan đến hợp đồng thương mại quốc tế.",
+      "objectives": [
+        "Nêu được các nguyên tắc cơ bản của WTO và hợp đồng thương mại quốc tế."
+      ],
+      "common_exercises": []
+    }
+  }
+}

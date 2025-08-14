@@ -1,0 +1,725 @@
+
+{
+  "6": {
+    "Bài 1. Hệ thống kinh, vĩ tuyến và toạ độ địa lí": {
+      "chapter": "BẢN ĐỒ - PHƯƠNG TIỆN THỂ HIỆN BỀ MẶT TRÁI ĐẤT",
+      "content": "Tìm hiểu về hệ thống kinh tuyến, vĩ tuyến và cách xác định tọa độ địa lí trên bản đồ.",
+      "objectives": [
+        "Xác định được trên quả Địa Cầu hoặc bản đồ: kinh tuyến gốc, vĩ tuyến gốc (Xích đạo), các bán cầu Bắc và Nam, các bán cầu Đông và Tây.",
+        "Ghi được toạ độ địa lí của một điểm trên bản đồ.",
+        "Xác định được vị trí của một điểm trên bản đồ dựa vào toạ độ địa lí cho trước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Kí hiệu và chú giải trên một số bản đồ thông dụng": {
+      "chapter": "BẢN ĐỒ - PHƯƠNG TIỆN THỂ HIỆN BỀ MẶT TRÁI ĐẤT",
+      "content": "Học cách nhận biết, phân loại và đọc hiểu các kí hiệu, chú giải trên các loại bản đồ thông dụng.",
+      "objectives": [
+        "Nhận biết và phân biệt được các loại kí hiệu (điểm, đường, diện tích) trên bản đồ.",
+        "Đọc và hiểu được ý nghĩa của các kí hiệu và chú giải trên bản đồ thông dụng (bản đồ hành chính, bản đồ địa hình).",
+        "Sử dụng bảng chú giải để xác định nội dung, ý nghĩa của các đối tượng địa lí được thể hiện trên bản đồ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Tìm đường đi trên bản đồ": {
+      "chapter": "BẢN ĐỒ - PHƯƠNG TIỆN THỂ HIỆN BỀ MẶT TRÁI ĐẤT",
+      "content": "Thực hành các kĩ năng xác định phương hướng, tính khoảng cách và tìm đường đi trên bản đồ.",
+      "objectives": [
+        "Xác định được phương hướng trên bản đồ dựa vào các đường kinh tuyến, vĩ tuyến.",
+        "Tính được khoảng cách thực tế giữa hai địa điểm trên bản đồ dựa vào tỉ lệ bản đồ.",
+        "Tìm được đường đi ngắn nhất giữa hai địa điểm trên bản đồ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Lược đồ trí nhớ": {
+      "chapter": "BẢN ĐỒ - PHƯƠNG TIỆN THỂ HIỆN BỀ MẶT TRÁI ĐẤT",
+      "content": "Tìm hiểu khái niệm và thực hành vẽ lược đồ trí nhớ về một khu vực quen thuộc.",
+      "objectives": [
+        "Trình bày được khái niệm lược đồ trí nhớ.",
+        "Vẽ được lược đồ trí nhớ về một khu vực quen thuộc (đường đi từ nhà đến trường, khu vực quanh nhà...)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Vị trí Trái Đất trong hệ Mặt Trời. Hình dạng, kích thước của Trái Đất": {
+      "chapter": "TRÁI ĐẤT – HÀNH TINH CỦA HỆ MẶT TRỜI",
+      "content": "Mô tả vị trí, hình dạng và kích thước của Trái Đất trong hệ Mặt Trời.",
+      "objectives": [
+        "Mô tả được vị trí của Trái Đất trong hệ Mặt Trời.",
+        "Trình bày được hình dạng và kích thước của Trái Đất."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Chuyển động tự quay quanh trục của Trái Đất và hệ quả": {
+      "chapter": "TRÁI ĐẤT – HÀNH TINH CỦA HỆ MẶT TRỜI",
+      "content": "Nghiên cứu chuyển động tự quay của Trái Đất và các hệ quả địa lí quan trọng.",
+      "objectives": [
+        "Mô tả được chuyển động tự quay quanh trục của Trái Đất (hướng, thời gian).",
+        "Trình bày được các hệ quả của chuyển động tự quay: sự luân phiên ngày đêm, giờ trên Trái Đất, sự lệch hướng chuyển động của các vật thể."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Chuyển động quanh Mặt Trời của Trái Đất và hệ quả": {
+      "chapter": "TRÁI ĐẤT – HÀNH TINH CỦA HỆ MẶT TRỜI",
+      "content": "Khám phá chuyển động của Trái Đất quanh Mặt Trời và các hệ quả về mùa, ngày đêm.",
+      "objectives": [
+        "Mô tả được chuyển động của Trái Đất quanh Mặt Trời (hình dạng quỹ đạo, hướng, thời gian).",
+        "Trình bày được các hệ quả của chuyển động quanh Mặt Trời: hiện tượng các mùa và hiện tượng ngày đêm dài ngắn theo mùa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Thực hành xác định phương hướng ngoài thực tế": {
+      "chapter": "TRÁI ĐẤT – HÀNH TINH CỦA HỆ MẶT TRỜI",
+      "content": "Rèn luyện kĩ năng xác định phương hướng ngoài thực tế bằng la bàn và Mặt Trời.",
+      "objectives": [
+        "Xác định được phương hướng ngoài thực tế bằng cách sử dụng la bàn.",
+        "Xác định được phương hướng ngoài thực tế bằng cách dựa vào Mặt Trời."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Cấu tạo của Trái Đất. Động đất và núi lửa": {
+      "chapter": "CẤU TẠO CỦA TRÁI ĐẤT. VỎ TRÁI ĐẤT",
+      "content": "Tìm hiểu về cấu tạo bên trong của Trái Đất và các hiện tượng động đất, núi lửa.",
+      "objectives": [
+        "Trình bày được cấu tạo bên trong của Trái Đất (các lớp vỏ, trung gian, lõi).",
+        "Nêu được nguyên nhân và hậu quả của hiện tượng động đất, núi lửa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Quá trình nội sinh và ngoại sinh. Các dạng địa hình chính. Khoáng sản": {
+      "chapter": "CẤU TẠO CỦA TRÁI ĐẤT. VỎ TRÁI ĐẤT",
+      "content": "Phân biệt các quá trình nội sinh, ngoại sinh và nhận biết các dạng địa hình, khoáng sản chính.",
+      "objectives": [
+        "Phân biệt được quá trình nội sinh và ngoại sinh.",
+        "Nhận biết được các dạng địa hình chính: núi, cao nguyên, đồi, đồng bằng.",
+        "Phân biệt được các loại khoáng sản (năng lượng, kim loại, phi kim loại)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Thực hành đọc lược đồ địa hình tỉ lệ lớn và lát cắt địa hình đơn giản": {
+      "chapter": "CẤU TẠO CỦA TRÁI ĐẤT. VỎ TRÁI ĐẤT",
+      "content": "Thực hành kĩ năng đọc hiểu lược đồ địa hình và vẽ lát cắt địa hình.",
+      "objectives": [
+        "Đọc và hiểu được thông tin trên lược đồ địa hình tỉ lệ lớn (đường đồng mức, điểm độ cao).",
+        "Vẽ được lát cắt địa hình đơn giản dựa trên lược đồ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Lớp vỏ khí. Khối khí. Khí áp và gió trên Trái Đất": {
+      "chapter": "KHÍ HẬU VÀ BIẾN ĐỔI KHÍ HẬU",
+      "content": "Nghiên cứu về lớp vỏ khí, các khối khí, sự phân bố khí áp và các loại gió chính trên Trái Đất.",
+      "objectives": [
+        "Trình bày được thành phần của không khí.",
+        "Nêu được đặc điểm của các khối khí.",
+        "Trình bày được sự phân bố các đai khí áp và các loại gió chính trên Trái Đất."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Thời tiết và khí hậu. Các đới khí hậu trên Trái Đất": {
+      "chapter": "KHÍ HẬU VÀ BIẾN ĐỔI KHÍ HẬU",
+      "content": "Phân biệt thời tiết và khí hậu, và tìm hiểu đặc điểm của các đới khí hậu chính.",
+      "objectives": [
+        "Phân biệt được thời tiết và khí hậu.",
+        "Trình bày được đặc điểm chính của các đới khí hậu trên Trái Đất (nhiệt đới, ôn đới, hàn đới)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Biến đổi khí hậu và ứng phó với biến đổi khí hậu": {
+      "chapter": "KHÍ HẬU VÀ BIẾN ĐỔI KHÍ HẬU",
+      "content": "Tìm hiểu những biểu hiện và các biện pháp ứng phó với biến đổi khí hậu.",
+      "objectives": [
+        "Nêu được những biểu hiện của biến đổi khí hậu.",
+        "Trình bày được một số biện pháp ứng phó với biến đổi khí hậu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Thực hành phân tích biểu đồ nhiệt độ và lượng mưa": {
+      "chapter": "KHÍ HẬU VÀ BIẾN ĐỔI KHÍ HẬU",
+      "content": "Thực hành kĩ năng đọc và phân tích biểu đồ nhiệt độ, lượng mưa để xác định đặc điểm khí hậu.",
+      "objectives": [
+        "Đọc và phân tích biểu đồ nhiệt độ và lượng mưa để xác định đặc điểm khí hậu của một địa phương."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Thuỷ quyển. Vòng tuần hoàn nước. Nước ngầm, băng hà": {
+      "chapter": "NƯỚC TRÊN TRÁI ĐẤT",
+      "content": "Nghiên cứu về thủy quyển, vòng tuần hoàn nước và vai trò của nước ngầm, băng hà.",
+      "objectives": [
+        "Trình bày được khái niệm thủy quyển và vòng tuần hoàn lớn của nước.",
+        "Nêu được vai trò của nước ngầm và băng hà."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Sông và hồ": {
+      "chapter": "NƯỚC TRÊN TRÁI ĐẤT",
+      "content": "Mô tả các bộ phận của sông và mối quan hệ giữa mùa lũ và nguồn cung cấp nước.",
+      "objectives": [
+        "Mô tả được các bộ phận của một dòng sông.",
+        "Trình bày được mối quan hệ giữa mùa lũ của sông và nguồn cung cấp nước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Biển và đại dương": {
+      "chapter": "NƯỚC TRÊN TRÁI ĐẤT",
+      "content": "Trình bày một số đặc điểm cơ bản của biển và đại dương như độ muối và các dạng vận động của nước.",
+      "objectives": [
+        "Trình bày được một số đặc điểm của biển và đại dương (độ muối, các dạng vận động của nước biển)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Lớp đất và các nhân tố hình thành đất. Một số nhóm đất điển hình": {
+      "chapter": "ĐẤT VÀ SINH VẬT TRÊN TRÁI ĐẤT",
+      "content": "Tìm hiểu về các thành phần, nhân tố hình thành đất và một số nhóm đất chính.",
+      "objectives": [
+        "Trình bày được các thành phần chính của đất.",
+        "Nêu được các nhân tố hình thành đất."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Sinh vật và sự phân bố các đới thiên nhiên. Rừng nhiệt đới": {
+      "chapter": "ĐẤT VÀ SINH VẬT TRÊN TRÁI ĐẤT",
+      "content": "Nghiên cứu sự phân bố của các đới thiên nhiên và đặc điểm của rừng nhiệt đới.",
+      "objectives": [
+        "Trình bày được sự phân bố của các đới thiên nhiên trên Trái Đất.",
+        "Mô tả được đặc điểm của rừng nhiệt đới."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Thực hành tìm hiểu môi trường tự nhiên qua tài liệu và tham quan địa phương": {
+      "chapter": "ĐẤT VÀ SINH VẬT TRÊN TRÁI ĐẤT",
+      "content": "Thực hành thu thập và xử lý thông tin về môi trường tự nhiên tại địa phương.",
+      "objectives": [
+        "Thu thập và xử lí thông tin về môi trường tự nhiên ở địa phương."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22. Dân số và phân bố dân cư": {
+      "chapter": "CON NGƯỜI VÀ THIÊN NHIÊN",
+      "content": "Trình bày tình hình gia tăng dân số và đặc điểm phân bố dân cư trên thế giới.",
+      "objectives": [
+        "Trình bày được tình hình gia tăng dân số thế giới.",
+        "Nêu được đặc điểm phân bố dân cư trên thế giới."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Con người và thiên nhiên": {
+      "chapter": "CON NGƯỜI VÀ THIÊN NHIÊN",
+      "content": "Phân tích mối quan hệ tương tác hai chiều giữa con người và thiên nhiên.",
+      "objectives": [
+        "Phân tích được tác động của thiên nhiên đối với hoạt động sản xuất và sinh hoạt của con người.",
+        "Phân tích được tác động của con người đến thiên nhiên."
+      ],
+      "common_exercises": []
+    },
+    "Bài 24. Thực hành tác động của con người đến thiên nhiên": {
+      "chapter": "CON NGƯỜI VÀ THIÊN NHIÊN",
+      "content": "Phân tích các tác động tích cực và tiêu cực của con người đến thiên nhiên qua các ví dụ cụ thể.",
+      "objectives": [
+        "Phân tích được tác động tích cực và tiêu cực của con người đến thiên nhiên thông qua các ví dụ cụ thể."
+      ],
+      "common_exercises": []
+    }
+  },
+  "7": {
+    "Bài 1. Thiên nhiên châu Âu": {
+      "chapter": "CHÂU ÂU",
+      "content": "Nghiên cứu đặc điểm vị trí, địa hình, khí hậu và sông ngòi của châu Âu.",
+      "objectives": [
+        "Trình bày được đặc điểm vị trí địa lí, hình dạng, kích thước của châu Âu.",
+        "Phân tích được đặc điểm các khu vực địa hình chính (đồng bằng, núi già, núi trẻ).",
+        "Trình bày được sự phân hoá khí hậu và đặc điểm các sông lớn (Rai-nơ, Đa-nuýp, Von-ga)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Đặc điểm dân cư, xã hội châu Âu": {
+      "chapter": "CHÂU ÂU",
+      "content": "Phân tích đặc điểm cơ cấu dân cư, vấn đề di cư và đô thị hóa ở châu Âu.",
+      "objectives": [
+        "Trình bày được đặc điểm cơ cấu dân cư (cơ cấu theo tuổi và giới tính, cơ cấu theo trình độ học vấn).",
+        "Phân tích được vấn đề di cư và đô thị hoá ở châu Âu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên châu Âu": {
+      "chapter": "CHÂU ÂU",
+      "content": "Phân tích cách con người khai thác và bảo vệ thiên nhiên ở các môi trường khác nhau của châu Âu.",
+      "objectives": [
+        "Phân tích được phương thức khai thác, sử dụng và bảo vệ thiên nhiên ở các môi trường (ôn đới, địa trung hải, núi cao)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Liên minh châu Âu": {
+      "chapter": "CHÂU ÂU",
+      "content": "Tìm hiểu về lịch sử hình thành, phát triển, mục đích và thể chế của Liên minh châu Âu (EU).",
+      "objectives": [
+        "Trình bày được lịch sử hình thành và phát triển của Liên minh châu Âu (EU).",
+        "Nêu được mục đích và thể chế hoạt động của EU."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Thiên nhiên châu Á": {
+      "chapter": "CHÂU Á",
+      "content": "Phân tích các đặc điểm tự nhiên nổi bật của châu Á về vị trí, địa hình, khí hậu, sông ngòi.",
+      "objectives": [
+        "Trình bày được đặc điểm vị trí địa lí, hình dạng, kích thước của châu Á.",
+        "Phân tích được đặc điểm địa hình, khoáng sản, khí hậu, sông ngòi và các đới thiên nhiên của châu Á."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Đặc điểm dân cư, xã hội châu Á": {
+      "chapter": "CHÂU Á",
+      "content": "Trình bày đặc điểm dân cư và sự đa dạng về tôn giáo của châu Á.",
+      "objectives": [
+        "Trình bày được đặc điểm dân cư và sự đa dạng về tôn giáo ở châu Á."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Bản đồ chính trị châu Á, các khu vực của châu Á": {
+      "chapter": "CHÂU Á",
+      "content": "Xác định vị trí và trình bày đặc điểm tự nhiên, dân cư, xã hội của các khu vực ở châu Á.",
+      "objectives": [
+        "Xác định được vị trí và trình bày được đặc điểm tự nhiên, dân cư, xã hội của các khu vực ở châu Á."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Thực hành: tìm hiểu các nền kinh tế lớn và kinh tế mới nổi ở châu Á": {
+      "chapter": "CHÂU Á",
+      "content": "Thu thập và trình bày thông tin về một số nền kinh tế lớn và mới nổi ở châu Á.",
+      "objectives": [
+        "Thu thập và trình bày được thông tin về một số nền kinh tế lớn và mới nổi ở châu Á (Nhật Bản, Trung Quốc, Hàn Quốc, Xin-ga-po)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Thiên nhiên châu Phi": {
+      "chapter": "CHÂU PHI",
+      "content": "Phân tích các đặc điểm tự nhiên nổi bật của châu Phi về vị trí, địa hình, khí hậu, sông ngòi.",
+      "objectives": [
+        "Trình bày được đặc điểm vị trí địa lí, hình dạng, kích thước của châu Phi.",
+        "Phân tích được đặc điểm địa hình, khoáng sản, khí hậu, sông ngòi và các đới thiên nhiên của châu Phi."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Đặc điểm dân cư, xã hội châu Phi": {
+      "chapter": "CHÂU PHI",
+      "content": "Trình bày các vấn đề về dân cư, xã hội và di sản lịch sử ở châu Phi.",
+      "objectives": [
+        "Trình bày được các vấn đề về dân cư, xã hội và di sản lịch sử ở châu Phi."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên châu Phi": {
+      "chapter": "CHÂU PHI",
+      "content": "Phân tích các vấn đề môi trường trong việc khai thác, sử dụng và bảo vệ thiên nhiên ở châu Phi.",
+      "objectives": [
+        "Phân tích được các vấn đề môi trường trong khai thác, sử dụng và bảo vệ thiên nhiên ở châu Phi."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Thực hành: sưu tầm tư liệu về Cộng hoà Nam Phi": {
+      "chapter": "CHÂU PHI",
+      "content": "Thu thập và trình bày thông tin về đặc điểm tự nhiên hoặc dân cư, xã hội của Cộng hoà Nam Phi.",
+      "objectives": [
+        "Thu thập và trình bày được thông tin về đặc điểm tự nhiên hoặc dân cư, xã hội của Cộng hoà Nam Phi."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Phát kiến ra châu Mỹ, vị trí địa lí và phạm vi châu Mỹ": {
+      "chapter": "CHÂU MỸ",
+      "content": "Trình bày về vị trí địa lí và phạm vi lãnh thổ của châu Mỹ.",
+      "objectives": [
+        "Trình bày được vị trí địa lí và phạm vi lãnh thổ của châu Mỹ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Thiên nhiên và dân cư, xã hội Bắc Mỹ": {
+      "chapter": "CHÂU MỸ",
+      "content": "Trình bày các đặc điểm nổi bật về thiên nhiên, dân cư và xã hội của khu vực Bắc Mỹ.",
+      "objectives": [
+        "Trình bày được đặc điểm thiên nhiên và dân cư, xã hội của Bắc Mỹ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Phương thức con người khai thác tự nhiên bền vững, một số trung tâm kinh tế của Bắc Mỹ": {
+      "chapter": "CHÂU MỸ",
+      "content": "Phân tích phương thức khai thác tự nhiên bền vững và xác định các trung tâm kinh tế lớn ở Bắc Mỹ.",
+      "objectives": [
+        "Phân tích được phương thức khai thác tự nhiên bền vững và xác định được một số trung tâm kinh tế của Bắc Mỹ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Thiên nhiên Trung và Nam Mỹ": {
+      "chapter": "CHÂU MỸ",
+      "content": "Trình bày các đặc điểm tự nhiên của khu vực Trung và Nam Mỹ.",
+      "objectives": [
+        "Trình bày được đặc điểm thiên nhiên của Trung và Nam Mỹ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Đặc điểm dân cư Trung và Nam Mỹ, vấn đề đô thị hoá, văn hoá Mỹ Latinh": {
+      "chapter": "CHÂU MỸ",
+      "content": "Nghiên cứu đặc điểm dân cư, vấn đề đô thị hóa và nét đặc sắc của văn hóa Mỹ Latinh.",
+      "objectives": [
+        "Trình bày được đặc điểm dân cư, vấn đề đô thị hoá và nét đặc sắc của văn hoá Mỹ Latinh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Vấn đề khai thác, sử dụng và bảo vệ rừng A-ma-dôn": {
+      "chapter": "CHÂU MỸ",
+      "content": "Phân tích các vấn đề liên quan đến việc khai thác, sử dụng và bảo vệ rừng A-ma-dôn.",
+      "objectives": [
+        "Phân tích được vấn đề khai thác, sử dụng và bảo vệ rừng A-ma-dôn."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Thiên nhiên châu Đại Dương": {
+      "chapter": "CHÂU ĐẠI DƯƠNG",
+      "content": "Trình bày các đặc điểm thiên nhiên của châu Đại Dương.",
+      "objectives": [
+        "Trình bày được đặc điểm thiên nhiên của châu Đại Dương."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Đặc điểm dân cư, xã hội Ô-xtrây-li-a": {
+      "chapter": "CHÂU ĐẠI DƯƠNG",
+      "content": "Trình bày các đặc điểm dân cư và xã hội của Ô-xtrây-li-a.",
+      "objectives": [
+        "Trình bày được đặc điểm dân cư và xã hội của Ô-xtrây-li-a."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên ở Ô-xtrây-li-a": {
+      "chapter": "CHÂU ĐẠI DƯƠNG",
+      "content": "Phân tích phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên ở Ô-xtrây-li-a.",
+      "objectives": [
+        "Phân tích được phương thức khai thác, sử dụng và bảo vệ thiên nhiên ở Ô-xtrây-li-a."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22. Vị trí địa lí, lịch sử khám phá và nghiên cứu châu Nam Cực": {
+      "chapter": "CHÂU NAM CỰC",
+      "content": "Trình bày về vị trí địa lí và lịch sử khám phá, nghiên cứu châu Nam Cực.",
+      "objectives": [
+        "Trình bày được vị trí địa lí và lịch sử khám phá, nghiên cứu châu Nam Cực."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Thiên nhiên châu Nam Cực": {
+      "chapter": "CHÂU NAM CỰC",
+      "content": "Trình bày các đặc điểm thiên nhiên khắc nghiệt và độc đáo của châu Nam Cực.",
+      "objectives": [
+        "Trình bày được đặc điểm thiên nhiên của châu Nam Cực."
+      ],
+      "common_exercises": []
+    }
+  },
+  "8": {
+    "Bài 1. Đặc điểm vị trí địa lí và phạm vi lãnh thổ": {
+      "chapter": "ĐẶC ĐIỂM VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ, ĐỊA HÌNH VÀ KHOÁNG SẢN VIỆT NAM",
+      "content": "Trình bày đặc điểm vị trí địa lí và phạm vi lãnh thổ của Việt Nam, bao gồm vùng đất, vùng biển và vùng trời.",
+      "objectives": [
+        "Trình bày được đặc điểm vị trí địa lí và phạm vi lãnh thổ (vùng đất, vùng biển, vùng trời) của Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Đặc điểm địa hình": {
+      "chapter": "ĐẶC ĐIỂM VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ, ĐỊA HÌNH VÀ KHOÁNG SẢN VIỆT NAM",
+      "content": "Phân tích đặc điểm chung và các khu vực địa hình chính của Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm chung của địa hình Việt Nam (phần lớn là đồi núi, cấu trúc cổ được trẻ lại, có tính phân bậc, thấp dần ra biển).",
+        "Trình bày được đặc điểm của các khu vực địa hình: đồi núi, đồng bằng, bờ biển và thềm lục địa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Ảnh hưởng của địa hình đối với sự phân hoá tự nhiên và khai thác kinh tế": {
+      "chapter": "ĐẶC ĐIỂM VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ, ĐỊA HÌNH VÀ KHOÁNG SẢN VIỆT NAM",
+      "content": "Phân tích ảnh hưởng của địa hình đối với sự phân hóa tự nhiên và hoạt động khai thác kinh tế.",
+      "objectives": [
+        "Phân tích được ảnh hưởng của địa hình đối với sự phân hoá tự nhiên và khai thác kinh tế."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Đặc điểm chung của tài nguyên khoáng sản, sử dụng hợp lí tài nguyên khoáng sản": {
+      "chapter": "ĐẶC ĐIỂM VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ, ĐỊA HÌNH VÀ KHOÁNG SẢN VIỆT NAM",
+      "content": "Trình bày đặc điểm chung và sự cần thiết phải sử dụng hợp lý tài nguyên khoáng sản ở Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm chung của tài nguyên khoáng sản Việt Nam.",
+        "Nêu được sự cần thiết phải sử dụng hợp lí tài nguyên khoáng sản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Thực hành: Phân tích đặc điểm phân bố các loại khoáng sản chủ yếu": {
+      "chapter": "ĐẶC ĐIỂM VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ, ĐỊA HÌNH VÀ KHOÁNG SẢN VIỆT NAM",
+      "content": "Thực hành xác định sự phân bố của một số loại khoáng sản chủ yếu trên bản đồ.",
+      "objectives": [
+        "Xác định được trên bản đồ sự phân bố của một số loại khoáng sản chủ yếu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Đặc điểm khí hậu": {
+      "chapter": "ĐẶC ĐIỂM KHÍ HẬU VÀ THUỶ VĂN VIỆT NAM",
+      "content": "Trình bày đặc điểm khí hậu nhiệt đới ẩm gió mùa và sự phân hóa khí hậu của Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm khí hậu nhiệt đới ẩm gió mùa của Việt Nam.",
+        "Phân tích được sự phân hoá của khí hậu Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Thực hành: Vẽ và phân tích biểu đồ khí hậu": {
+      "chapter": "ĐẶC ĐIỂM KHÍ HẬU VÀ THUỶ VĂN VIỆT NAM",
+      "content": "Thực hành kỹ năng vẽ và phân tích biểu đồ nhiệt độ và lượng mưa.",
+      "objectives": [
+        "Vẽ và phân tích được biểu đồ nhiệt độ và lượng mưa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Đặc điểm thuỷ văn": {
+      "chapter": "ĐẶC ĐIỂM KHÍ HẬU VÀ THUỶ VĂN VIỆT NAM",
+      "content": "Trình bày đặc điểm mạng lưới sông ngòi và chế độ nước sông của Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm mạng lưới sông ngòi và chế độ nước sông của Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Tác động của biến đổi khí hậu đối với khí hậu và thuỷ văn Việt Nam": {
+      "chapter": "ĐẶC ĐIỂM KHÍ HẬU VÀ THUỶ VĂN VIỆT NAM",
+      "content": "Trình bày những tác động của biến đổi khí hậu đối với khí hậu và thủy văn Việt Nam.",
+      "objectives": [
+        "Trình bày được tác động của biến đổi khí hậu đối với khí hậu và thuỷ văn Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Vai trò của tài nguyên khí hậu và tài nguyên nước": {
+      "chapter": "ĐẶC ĐIỂM KHÍ HẬU VÀ THUỶ VĂN VIỆT NAM",
+      "content": "Phân tích vai trò của tài nguyên khí hậu và tài nguyên nước đối với sản xuất và đời sống.",
+      "objectives": [
+        "Phân tích được vai trò của tài nguyên khí hậu và tài nguyên nước đối với sản xuất và đời sống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Đặc điểm chung và sự phân bố của lớp phủ thổ nhưỡng": {
+      "chapter": "ĐẶC ĐIỂM THỔ NHƯỠNG VÀ SINH VẬT VIỆT NAM",
+      "content": "Trình bày đặc điểm chung và sự phân bố của các nhóm đất chính ở Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm chung và sự phân bố của các nhóm đất chính ở Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Sử dụng hợp lí tài nguyên đất": {
+      "chapter": "ĐẶC ĐIỂM THỔ NHƯỠNG VÀ SINH VẬT VIỆT NAM",
+      "content": "Phân tích tầm quan trọng của việc sử dụng hợp lý tài nguyên đất.",
+      "objectives": [
+        "Phân tích được tầm quan trọng của việc sử dụng hợp lí tài nguyên đất."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Đặc điểm của sinh vật và vấn đề bảo tồn đa dạng sinh học": {
+      "chapter": "ĐẶC ĐIỂM THỔ NHƯỠNG VÀ SINH VẬT VIỆT NAM",
+      "content": "Trình bày đặc điểm sinh vật Việt Nam và vấn đề cấp thiết về bảo tồn đa dạng sinh học.",
+      "objectives": [
+        "Trình bày được đặc điểm của sinh vật Việt Nam và vấn đề bảo tồn đa dạng sinh học."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Vị trí địa lí Biển Đông, các vùng biển của Việt Nam": {
+      "chapter": "BIỂN ĐẢO VIỆT NAM",
+      "content": "Trình bày vị trí địa lí của Biển Đông và các vùng biển thuộc chủ quyền của Việt Nam.",
+      "objectives": [
+        "Trình bày được vị trí địa lí của Biển Đông và các vùng biển của Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Đặc điểm tự nhiên, môi trường và tài nguyên vùng biển đảo Việt Nam": {
+      "chapter": "BIỂN ĐẢO VIỆT NAM",
+      "content": "Trình bày các đặc điểm về tự nhiên, môi trường và tài nguyên của vùng biển đảo Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm tự nhiên, môi trường và tài nguyên vùng biển đảo Việt Nam."
+      ],
+      "common_exercises": []
+    }
+  },
+  "9": {
+    "Bài 1. Dân cư và dân tộc, chất lượng cuộc sống": {
+      "chapter": "ĐỊA LÍ DÂN CƯ VIỆT NAM",
+      "content": "Trình bày các đặc điểm về dân cư, dân tộc và chất lượng cuộc sống ở Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm dân cư, dân tộc và chất lượng cuộc sống ở Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Phân bố dân cư và các loại hình quần cư": {
+      "chapter": "ĐỊA LÍ DÂN CƯ VIỆT NAM",
+      "content": "Phân tích đặc điểm phân bố dân cư và các loại hình quần cư ở Việt Nam.",
+      "objectives": [
+        "Phân tích được đặc điểm phân bố dân cư và các loại hình quần cư ở Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Thực hành: Phân tích vấn đề việc làm ở địa phương": {
+      "chapter": "ĐỊA LÍ DÂN CƯ VIỆT NAM",
+      "content": "Thực hành phân tích vấn đề việc làm ở địa phương thông qua số liệu và biểu đồ.",
+      "objectives": [
+        "Phân tích được vấn đề việc làm ở địa phương thông qua số liệu và biểu đồ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Nông nghiệp, lâm nghiệp, thuỷ sản": {
+      "chapter": "ĐỊA LÍ CÁC NGÀNH KINH TẾ VIỆT NAM",
+      "content": "Trình bày đặc điểm phát triển và phân bố của ngành nông nghiệp, lâm nghiệp, thuỷ sản.",
+      "objectives": [
+        "Trình bày được đặc điểm phát triển và phân bố của ngành nông nghiệp, lâm nghiệp, thuỷ sản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Thực hành: Viết báo cáo về một số mô hình sản xuất nông nghiệp có hiệu quả": {
+      "chapter": "ĐỊA LÍ CÁC NGÀNH KINH TẾ VIỆT NAM",
+      "content": "Thực hành viết báo cáo ngắn về một mô hình sản xuất nông nghiệp hiệu quả.",
+      "objectives": [
+        "Viết được báo cáo ngắn về một mô hình sản xuất nông nghiệp hiệu quả."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Công nghiệp": {
+      "chapter": "ĐỊA LÍ CÁC NGÀNH KINH TẾ VIỆT NAM",
+      "content": "Trình bày đặc điểm phát triển và phân bố của các ngành công nghiệp chính ở Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm phát triển và phân bố của các ngành công nghiệp chính."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Thực hành: Xác định các trung tâm công nghiệp chính ở nước ta": {
+      "chapter": "ĐỊA LÍ CÁC NGÀNH KINH TẾ VIỆT NAM",
+      "content": "Thực hành xác định các trung tâm công nghiệp chính và cơ cấu ngành của chúng trên bản đồ.",
+      "objectives": [
+        "Xác định được trên bản đồ các trung tâm công nghiệp chính và cơ cấu ngành của chúng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Dịch vụ": {
+      "chapter": "ĐỊA LÍ CÁC NGÀNH KINH TẾ VIỆT NAM",
+      "content": "Trình bày đặc điểm phát triển và phân bố của các ngành dịch vụ ở Việt Nam.",
+      "objectives": [
+        "Trình bày được đặc điểm phát triển và phân bố của các ngành dịch vụ (giao thông vận tải, bưu chính viễn thông, thương mại, du lịch)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Vùng Trung du và miền núi Bắc Bộ": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Trình bày đặc điểm tự nhiên, kinh tế - xã hội của vùng Trung du và miền núi Bắc Bộ.",
+      "objectives": [
+        "Trình bày được đặc điểm tự nhiên, kinh tế - xã hội của vùng Trung du và miền núi Bắc Bộ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Thực hành: Vẽ sơ đồ thể hiện các thế mạnh về tự nhiên để phát triển kinh tế – xã hội của vùng Trung du và miền núi Bắc Bộ": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Thực hành vẽ sơ đồ tư duy thể hiện thế mạnh tự nhiên của vùng Trung du và miền núi Bắc Bộ.",
+      "objectives": [
+        "Vẽ được sơ đồ tư duy thể hiện thế mạnh tự nhiên của vùng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Vùng Đồng bằng sông Hồng": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Trình bày đặc điểm tự nhiên, kinh tế - xã hội của vùng Đồng bằng sông Hồng.",
+      "objectives": [
+        "Trình bày được đặc điểm tự nhiên, kinh tế - xã hội của vùng Đồng bằng sông Hồng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Thực hành: Sưu tầm tư liệu và trình bày về vùng kinh tế trọng điểm Bắc Bộ": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Thực hành trình bày thông tin về vùng kinh tế trọng điểm Bắc Bộ.",
+      "objectives": [
+        "Trình bày được thông tin về vùng kinh tế trọng điểm Bắc Bộ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Bắc Trung Bộ": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Trình bày đặc điểm tự nhiên, kinh tế - xã hội của vùng Bắc Trung Bộ.",
+      "objectives": [
+        "Trình bày được đặc điểm tự nhiên, kinh tế - xã hội của vùng Bắc Trung Bộ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Thực hành: Tìm hiểu vấn đề phòng chống thiên tai và ứng phó với biến đổi khí hậu ở Bắc Trung Bộ": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Phân tích vấn đề phòng chống thiên tai và ứng phó với biến đổi khí hậu ở Bắc Trung Bộ.",
+      "objectives": [
+        "Phân tích được vấn đề phòng chống thiên tai và ứng phó với biến đổi khí hậu ở Bắc Trung Bộ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Duyên hải Nam Trung Bộ": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Trình bày đặc điểm tự nhiên, kinh tế - xã hội của vùng Duyên hải Nam Trung Bộ.",
+      "objectives": [
+        "Trình bày được đặc điểm tự nhiên, kinh tế - xã hội của vùng Duyên hải Nam Trung Bộ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Thực hành: Phân tích ảnh hưởng của hạn hán và sa mạc hoá đối với phát triển kinh tế - xã hội ở vùng khô hạn Ninh Thuận - Bình Thuận": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Phân tích ảnh hưởng của hạn hán và sa mạc hóa ở Ninh Thuận - Bình Thuận.",
+      "objectives": [
+        "Phân tích được ảnh hưởng của hạn hán và sa mạc hoá ở Ninh Thuận - Bình Thuận."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Vùng Tây Nguyên": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Trình bày đặc điểm tự nhiên, kinh tế - xã hội của vùng Tây Nguyên.",
+      "objectives": [
+        "Trình bày được đặc điểm tự nhiên, kinh tế - xã hội của vùng Tây Nguyên."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Thực hành: Vấn đề môi trường trong phát triển kinh tế - xã hội ở Tây Nguyên": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Phân tích vấn đề môi trường trong phát triển kinh tế - xã hội ở Tây Nguyên.",
+      "objectives": [
+        "Phân tích được vấn đề môi trường trong phát triển kinh tế - xã hội ở Tây Nguyên."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Vùng Đông Nam Bộ": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Trình bày đặc điểm tự nhiên, kinh tế - xã hội của vùng Đông Nam Bộ.",
+      "objectives": [
+        "Trình bày được đặc điểm tự nhiên, kinh tế - xã hội của vùng Đông Nam Bộ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Thực hành: Viết báo cáo về vùng kinh tế trọng điểm phía Nam": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Thực hành viết báo cáo ngắn về vùng kinh tế trọng điểm phía Nam.",
+      "objectives": [
+        "Viết được báo cáo ngắn về vùng kinh tế trọng điểm phía Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Vùng Đồng bằng sông Cửu Long": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Trình bày đặc điểm tự nhiên, kinh tế - xã hội của vùng Đồng bằng sông Cửu Long.",
+      "objectives": [
+        "Trình bày được đặc điểm tự nhiên, kinh tế - xã hội của vùng Đồng bằng sông Cửu Long."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22. Thực hành: Phân tích tác động của biến đổi khí hậu đối với Đồng bằng sông Cửu Long": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Phân tích tác động của biến đổi khí hậu đối với Đồng bằng sông Cửu Long.",
+      "objectives": [
+        "Phân tích được tác động của biến đổi khí hậu đối với Đồng bằng sông Cửu Long."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Phát triển tổng hợp kinh tế và bảo vệ tài nguyên, môi trường biển đảo": {
+      "chapter": "SỰ PHÂN HOÁ LÃNH THỔ",
+      "content": "Trình bày các ngành kinh tế biển và vấn đề bảo vệ tài nguyên, môi trường biển đảo.",
+      "objectives": [
+        "Trình bày được các ngành kinh tế biển và vấn đề bảo vệ tài nguyên, môi trường biển đảo."
+      ],
+      "common_exercises": []
+    }
+  }
+}

@@ -1,0 +1,796 @@
+
+{
+  "6": {
+    "Bài 1. Lịch sử là gì?": {
+      "chapter": "TẠI SAO CẦN HỌC LỊCH SỬ?",
+      "content": "Khám phá khái niệm Lịch sử, tầm quan trọng của việc học Lịch sử và cách phân biệt các nguồn sử liệu cơ bản.",
+      "objectives": [
+        "Nêu được khái niệm Lịch sử và môn Lịch sử.",
+        "Giải thích được vì sao cần phải học Lịch sử.",
+        "Phân biệt được các nguồn sử liệu cơ bản: tư liệu truyền miệng, tư liệu hiện vật, tư liệu chữ viết.",
+        "Hiểu được giá trị và ý nghĩa của tư liệu gốc trong việc tìm hiểu lịch sử."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Thời gian trong lịch sử": {
+      "chapter": "TẠI SAO CẦN HỌC LỊCH SỬ?",
+      "content": "Tìm hiểu về cách tính thời gian trong lịch sử, bao gồm Âm lịch, Dương lịch và các khái niệm như thập kỉ, thế kỉ.",
+      "objectives": [
+        "Giải thích được cơ sở của cách tính thời gian theo Âm lịch và Dương lịch.",
+        "Hiểu và sử dụng được các khái niệm: thập kỉ, thế kỉ, thiên niên kỉ.",
+        "Xác định được các mốc thời gian trước Công nguyên (TCN) và Công nguyên (CN) trên trục thời gian."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Nguồn gốc loài người": {
+      "chapter": "THỜI KÌ NGUYÊN THUỶ",
+      "content": "Nghiên cứu quá trình tiến hóa từ Vượn người thành người hiện đại, và xác định các dấu tích của Người tối cổ tại Đông Nam Á và Việt Nam.",
+      "objectives": [
+        "Trình bày được quá trình tiến hoá từ Vượn người thành Người tối cổ và Người tinh khôn.",
+        "Xác định được trên bản đồ những dấu tích của Người tối cổ ở Đông Nam Á và Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Xã hội nguyên thuỷ": {
+      "chapter": "THỜI KÌ NGUYÊN THUỶ",
+      "content": "Mô tả các giai đoạn phát triển của xã hội nguyên thủy, bao gồm đời sống vật chất, tinh thần, tín ngưỡng và nghệ thuật.",
+      "objectives": [
+        "Mô tả được các giai đoạn phát triển của xã hội nguyên thuỷ: bầy người nguyên thuỷ và công xã thị tộc.",
+        "Trình bày được những nét chính về đời sống vật chất (công cụ, cách thức lao động) và tinh thần (tín ngưỡng, nghệ thuật) của người nguyên thuỷ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Sự chuyển biến từ xã hội nguyên thuỷ sang xã hội có giai cấp": {
+      "chapter": "THỜI KÌ NGUYÊN THUỶ",
+      "content": "Tìm hiểu về vai trò của việc phát hiện kim loại và sự hình thành xã hội có giai cấp từ sự xuất hiện của tư hữu.",
+      "objectives": [
+        "Trình bày được vai trò của việc phát hiện ra kim loại đối với sự chuyển biến xã hội.",
+        "Mô tả được sự hình thành xã hội có giai cấp từ sự xuất hiện của tư hữu và phân hoá giàu nghèo.",
+        "Giải thích được nguyên nhân tan rã của xã hội nguyên thuỷ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Ai Cập cổ đại": {
+      "chapter": "XÃ HỘI CỔ ĐẠI",
+      "content": "Khám phá nền văn minh Ai Cập cổ đại, từ tác động của sông Nin đến các thành tựu văn hóa tiêu biểu.",
+      "objectives": [
+        "Nêu được tác động của điều kiện tự nhiên (sông Nin) đối với sự hình thành nền văn minh Ai Cập.",
+        "Trình bày được quá trình thành lập nhà nước Ai Cập cổ đại.",
+        "Nêu được những thành tựu văn hoá tiêu biểu: chữ viết, toán học, kiến trúc, điêu khắc, y học."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Lưỡng Hà cổ đại": {
+      "chapter": "XÃ HỘI CỔ ĐẠI",
+      "content": "Tìm hiểu nền văn minh Lưỡng Hà cổ đại, ảnh hưởng của các con sông và các thành tựu văn hóa như chữ viết, luật pháp.",
+      "objectives": [
+        "Nêu được tác động của điều kiện tự nhiên (sông Ti-gơ-rơ và Ơ-phơ-rát) đối với sự hình thành nền văn minh Lưỡng Hà.",
+        "Trình bày được quá trình thành lập nhà nước Lưỡng Hà cổ đại.",
+        "Nêu được những thành tựu văn hoá tiêu biểu: chữ viết, luật pháp, toán học, kiến trúc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Ấn Độ cổ đại": {
+      "chapter": "XÃ HỘI CỔ ĐẠI",
+      "content": "Nghiên cứu nền văn minh Ấn Độ cổ đại, chế độ đẳng cấp Vác-na và các thành tựu văn hóa như tôn giáo, chữ viết, văn học.",
+      "objectives": [
+        "Nêu được tác động của điều kiện tự nhiên (sông Ấn, sông Hằng) đối với sự hình thành nền văn minh Ấn Độ.",
+        "Trình bày được những điểm chính về chế độ đẳng cấp Vác-na.",
+        "Nêu được những thành tựu văn hoá tiêu biểu: tôn giáo (Hin-đu giáo, Phật giáo), chữ viết, văn học, khoa học tự nhiên, kiến trúc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Trung Quốc từ thời cổ đại đến thế kỉ VII": {
+      "chapter": "XÃ HỘI CỔ ĐẠI",
+      "content": "Khám phá nền văn minh Trung Quốc cổ đại, quá trình thống nhất dưới thời Tần Thủy Hoàng và các thành tựu văn hóa đặc sắc.",
+      "objectives": [
+        "Nêu được tác động của điều kiện tự nhiên (Hoàng Hà, Trường Giang) đối với sự hình thành nền văn minh Trung Quốc.",
+        "Mô tả được quá trình thống nhất và xác lập chế độ phong kiến dưới thời Tần Thuỷ Hoàng.",
+        "Nêu được những thành tựu văn hoá tiêu biểu: tư tưởng (Nho gia), chữ viết, sử học, y học, kĩ thuật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Hy Lạp cổ đại": {
+      "chapter": "XÃ HỘI CỔ ĐẠI",
+      "content": "Tìm hiểu về Hy Lạp cổ đại, tổ chức nhà nước thành bang A-ten và các thành tựu văn hóa vĩ đại về khoa học, nghệ thuật.",
+      "objectives": [
+        "Nêu được tác động của điều kiện tự nhiên đối với sự phát triển của Hy Lạp cổ đại.",
+        "Trình bày được tổ chức nhà nước thành bang A-ten.",
+        "Nêu được những thành tựu văn hoá tiêu biểu: chữ viết, văn học, khoa học, nghệ thuật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. La Mã cổ đại": {
+      "chapter": "XÃ HỘI CỔ ĐẠI",
+      "content": "Nghiên cứu về La Mã cổ đại, tổ chức nhà nước đế chế và các thành tựu văn hóa như chữ La-tinh, luật pháp, kiến trúc.",
+      "objectives": [
+        "Nêu được tác động của điều kiện tự nhiên đối với sự phát triển của La Mã cổ đại.",
+        "Trình bày được tổ chức nhà nước đế chế ở La Mã.",
+        "Nêu được những thành tựu văn hoá tiêu biểu: chữ La-tinh, chữ số La Mã, luật pháp, kiến trúc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Các vương quốc ở Đông Nam Á trước thế kỉ X": {
+      "chapter": "ĐÔNG NAM Á TỪ NHỮNG THẾ KỈ TIẾP GIÁP CÔNG NGUYÊN ĐẾN THẾ KỈ X",
+      "content": "Tìm hiểu về quá trình xuất hiện và phát triển của các vương quốc cổ và phong kiến ở Đông Nam Á trước thế kỷ X.",
+      "objectives": [
+        "Trình bày được quá trình xuất hiện của các vương quốc cổ ở Đông Nam Á trước thế kỉ VII (Chăm-pa, Phù Nam...).",
+        "Nêu được sự hình thành và phát triển ban đầu của các vương quốc phong kiến từ thế kỉ VII đến thế kỉ X (Sri Vi-giay-a, Pa-gan...)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Giao lưu thương mại và văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X": {
+      "chapter": "ĐÔNG NAM Á TỪ NHỮNG THẾ KỈ TIẾP GIÁP CÔNG NGUYÊN ĐẾN THẾ KỈ X",
+      "content": "Phân tích những tác động của quá trình giao lưu thương mại và văn hóa, đặc biệt là sự tiếp thu từ Ấn Độ và Trung Quốc, ở Đông Nam Á.",
+      "objectives": [
+        "Phân tích được những tác động của quá trình giao lưu thương mại và văn hoá (tiếp thu tôn giáo, chữ viết, nghệ thuật từ Ấn Độ, Trung Quốc) ở Đông Nam Á."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Nhà nước Văn Lang, Âu Lạc": {
+      "chapter": "VIỆT NAM TỪ KHOẢNG THẾ KỈ VII TCN ĐẾN ĐẦU THẾ KỈ X",
+      "content": "Nghiên cứu về cơ sở ra đời và tổ chức của các nhà nước đầu tiên của Việt Nam: Văn Lang và Âu Lạc.",
+      "objectives": [
+        "Trình bày được cơ sở ra đời và tổ chức nhà nước Văn Lang, Âu Lạc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Đời sống của người Việt thời kì Văn Lang, Âu Lạc": {
+      "chapter": "VIỆT NAM TỪ KHOẢNG THẾ KỈ VII TCN ĐẾN ĐẦU THẾ KỈ X",
+      "content": "Mô tả đời sống vật chất và tinh thần phong phú của cư dân Việt cổ trong thời kỳ Văn Lang - Âu Lạc.",
+      "objectives": [
+        "Mô tả được đời sống vật chất và tinh thần của cư dân Văn Lang, Âu Lạc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Chính sách cai trị của phong kiến phương Bắc và sự chuyển biến của Việt Nam thời kì Bắc thuộc": {
+      "chapter": "VIỆT NAM TỪ KHOẢNG THẾ KỈ VII TCN ĐẾN ĐẦU THẾ KỈ X",
+      "content": "Tìm hiểu các chính sách cai trị của phong kiến phương Bắc và những chuyển biến về kinh tế, xã hội, văn hóa ở Việt Nam trong thời kỳ Bắc thuộc.",
+      "objectives": [
+        "Nêu được một số chính sách cai trị của phong kiến phương Bắc về hành chính, kinh tế, văn hoá.",
+        "Nhận biết được những chuyển biến về kinh tế, xã hội, văn hoá ở Việt Nam thời Bắc thuộc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Đấu tranh bảo tồn và phát triển văn hoá dân tộc thời Bắc thuộc": {
+      "chapter": "VIỆT NAM TỪ KHOẢNG THẾ KỈ VII TCN ĐẾN ĐẦU THẾ KỈ X",
+      "content": "Giới thiệu cuộc đấu tranh kiên cường của nhân dân Việt Nam trong việc bảo tồn và phát triển các giá trị văn hóa dân tộc như tiếng nói, tín ngưỡng, phong tục.",
+      "objectives": [
+        "Giới thiệu được những nét chính của cuộc đấu tranh bảo tồn và phát triển văn hoá của nhân dân Việt Nam (tiếng nói, tín ngưỡng, phong tục...)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Các cuộc đấu tranh giành độc lập dân tộc trước thế kỉ X": {
+      "chapter": "VIỆT NAM TỪ KHOẢNG THẾ KỈ VII TCN ĐẾN ĐẦU THẾ KỈ X",
+      "content": "Nghiên cứu diễn biến, kết quả và ý nghĩa của các cuộc khởi nghĩa tiêu biểu chống lại ách đô hộ của phương Bắc.",
+      "objectives": [
+        "Trình bày được diễn biến chính, kết quả và ý nghĩa của các cuộc khởi nghĩa tiêu biểu: Hai Bà Trưng, Bà Triệu, Lý Bí, Mai Thúc Loan, Phùng Hưng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Bước ngoặt lịch sử đầu thế kỉ X": {
+      "chapter": "VIỆT NAM TỪ KHOẢNG THẾ KỈ VII TCN ĐẾN ĐẦU THẾ KỈ X",
+      "content": "Tìm hiểu về bước ngoặt lịch sử quan trọng đầu thế kỷ X, với các cuộc vận động giành quyền tự chủ và chiến thắng Bạch Đằng năm 938.",
+      "objectives": [
+        "Trình bày được những nét chính về các cuộc vận động giành quyền tự chủ của họ Khúc, họ Dương.",
+        "Mô tả được diễn biến và nêu ý nghĩa của chiến thắng Bạch Đằng năm 938."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X": {
+      "chapter": "VIỆT NAM TỪ KHOẢNG THẾ KỈ VII TCN ĐẾN ĐẦU THẾ KỈ X",
+      "content": "Khám phá quá trình ra đời, phát triển và những thành tựu văn hóa đặc sắc của Vương quốc Chăm-pa.",
+      "objectives": [
+        "Trình bày được những nét chính về quá trình ra đời, phát triển và các thành tựu văn hoá tiêu biểu của vương quốc Chăm-pa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Vương quốc cổ Phù Nam": {
+      "chapter": "VIỆT NAM TỪ KHOẢNG THẾ KỈ VII TCN ĐẾN ĐẦU THẾ KỈ X",
+      "content": "Tìm hiểu về quá trình hình thành, phát triển và những thành tựu văn hóa tiêu biểu của Vương quốc cổ Phù Nam.",
+      "objectives": [
+        "Trình bày được những nét chính về quá trình ra đời, phát triển và các thành tựu văn hoá tiêu biểu của vương quốc Phù Nam."
+      ],
+      "common_exercises": []
+    }
+  },
+  "7": {
+    "Bài 1. Quá trình hình thành và phát triển chế độ phong kiến ở Tây Âu": {
+      "chapter": "TÂY ÂU TỪ THẾ KỈ V ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+      "content": "Nghiên cứu quá trình hình thành xã hội phong kiến ở Tây Âu, đặc điểm của lãnh địa phong kiến và vai trò của thành thị trung đại.",
+      "objectives": [
+        "Trình bày được quá trình hình thành xã hội phong kiến Tây Âu.",
+        "Mô tả được đặc điểm của lãnh địa phong kiến và vai trò của thành thị trung đại."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Các cuộc phát kiến địa lí": {
+      "chapter": "TÂY ÂU TỪ THẾ KỈ V ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+      "content": "Tìm hiểu về hành trình của các cuộc phát kiến địa lý lớn và hệ quả của chúng đối với lịch sử thế giới.",
+      "objectives": [
+        "Giới thiệu được hành trình của một số cuộc phát kiến địa lí lớn.",
+        "Nêu được hệ quả của các cuộc phát kiến địa lí."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu trung đại": {
+      "chapter": "TÂY ÂU TỪ THẾ KỈ V ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+      "content": "Nghiên cứu những biến đổi chính trong xã hội Tây Âu trung đại và sự nảy sinh của phương thức sản xuất tư bản chủ nghĩa.",
+      "objectives": [
+        "Trình bày được những biến đổi chính trong xã hội và sự nảy sinh phương thức sản xuất tư bản chủ nghĩa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Văn hoá Phục hưng": {
+      "chapter": "TÂY ÂU TỪ THẾ KỈ V ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+      "content": "Khám phá những thành tựu tiêu biểu và tác động to lớn của phong trào Văn hoá Phục hưng đối với châu Âu.",
+      "objectives": [
+        "Trình bày được những thành tựu tiêu biểu và tác động của phong trào Văn hoá Phục hưng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Phong trào Cải cách tôn giáo": {
+      "chapter": "TÂY ÂU TỪ THẾ KỈ V ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+      "content": "Tìm hiểu nguyên nhân và những tác động sâu sắc của phong trào Cải cách tôn giáo đối với lịch sử châu Âu.",
+      "objectives": [
+        "Giải thích được nguyên nhân và nêu được tác động của phong trào Cải cách tôn giáo."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Khái lược tiến trình lịch sử Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX": {
+      "chapter": "TRUNG QUỐC TỪ THẾ KỈ VII ĐẾN GIỮA THẾ KỈ XIX",
+      "content": "Khái quát tiến trình phát triển của Trung Quốc qua các triều đại Đường, Tống, Nguyên, Minh, Thanh và sự thịnh vượng kinh tế trong các thời kỳ này.",
+      "objectives": [
+        "Lập được sơ đồ tiến trình phát triển của Trung Quốc (Đường, Tống, Nguyên, Minh, Thanh).",
+        "Nêu được những biểu hiện thịnh vượng của Trung Quốc thời Đường và sự phát triển kinh tế thời Minh - Thanh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Các thành tựu văn hoá chủ yếu của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX": {
+      "chapter": "TRUNG QUỐC TỪ THẾ KỈ VII ĐẾN GIỮA THẾ KỈ XIX",
+      "content": "Giới thiệu và nhận xét về những thành tựu văn hóa rực rỡ của Trung Quốc trong các lĩnh vực như Nho giáo, sử học, văn học, kiến trúc.",
+      "objectives": [
+        "Giới thiệu và nhận xét được những thành tựu văn hoá chủ yếu của Trung Quốc (Nho giáo, sử học, văn học, kiến trúc...)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Vương triều Gúp-ta": {
+      "chapter": "ẤN ĐỘ TỪ THẾ KỈ IV ĐẾN GIỮA THẾ KỈ XIX",
+      "content": "Nghiên cứu về tình hình chính trị, kinh tế, xã hội và các thành tựu văn hóa tiêu biểu của Ấn Độ dưới thời Vương triều Gúp-ta.",
+      "objectives": [
+        "Trình bày được tình hình chính trị, kinh tế, xã hội và các thành tựu văn hoá tiêu biểu của Ấn Độ thời Gúp-ta."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Vương triều Hồi giáo Đê-li": {
+      "chapter": "ẤN ĐỘ TỪ THẾ KỈ IV ĐẾN GIỮA THẾ KỈ XIX",
+      "content": "Tìm hiểu về tình hình chính trị, kinh tế, xã hội và các thành tựu văn hóa đặc sắc của Ấn Độ dưới thời Vương triều Hồi giáo Đê-li.",
+      "objectives": [
+        "Trình bày được tình hình chính trị, kinh tế, xã hội và các thành tựu văn hoá tiêu biểu của Ấn Độ thời Đê-li."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Đế quốc Mô-gôn": {
+      "chapter": "ẤN ĐỘ TỪ THẾ KỈ IV ĐẾN GIỮA THẾ KỈ XIX",
+      "content": "Khám phá tình hình chính trị, kinh tế, xã hội và những thành tựu văn hóa huy hoàng của Ấn Độ dưới thời Đế quốc Mô-gôn.",
+      "objectives": [
+        "Trình bày được tình hình chính trị, kinh tế, xã hội và các thành tựu văn hoá tiêu biểu của Ấn Độ thời Mô-gôn."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Khái quát về Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI": {
+      "chapter": "ĐÔNG NAM Á TỪ NỬA SAU THẾ KỈ X ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+      "content": "Mô tả quá trình hình thành, phát triển của các quốc gia phong kiến Đông Nam Á và những thành tựu văn hóa tiêu biểu của khu vực.",
+      "objectives": [
+        "Mô tả được quá trình hình thành, phát triển của các quốc gia phong kiến Đông Nam Á.",
+        "Giới thiệu và nhận xét được những thành tựu văn hoá tiêu biểu của khu vực."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Vương quốc Cam-pu-chia": {
+      "chapter": "ĐÔNG NAM Á TỪ NỬA SAU THẾ KỈ X ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+      "content": "Nghiên cứu quá trình hình thành, phát triển và các thành tựu văn hóa tiêu biểu của Vương quốc Cam-pu-chia, đặc biệt là thời kỳ Ăng-co huy hoàng.",
+      "objectives": [
+        "Mô tả quá trình hình thành, phát triển và các thành tựu văn hoá tiêu biểu của Vương quốc Cam-pu-chia, đặc biệt là thời kì Ăng-co."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Vương quốc Lào": {
+      "chapter": "ĐÔNG NAM Á TỪ NỬA SAU THẾ KỈ X ĐẾN NỬA ĐẦU THẾ KỈ XVI",
+      "content": "Tìm hiểu quá trình hình thành, phát triển và các thành tựu văn hóa đặc sắc của Vương quốc Lào, đặc biệt là thời kỳ Lan Xang thịnh vượng.",
+      "objectives": [
+        "Mô tả quá trình hình thành, phát triển và các thành tựu văn hoá tiêu biểu của Vương quốc Lào, đặc biệt là thời kì Lan Xang."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Công cuộc xây dựng và bảo vệ đất nước thời Ngô – Đinh – Tiền Lê (938 – 1009)": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+      "content": "Nghiên cứu công cuộc thống nhất đất nước của Đinh Bộ Lĩnh, cuộc kháng chiến chống Tống của Lê Hoàn và đời sống thời Ngô - Đinh - Tiền Lê.",
+      "objectives": [
+        "Trình bày được công cuộc thống nhất đất nước của Đinh Bộ Lĩnh.",
+        "Mô tả được cuộc kháng chiến chống Tống của Lê Hoàn năm 981.",
+        "Giới thiệu được những nét chính về tổ chức chính quyền, đời sống xã hội, văn hoá thời Ngô - Đinh - Tiền Lê."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Công cuộc xây dựng và bảo vệ đất nước thời Lý (1009–1225)": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+      "content": "Tìm hiểu về triều đại nhà Lý với sự kiện dời đô, công cuộc xây dựng đất nước và cuộc kháng chiến chống Tống thắng lợi.",
+      "objectives": [
+        "Đánh giá được sự kiện dời đô ra Đại La của Lý Công Uẩn.",
+        "Mô tả được những nét chính về chính trị, kinh tế, xã hội, văn hoá thời Lý.",
+        "Đánh giá được những nét độc đáo của cuộc kháng chiến chống Tống và vai trò của Lý Thường Kiệt."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Công cuộc xây dựng đất nước thời Trần (1226-1400)": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+      "content": "Nghiên cứu về tình hình chính trị, kinh tế, xã hội, văn hóa của Đại Việt dưới triều đại nhà Trần.",
+      "objectives": [
+        "Trình bày được những nét chính về tình hình chính trị, kinh tế, xã hội, văn hoá thời Trần."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Ba lần kháng chiến chống quân xâm lược Mông – Nguyên": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+      "content": "Tìm hiểu về ba lần kháng chiến hào hùng chống quân xâm lược Mông - Nguyên, nguyên nhân thắng lợi và vai trò của các anh hùng dân tộc.",
+      "objectives": [
+        "Trình bày được diễn biến chính của ba lần kháng chiến chống quân Mông – Nguyên.",
+        "Giải thích được nguyên nhân thắng lợi, nêu được ý nghĩa lịch sử.",
+        "Đánh giá được vai trò của Trần Quốc Tuấn, Trần Nhân Tông."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Nhà Hồ và cuộc kháng chiến chống quân xâm lược Minh (1400-1407)": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+      "content": "Nghiên cứu về những cải cách của Hồ Quý Ly và cuộc kháng chiến chống quân xâm lược Minh của nhà Hồ.",
+      "objectives": [
+        "Giới thiệu được nội dung và tác động của cải cách Hồ Quý Ly.",
+        "Mô tả được những nét chính và giải thích được nguyên nhân thất bại của cuộc kháng chiến chống Minh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Khởi nghĩa Lam Sơn (1418-1427)": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+      "content": "Tìm hiểu về cuộc khởi nghĩa Lam Sơn, các sự kiện tiêu biểu, nguyên nhân thắng lợi và vai trò của các lãnh tụ Lê Lợi, Nguyễn Trãi.",
+      "objectives": [
+        "Trình bày được các sự kiện tiêu biểu của khởi nghĩa Lam Sơn.",
+        "Giải thích được nguyên nhân thắng lợi, nêu được ý nghĩa lịch sử.",
+        "Đánh giá được vai trò của Lê Lợi, Nguyễn Trãi."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Đại Việt thời Lê sơ (1428-1527)": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+      "content": "Nghiên cứu về tình hình kinh tế - xã hội và sự phát triển văn hóa, giáo dục rực rỡ dưới thời Lê sơ.",
+      "objectives": [
+        "Nhận biết được tình hình kinh tế - xã hội thời Lê sơ.",
+        "Giới thiệu được sự phát triển văn hoá, giáo dục và một số danh nhân tiêu biểu (Lê Thánh Tông, Nguyễn Trãi...)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Vùng đất phía Nam từ đầu thế kỉ X đến đầu thế kỉ XVI": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ X ĐẾN ĐẦU THẾ KỈ XVI",
+      "content": "Tìm hiểu những diễn biến cơ bản về chính trị, kinh tế, văn hóa của vùng đất phía Nam trong giai đoạn từ thế kỷ X đến XVI.",
+      "objectives": [
+        "Nêu được những diễn biến cơ bản về chính trị, kinh tế, văn hoá ở vùng đất phía Nam."
+      ],
+      "common_exercises": []
+    }
+  },
+  "8": {
+    "Bài 1. Các cuộc cách mạng tư sản ở châu Âu và Bắc Mỹ": {
+      "chapter": "CHÂU ÂU VÀ BẮC MỸ TỪ NỬA SAU THẾ KỈ XVI ĐẾN THẾ KỈ XVIII",
+      "content": "Nghiên cứu những nét chung về nguyên nhân, kết quả, ý nghĩa và tính chất của các cuộc cách mạng tư sản tiêu biểu ở Anh, Pháp, Mỹ.",
+      "objectives": [
+        "Trình bày được những nét chung về nguyên nhân, kết quả, ý nghĩa, tính chất của cách mạng tư sản.",
+        "Nêu được một số đặc điểm chính của các cuộc cách mạng tư sản tiêu biểu ở Anh, Pháp, Mỹ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Cách mạng công nghiệp": {
+      "chapter": "CHÂU ÂU VÀ BẮC MỸ TỪ NỬA SAU THẾ KỈ XVI ĐẾN THẾ KỈ XVIII",
+      "content": "Tìm hiểu những thành tựu tiêu biểu và những tác động sâu rộng của Cách mạng công nghiệp đối với sản xuất và đời sống xã hội.",
+      "objectives": [
+        "Trình bày được những thành tựu tiêu biểu của Cách mạng công nghiệp.",
+        "Nêu được những tác động của Cách mạng công nghiệp đối với sản xuất và đời sống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Tình hình Đông Nam Á từ nửa sau thế kỉ XVI đến thế kỉ XIX": {
+      "chapter": "ĐÔNG NAM Á TỪ NỬA SAU THẾ KỈ XVI ĐẾN THẾ KỈ XIX",
+      "content": "Nghiên cứu quá trình xâm nhập của tư bản phương Tây, tình hình chính trị, kinh tế, văn hóa - xã hội và cuộc đấu tranh chống ách đô hộ tại Đông Nam Á.",
+      "objectives": [
+        "Trình bày được quá trình xâm nhập của tư bản phương Tây vào các nước Đông Nam Á.",
+        "Nêu được những nét nổi bật về tình hình chính trị, kinh tế, văn hoá - xã hội dưới ách đô hộ.",
+        "Mô tả được những nét chính về cuộc đấu tranh chống ách đô hộ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Xung đột Nam - Bắc triều và Trịnh - Nguyễn": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ XVI ĐẾN THẾ KỈ XVIII",
+      "content": "Giải thích nguyên nhân và hệ quả của các cuộc xung đột kéo dài giữa Nam - Bắc triều và hai thế lực Trịnh - Nguyễn.",
+      "objectives": [
+        "Giải thích được nguyên nhân và nêu được hệ quả của xung đột Nam - Bắc triều, Trịnh - Nguyễn."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Quá trình khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ XVI ĐẾN THẾ KỈ XVIII",
+      "content": "Khái quát quá trình khai phá vùng đất phía Nam và việc thực thi chủ quyền đối với quần đảo Hoàng Sa, Trường Sa của các chúa Nguyễn.",
+      "objectives": [
+        "Trình bày được khái quát về quá trình khai phá vùng đất phía Nam.",
+        "Mô tả và nêu được ý nghĩa của quá trình thực thi chủ quyền đối với quần đảo Hoàng Sa và Trường Sa của các chúa Nguyễn."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Kinh tế, văn hoá và tôn giáo ở Đại Việt trong các thế kỉ XVI-XVIII": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ XVI ĐẾN THẾ KỈ XVIII",
+      "content": "Tìm hiểu những nét chính về tình hình kinh tế (nông nghiệp, thủ công nghiệp, thương nghiệp) và những chuyển biến về văn hóa, tôn giáo ở Đại Việt.",
+      "objectives": [
+        "Nêu được những nét chính về tình hình kinh tế (nông nghiệp, thủ công nghiệp, thương nghiệp).",
+        "Mô tả được những chuyển biến về văn hoá và tôn giáo."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ XVI ĐẾN THẾ KỈ XVIII",
+      "content": "Nghiên cứu về bối cảnh, diễn biến, kết quả và tác động của phong trào khởi nghĩa nông dân ở Đàng Ngoài thế kỷ XVIII.",
+      "objectives": [
+        "Nêu được những nét chính về bối cảnh, diễn biến, kết quả và tác động của phong trào nông dân ở Đàng Ngoài."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Phong trào Tây Sơn": {
+      "chapter": "VIỆT NAM TỪ ĐẦU THẾ KỈ XVI ĐẾN THẾ KỈ XVIII",
+      "content": "Tìm hiểu về các thắng lợi tiêu biểu của phong trào Tây Sơn trong việc lật đổ các thế lực phong kiến và đánh bại quân xâm lược, cùng vai trò của Nguyễn Huệ - Quang Trung.",
+      "objectives": [
+        "Mô tả được các thắng lợi tiêu biểu: lật đổ chúa Nguyễn, chúa Trịnh, vua Lê; đánh bại quân Xiêm (1785) và quân Thanh (1789).",
+        "Giải thích được nguyên nhân thắng lợi, nêu được ý nghĩa lịch sử và đánh giá được vai trò của Nguyễn Huệ - Quang Trung."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Các nước Anh, Pháp, Đức, Mỹ chuyển sang giai đoạn chủ nghĩa đế quốc": {
+      "chapter": "CHÂU ÂU VÀ NƯỚC MỸ TỪ CUỐI THẾ KỈ XVIII ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Mô tả quá trình hình thành chủ nghĩa đế quốc và những chuyển biến về kinh tế, chính sách đối nội, đối ngoại của các đế quốc Anh, Pháp, Đức, Mỹ.",
+      "objectives": [
+        "Mô tả được những nét chính về quá trình hình thành của chủ nghĩa đế quốc.",
+        "Nhận biết được những chuyển biến về kinh tế, chính sách đối nội, đối ngoại của các đế quốc Anh, Pháp, Đức, Mỹ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Công xã Pa-ri (năm 1871)": {
+      "chapter": "CHÂU ÂU VÀ NƯỚC MỸ TỪ CUỐI THẾ KỈ XVIII ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Trình bày những nét chính về Công xã Pa-ri và ý nghĩa lịch sử của việc thành lập nhà nước kiểu mới đầu tiên trên thế giới.",
+      "objectives": [
+        "Trình bày những nét chính về Công xã Pa-ri và ý nghĩa lịch sử của việc thành lập nhà nước kiểu mới."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Phong trào công nhân và sự ra đời của chủ nghĩa Mác": {
+      "chapter": "CHÂU ÂU VÀ NƯỚC MỸ TỪ CUỐI THẾ KỈ XVIII ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Tìm hiểu về hoạt động của Các Mác, Phri-đrích Ăng-ghen, sự ra đời của chủ nghĩa xã hội khoa học và phong trào cộng sản, công nhân quốc tế.",
+      "objectives": [
+        "Trình bày được một số hoạt động chính của Các Mác, Phri-đrích Ăng-ghen và sự ra đời của chủ nghĩa xã hội khoa học.",
+        "Mô tả được một số hoạt động tiêu biểu của phong trào cộng sản và công nhân quốc tế."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Chiến tranh thế giới thứ nhất (1914-1918)": {
+      "chapter": "CHÂU ÂU VÀ NƯỚC MỸ TỪ CUỐI THẾ KỈ XVIII ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Nghiên cứu nguyên nhân bùng nổ, hậu quả và tác động của Chiến tranh thế giới thứ nhất đối với lịch sử nhân loại.",
+      "objectives": [
+        "Nêu được nguyên nhân bùng nổ Chiến tranh thế giới thứ nhất.",
+        "Phân tích được hậu quả và tác động của Chiến tranh thế giới thứ nhất đối với lịch sử nhân loại."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Cách mạng tháng Mười Nga năm 1917": {
+      "chapter": "CHÂU ÂU VÀ NƯỚC MỸ TỪ CUỐI THẾ KỈ XVIII ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Tìm hiểu về nguyên nhân, diễn biến, tác động và ý nghĩa lịch sử to lớn của Cách mạng tháng Mười Nga.",
+      "objectives": [
+        "Nêu được một số nét chính về nguyên nhân, diễn biến, tác động và ý nghĩa lịch sử của Cách mạng tháng Mười Nga."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX": {
+      "chapter": "CHÂU ÂU VÀ NƯỚC MỸ TỪ CUỐI THẾ KỈ XVIII ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Mô tả một số thành tựu tiêu biểu và phân tích tác động của sự phát triển khoa học, kỹ thuật, văn học, nghệ thuật trong thế kỷ 18-19.",
+      "objectives": [
+        "Mô tả được một số thành tựu tiêu biểu và phân tích được tác động của sự phát triển khoa học, kĩ thuật, văn học, nghệ thuật."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Trung Quốc": {
+      "chapter": "CHÂU Á TỪ NỬA SAU THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Nghiên cứu quá trình các nước đế quốc xâm lược Trung Quốc và cuộc Cách mạng Tân Hợi (1911).",
+      "objectives": [
+        "Mô tả được quá trình xâm lược Trung Quốc của các nước đế quốc.",
+        "Trình bày được sơ lược về Cách mạng Tân Hợi (nguyên nhân, diễn biến, kết quả, ý nghĩa)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Nhật Bản": {
+      "chapter": "CHÂU Á TỪ NỬA SAU THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Tìm hiểu về cuộc Duy tân Minh Trị, ý nghĩa lịch sử và sự hình thành chủ nghĩa đế quốc ở Nhật Bản.",
+      "objectives": [
+        "Nêu được những nội dung chính và ý nghĩa lịch sử của cuộc Duy tân Minh Trị.",
+        "Trình bày được những biểu hiện của sự hình thành chủ nghĩa đế quốc ở Nhật Bản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Ấn Độ": {
+      "chapter": "CHÂU Á TỪ NỬA SAU THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Trình bày tình hình kinh tế, chính trị, xã hội của Ấn Độ trong nửa sau thế kỷ XIX dưới ách thống trị của thực dân Anh.",
+      "objectives": [
+        "Trình bày được tình hình kinh tế, chính trị, xã hội Ấn Độ nửa sau thế kỉ XIX."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Đông Nam Á": {
+      "chapter": "CHÂU Á TỪ NỬA SAU THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Nêu một số sự kiện tiêu biểu về phong trào giải phóng dân tộc ở các nước Đông Nam Á từ nửa sau thế kỷ XIX đến đầu thế kỷ XX.",
+      "objectives": [
+        "Nêu được một số sự kiện về phong trào giải phóng dân tộc ở Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Việt Nam nửa đầu thế kỉ XIX": {
+      "chapter": "VIỆT NAM TỪ THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Tìm hiểu tình hình chính trị, kinh tế, văn hóa, xã hội của Việt Nam thời nhà Nguyễn và quá trình thực thi chủ quyền đối với Hoàng Sa, Trường Sa.",
+      "objectives": [
+        "Trình bày được những nét chính về tình hình chính trị, kinh tế, văn hoá, xã hội của Việt Nam thời nhà Nguyễn.",
+        "Mô tả được quá trình thực thi chủ quyền đối với quần đảo Hoàng Sa và Trường Sa của các vua Nguyễn."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Cuộc kháng chiến chống thực dân Pháp xâm lược của nhân dân Việt Nam (1858-1884)": {
+      "chapter": "VIỆT NAM TỪ THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Nghiên cứu quá trình thực dân Pháp xâm lược và cuộc kháng chiến anh dũng của nhân dân Việt Nam từ 1858 đến 1884.",
+      "objectives": [
+        "Nêu được quá trình thực dân Pháp xâm lược Việt Nam (1858-1884).",
+        "Nêu được cuộc kháng chiến chống thực dân Pháp xâm lược của nhân dân Việt Nam (1858-1884)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Phong trào chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX": {
+      "chapter": "VIỆT NAM TỪ THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Trình bày về các cuộc khởi nghĩa tiêu biểu trong phong trào Cần vương và khởi nghĩa Yên Thế chống lại thực dân Pháp.",
+      "objectives": [
+        "Trình bày được một số cuộc khởi nghĩa tiêu biểu trong phong trào Cần vương (1885-1896).",
+        "Trình bày được những nét cơ bản của cuộc khởi nghĩa Yên Thế (1884-1913)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22. Trào lưu cải cách ở Việt Nam nửa cuối thế kỉ XIX": {
+      "chapter": "VIỆT NAM TỪ THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Nhận biết nguyên nhân và một số nội dung chính trong các đề nghị cải cách, đổi mới đất nước của các quan lại, sĩ phu yêu nước.",
+      "objectives": [
+        "Nhận biết được nguyên nhân và một số nội dung chính trong các đề nghị cải cách của các quan lại, sĩ phu yêu nước."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Việt Nam đầu thế kỉ XX": {
+      "chapter": "VIỆT NAM TỪ THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX",
+      "content": "Nghiên cứu tác động của cuộc khai thác thuộc địa lần thứ nhất của Pháp và hoạt động yêu nước của Phan Bội Châu, Phan Châu Trinh, Nguyễn Tất Thành.",
+      "objectives": [
+        "Nêu được tác động của cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp đối với xã hội Việt Nam.",
+        "Giới thiệu được những nét chính về hoạt động yêu nước của Phan Bội Châu, Phan Châu Trinh và Nguyễn Tất Thành."
+      ],
+      "common_exercises": []
+    }
+  },
+  "9": {
+    "Bài 1. Nước Nga và Liên Xô từ năm 1918 đến năm 1945": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1918 ĐẾN NĂM 1945",
+      "content": "Tìm hiểu tình hình nước Nga trước khi thành lập Liên Xô, cùng những thành tựu và hạn chế của công cuộc xây dựng chủ nghĩa xã hội.",
+      "objectives": [
+        "Nêu được những nét chính về tình hình nước Nga trước khi Liên Xô được thành lập.",
+        "Trình bày được những thành tựu và chỉ ra được hạn chế của công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Châu Âu và nước Mỹ từ năm 1918 đến năm 1945": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1918 ĐẾN NĂM 1945",
+      "content": "Nghiên cứu về phong trào cách mạng, đại suy thoái kinh tế 1929-1933, sự hình thành chủ nghĩa phát xít ở châu Âu và tình hình nước Mỹ.",
+      "objectives": [
+        "Trình bày được những nét chính về: phong trào cách mạng và sự thành lập Quốc tế Cộng sản; đại suy thoái kinh tế 1929 – 1933; sự hình thành chủ nghĩa phát xít ở châu Âu.",
+        "Nhận biết được tình hình chính trị và sự phát triển kinh tế của nước Mỹ giữa hai cuộc chiến tranh thế giới."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Châu Á từ năm 1918 đến năm 1945": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1918 ĐẾN NĂM 1945",
+      "content": "Tìm hiểu tình hình Nhật Bản giữa hai cuộc chiến tranh thế giới và phong trào giải phóng dân tộc ở Trung Quốc, Ấn Độ, Đông Nam Á.",
+      "objectives": [
+        "Nêu được những nét chính về tình hình Nhật Bản giữa hai cuộc chiến tranh thế giới.",
+        "Nêu được những nét chính về phong trào giải phóng dân tộc ở Trung Quốc, Ấn Độ và khu vực Đông Nam Á."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Chiến tranh thế giới thứ hai (1939-1945)": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1918 ĐẾN NĂM 1945",
+      "content": "Nghiên cứu nguyên nhân, diễn biến chủ yếu và hậu quả của Chiến tranh thế giới thứ hai, cùng vai trò của Liên Xô và các nước Đồng minh.",
+      "objectives": [
+        "Trình bày được nguyên nhân và diễn biến chủ yếu của Chiến tranh thế giới thứ hai.",
+        "Phân tích được hậu quả của Chiến tranh thế giới thứ hai đối với lịch sử nhân loại.",
+        "Nêu được nguyên nhân thắng lợi, ý nghĩa lịch sử, vai trò của Liên Xô và các nước Đồng minh trong chiến thắng chủ nghĩa phát xít."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Phong trào dân tộc dân chủ những năm 1918-1930": {
+      "chapter": "VIỆT NAM TỪ NĂM 1918 ĐẾN NĂM 1945",
+      "content": "Trình bày những nét chính của phong trào đấu tranh dân tộc dân chủ sôi nổi của nhân dân Việt Nam trong giai đoạn 1918-1930.",
+      "objectives": [
+        "Trình bày được những nét chính của phong trào dân tộc dân chủ của nhân dân Việt Nam những năm 1918-1930."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam": {
+      "chapter": "VIỆT NAM TỪ NĂM 1918 ĐẾN NĂM 1945",
+      "content": "Tìm hiểu về hoạt động của Nguyễn Ái Quốc, quá trình và ý nghĩa của việc thành lập Đảng Cộng sản Việt Nam.",
+      "objectives": [
+        "Nêu được những nét chính về hoạt động của Nguyễn Ái Quốc trong những năm 1918-1930.",
+        "Nhận biết được quá trình và ý nghĩa của việc thành lập Đảng Cộng sản Việt Nam; đánh giá được vai trò của Nguyễn Ái Quốc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Phong trào cách mạng Việt Nam thời kì 1930 – 1939": {
+      "chapter": "VIỆT NAM TỪ NĂM 1918 ĐẾN NĂM 1945",
+      "content": "Mô tả những nét chủ yếu của phong trào cách mạng Việt Nam trong hai giai đoạn 1930-1931 và 1936-1939.",
+      "objectives": [
+        "Mô tả được những nét chủ yếu của phong trào cách mạng giai đoạn 1930 - 1931 và 1936-1939."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Cách mạng tháng Tám năm 1945": {
+      "chapter": "VIỆT NAM TỪ NĂM 1918 ĐẾN NĂM 1945",
+      "content": "Nghiên cứu tình hình Việt Nam dưới ách thống trị Pháp - Nhật, diễn biến Cách mạng tháng Tám và sự ra đời của nước Việt Nam Dân chủ Cộng hòa.",
+      "objectives": [
+        "Nêu được tình hình Việt Nam dưới ách thống trị của Pháp - Nhật Bản.",
+        "Trình bày được diễn biến chính của Cách mạng tháng Tám năm 1945 và sự ra đời của nước Việt Nam Dân chủ Cộng hoà.",
+        "Nêu được nguyên nhân thắng lợi, ý nghĩa lịch sử của Cách mạng tháng Tám năm 1945."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Chiến tranh lạnh (1947 – 1989)": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Nhận biết nguyên nhân, những biểu hiện chính và hậu quả của cuộc Chiến tranh lạnh kéo dài hơn 40 năm.",
+      "objectives": [
+        "Nhận biết được nguyên nhân, những biểu hiện và hậu quả của Chiến tranh lạnh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Liên Xô và các nước Đông Âu từ năm 1945 đến năm 1991": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Trình bày tình hình chính trị, kinh tế, xã hội, văn hóa của Liên Xô và các nước Đông Âu, và giải thích sự sụp đổ của chế độ xã hội chủ nghĩa.",
+      "objectives": [
+        "Trình bày được tình hình chính trị, kinh tế, xã hội, văn hoá của Liên Xô và Đông Âu.",
+        "Giải thích được sự sụp đổ của chế độ xã hội chủ nghĩa ở Liên Xô và Đông Âu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Nước Mỹ và các nước Tây Âu từ năm 1945 đến năm 1991": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Nêu những nét chính về tình hình chính trị và kinh tế của nước Mỹ và các nước Tây Âu trong giai đoạn sau Chiến tranh thế giới thứ hai.",
+      "objectives": [
+        "Nêu được những nét chính về chính trị, kinh tế của nước Mỹ và các nước Tây Âu."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Mỹ La-tinh từ năm 1945 đến năm 1991": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Mô tả đôi nét về các nước Mỹ La-tinh và trình bày khái quát về cách mạng Cu-ba cùng công cuộc xây dựng chủ nghĩa xã hội ở Cu-ba.",
+      "objectives": [
+        "Mô tả được đôi nét về các nước Mỹ La-tinh.",
+        "Trình bày được một cách khái quát về cách mạng Cu-ba và công cuộc xây dựng chủ nghĩa xã hội ở Cu-ba."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Một số nước ở châu Á từ năm 1945 đến năm 1991": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Giới thiệu những nét chính về Nhật Bản, Trung Quốc, Ấn Độ, cuộc đấu tranh giành độc lập và sự phát triển của các nước Đông Nam Á, cũng như sự hình thành ASEAN.",
+      "objectives": [
+        "Giới thiệu được những nét chính về Nhật Bản, Trung Quốc, Ấn Độ.",
+        "Trình bày được cuộc đấu tranh giành độc lập và quá trình phát triển của các nước Đông Nam Á, sự hình thành và phát triển của ASEAN."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Xây dựng và bảo vệ chính quyền nước Việt Nam Dân chủ Cộng hoà (từ tháng 9 – 1945 đến tháng 12 – 1946)": {
+      "chapter": "VIỆT NAM TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Nhận biết các biện pháp xây dựng chính quyền, giải quyết khó khăn và trình bày cuộc kháng chiến chống Pháp của nhân dân Nam Bộ.",
+      "objectives": [
+        "Nhận biết được những biện pháp chủ yếu để xây dựng và củng cố chính quyền cách mạng, giải quyết khó khăn.",
+        "Trình bày được những nét chính về cuộc kháng chiến chống thực dân Pháp xâm lược của nhân dân Nam Bộ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Những năm đầu Việt Nam kháng chiến chống thực dân Pháp xâm lược (1946-1950)": {
+      "chapter": "VIỆT NAM TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Giải thích nguyên nhân bùng nổ cuộc kháng chiến toàn quốc và mô tả những thắng lợi quân sự tiêu biểu trong giai đoạn 1946-1950.",
+      "objectives": [
+        "Giải thích được nguyên nhân bùng nổ cuộc kháng chiến toàn quốc.",
+        "Mô tả được những thắng lợi tiêu biểu trên mặt trận quân sự (cuộc chiến đấu ở Hà Nội, chiến dịch Việt Bắc, chiến dịch Biên giới)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)": {
+      "chapter": "VIỆT NAM TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Mô tả những thắng lợi trên các mặt trận quân sự, kinh tế, văn hóa, ngoại giao và nêu ý nghĩa lịch sử của cuộc kháng chiến chống Pháp.",
+      "objectives": [
+        "Mô tả được những thắng lợi trên các mặt trận quân sự, kinh tế, văn hoá, ngoại giao.",
+        "Nêu được ý nghĩa lịch sử, nguyên nhân thắng lợi của cuộc kháng chiến chống Pháp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Việt Nam từ năm 1954 đến năm 1965": {
+      "chapter": "VIỆT NAM TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Giới thiệu thành tựu xây dựng miền Bắc xã hội chủ nghĩa và các thắng lợi quân sự của nhân dân miền Nam (Đồng khởi, đánh bại 'Chiến tranh đặc biệt').",
+      "objectives": [
+        "Giới thiệu được những thành tựu trong công cuộc xây dựng miền Bắc xã hội chủ nghĩa.",
+        "Mô tả được các thắng lợi quân sự của nhân dân miền Nam (phong trào Đồng khởi; đánh bại chiến lược 'Chiến tranh đặc biệt')."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Việt Nam từ năm 1965 đến năm 1975": {
+      "chapter": "VIỆT NAM TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Mô tả các thắng lợi quân sự của nhân dân miền Nam và thành tựu của miền Bắc trong chống chiến tranh phá hoại và làm nghĩa vụ hậu phương.",
+      "objectives": [
+        "Mô tả được các thắng lợi quân sự của nhân dân miền Nam (đánh bại 'Chiến tranh cục bộ', 'Việt Nam hoá chiến tranh'; Tổng tiến công Mậu Thân 1968; tiến công chiến lược 1972; Đại thắng mùa Xuân 1975).",
+        "Giới thiệu được những thành tựu của miền Bắc trong chống chiến tranh phá hoại và làm nghĩa vụ hậu phương."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Việt Nam từ năm 1976 đến năm 1991": {
+      "chapter": "VIỆT NAM TỪ NĂM 1945 ĐẾN NĂM 1991",
+      "content": "Trình bày quá trình thống nhất đất nước về mặt nhà nước, thành tựu và hạn chế trong 10 năm đầu xây dựng CNXH và công cuộc Đổi mới.",
+      "objectives": [
+        "Trình bày được những nét chính về quá trình thống nhất đất nước về mặt nhà nước.",
+        "Nêu được những thành tựu và hạn chế trong 10 năm đầu xây dựng chủ nghĩa xã hội.",
+        "Trình bày được bối cảnh, nội dung và kết quả bước đầu của công cuộc Đổi mới."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Trật tự thế giới mới từ năm 1991 đến nay": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1991 ĐẾN NAY",
+      "content": "Trình bày những nét chính về trật tự thế giới mới hình thành sau khi Chiến tranh lạnh kết thúc.",
+      "objectives": [
+        "Trình bày được những nét chính về trật tự thế giới mới sau Chiến tranh lạnh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 21. Liên bang Nga và nước Mỹ từ năm 1991 đến nay": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1991 ĐẾN NAY",
+      "content": "Trình bày những nét chính về tình hình chính trị và kinh tế của Liên bang Nga và nước Mỹ từ sau năm 1991.",
+      "objectives": [
+        "Trình bày được những nét chính về tình hình chính trị, kinh tế của Liên bang Nga và nước Mỹ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 22. Châu Á từ năm 1991 đến nay": {
+      "chapter": "THẾ GIỚI TỪ NĂM 1991 ĐẾN NAY",
+      "content": "Trình bày những nét chính về tình hình chính trị, kinh tế của Trung Quốc, Nhật Bản, Ấn Độ và các nước Đông Nam Á từ sau năm 1991.",
+      "objectives": [
+        "Trình bày được những nét chính về tình hình chính trị, kinh tế của Trung Quốc, Nhật Bản, Ấn Độ và các nước Đông Nam Á."
+      ],
+      "common_exercises": []
+    },
+    "Bài 23. Công cuộc Đổi mới từ năm 1991 đến nay": {
+      "chapter": "VIỆT NAM TỪ NĂM 1991 ĐẾN NAY",
+      "content": "Trình bày những thành tựu và hạn chế của công cuộc Đổi mới ở Việt Nam từ năm 1991 đến nay.",
+      "objectives": [
+        "Trình bày được những thành tựu và hạn chế của công cuộc Đổi mới."
+      ],
+      "common_exercises": []
+    },
+    "Bài 24. Cách mạng khoa học, kĩ thuật và xu thế toàn cầu hoá": {
+      "chapter": "CÁCH MẠNG KHOA HỌC, KĨ THUẬT VÀ XU THẾ TOÀN CẦU HOÁ",
+      "content": "Nghiên cứu những thành tựu và tác động của cách mạng khoa học, kỹ thuật, cùng với những biểu hiện, thời cơ và thách thức của xu thế toàn cầu hóa.",
+      "objectives": [
+        "Trình bày được những thành tựu cơ bản và tác động của cách mạng khoa học, kĩ thuật.",
+        "Nêu được những biểu hiện, thời cơ và thách thức của xu thế toàn cầu hoá."
+      ],
+      "common_exercises": []
+    }
+  }
+}

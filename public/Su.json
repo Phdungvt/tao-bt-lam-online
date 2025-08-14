@@ -1,0 +1,453 @@
+{
+  "10": {
+    "Bài 1. Hiện thực lịch sử và nhận thức lịch sử": {
+      "chapter": "LỊCH SỬ VÀ SỬ HỌC, VAI TRÒ CỦA SỬ HỌC",
+      "content": "Tìm hiểu khái niệm Lịch sử, Sử học, phân biệt hiện thực và nhận thức lịch sử, và các loại nguồn sử liệu.",
+      "objectives": [
+        "Trình bày được khái niệm Lịch sử và Sử học.",
+        "Phân biệt được hiện thực lịch sử và nhận thức lịch sử.",
+        "Nêu được đối tượng, chức năng, nhiệm vụ của Sử học.",
+        "Phân biệt được các nguồn sử liệu (sử liệu trực tiếp, gián tiếp; sử liệu thành văn, truyền miệng, hiện vật, đa phương tiện)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Tri thức lịch sử và cuộc sống": {
+      "chapter": "LỊCH SỬ VÀ SỬ HỌC, VAI TRÒ CỦA SỬ HỌC",
+      "content": "Nghiên cứu vai trò của tri thức lịch sử, quy trình thu thập thông tin và sự cần thiết của việc học tập lịch sử suốt đời.",
+      "objectives": [
+        "Nêu được vai trò, ý nghĩa của tri thức lịch sử đối với đời sống.",
+        "Trình bày được quy trình thu thập, xử lí thông tin, sử liệu để học tập và khám phá lịch sử.",
+        "Giải thích được sự cần thiết phải học tập lịch sử suốt đời."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Sử học với các lĩnh vực, khoa học khác": {
+      "chapter": "LỊCH SỬ VÀ SỬ HỌC, VAI TRÒ CỦA SỬ HỌC",
+      "content": "Phân tích mối liên hệ giữa Sử học với các ngành khoa học xã hội, nhân văn và khoa học tự nhiên, công nghệ.",
+      "objectives": [
+        "Giải thích được Sử học là môn khoa học mang tính liên ngành.",
+        "Phân tích được mối liên hệ giữa Sử học với các ngành khoa học xã hội và nhân văn.",
+        "Nêu được vai trò của các môn khoa học tự nhiên và công nghệ đối với công tác nghiên cứu lịch sử."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Sử học với một số lĩnh vực, ngành nghề hiện đại": {
+      "chapter": "LỊCH SỬ VÀ SỬ HỌC, VAI TRÒ CỦA SỬ HỌC",
+      "content": "Khám phá mối quan hệ giữa Sử học với công tác bảo tồn di sản, công nghiệp văn hoá và du lịch.",
+      "objectives": [
+        "Phân tích được mối quan hệ giữa Sử học với công tác bảo tồn và phát huy giá trị di sản.",
+        "Phân tích được vai trò và tác động qua lại của Sử học đối với công nghiệp văn hoá và du lịch."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Khái quát lịch sử văn minh thế giới cổ – trung đại": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH THẾ GIỚI THỜI KÌ CỔ – TRUNG ĐẠI",
+      "content": "Giải thích khái niệm văn minh, phân biệt với văn hóa và trình bày sự phát triển của các nền văn minh.",
+      "objectives": [
+        "Giải thích được khái niệm văn minh và phân biệt văn minh, văn hoá.",
+        "Trình bày được sự phát triển của các nền văn minh trên thế giới theo tiến trình lịch sử."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Văn minh Ai Cập cổ đại": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH THẾ GIỚI THỜI KÌ CỔ – TRUNG ĐẠI",
+      "content": "Nghiên cứu cơ sở hình thành và các thành tựu tiêu biểu của văn minh Ai Cập về chữ viết, tín ngưỡng, khoa học, kiến trúc.",
+      "objectives": [
+        "Giải thích được những cơ sở hình thành văn minh Ai Cập cổ đại.",
+        "Nêu được ý nghĩa của những thành tựu chính của văn minh Ai Cập (chữ viết, tín ngưỡng, khoa học, kiến trúc)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Văn minh Trung Hoa cổ – trung đại": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH THẾ GIỚI THỜI KÌ CỔ – TRUNG ĐẠI",
+      "content": "Tìm hiểu cơ sở hình thành và các thành tựu cơ bản của văn minh Trung Hoa về chữ viết, văn học, sử học, khoa học kĩ thuật.",
+      "objectives": [
+        "Phân tích được cơ sở hình thành nền văn minh Trung Hoa cổ – trung đại.",
+        "Nêu được ý nghĩa của những thành tựu cơ bản (chữ viết, văn học, sử học, khoa học kĩ thuật, nghệ thuật, tư tưởng)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Văn minh Ấn Độ cổ – trung đại": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH THẾ GIỚI THỜI KÌ CỔ – TRUNG ĐẠI",
+      "content": "Nghiên cứu cơ sở hình thành và các thành tựu cơ bản của văn minh Ấn Độ về chữ viết, văn học, tôn giáo, nghệ thuật.",
+      "objectives": [
+        "Phân tích được cơ sở hình thành văn minh Ấn Độ cổ – trung đại.",
+        "Nêu được ý nghĩa của những thành tựu cơ bản (chữ viết, văn học, tôn giáo, nghệ thuật, khoa học kĩ thuật)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Văn minh Hy Lạp – La Mã cổ đại": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH THẾ GIỚI THỜI KÌ CỔ – TRUNG ĐẠI",
+      "content": "Khám phá cơ sở hình thành và các thành tựu cơ bản của văn minh Hy Lạp - La Mã về chữ viết, văn học, nghệ thuật, khoa học.",
+      "objectives": [
+        "Phân tích được cơ sở hình thành văn minh Hy Lạp – La Mã cổ đại.",
+        "Nêu được ý nghĩa của những thành tựu cơ bản (chữ viết, văn học, nghệ thuật, khoa học, triết học, thể thao)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Văn minh Tây Âu thời Phục hưng": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH THẾ GIỚI THỜI KÌ CỔ – TRUNG ĐẠI",
+      "content": "Phân tích bối cảnh lịch sử và những thành tựu cơ bản của phong trào Văn hóa Phục hưng trong các lĩnh vực văn học, nghệ thuật, khoa học.",
+      "objectives": [
+        "Phân tích được bối cảnh lịch sử và những tiền đề hình thành phong trào Văn hoá Phục hưng.",
+        "Nêu được ý nghĩa những thành tựu cơ bản (văn học, nghệ thuật, khoa học kĩ thuật, triết học)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Các cuộc cách mạng công nghiệp thời kì cận đại": {
+      "chapter": "CÁC CUỘC CÁCH MẠNG CÔNG NGHIỆP TRONG LỊCH SỬ THẾ GIỚI",
+      "content": "Trình bày bối cảnh, thành tựu, ý nghĩa và tác động của Cách mạng công nghiệp lần thứ nhất và lần thứ hai.",
+      "objectives": [
+        "Trình bày được bối cảnh lịch sử, thành tựu cơ bản của Cách mạng công nghiệp lần thứ nhất.",
+        "Trình bày được bối cảnh lịch sử, thành tựu cơ bản của Cách mạng công nghiệp lần thứ hai.",
+        "Phân tích được ý nghĩa và tác động của hai cuộc cách mạng công nghiệp thời cận đại."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Các cuộc cách mạng công nghiệp thời kì hiện đại": {
+      "chapter": "CÁC CUỘC CÁCH MẠNG CÔNG NGHIỆP TRONG LỊCH SỬ THẾ GIỚI",
+      "content": "Trình bày bối cảnh, thành tựu, ý nghĩa và tác động của Cách mạng công nghiệp lần thứ ba và lần thứ tư.",
+      "objectives": [
+        "Trình bày được bối cảnh lịch sử, thành tựu cơ bản của Cách mạng công nghiệp lần thứ ba.",
+        "Trình bày được bối cảnh lịch sử, thành tựu cơ bản của Cách mạng công nghiệp lần thứ tư.",
+        "Phân tích được ý nghĩa và tác động của hai cuộc cách mạng công nghiệp thời hiện đại."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Cơ sở hình thành văn minh Đông Nam Á cổ – trung đại": {
+      "chapter": "VĂN MINH ĐÔNG NAM Á CỔ – TRUNG ĐẠI",
+      "content": "Phân tích tác động của vị trí địa lí, điều kiện tự nhiên và ảnh hưởng từ văn hóa Trung Quốc, Ấn Độ đối với sự hình thành văn minh Đông Nam Á.",
+      "objectives": [
+        "Phân tích được tác động của vị trí địa lí, điều kiện tự nhiên và cơ sở xã hội đối với sự hình thành văn minh Đông Nam Á.",
+        "Nêu được những ảnh hưởng từ văn hoá Trung Quốc, Ấn Độ đối với nền văn minh này."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Hành trình phát triển và thành tựu văn minh Đông Nam Á cổ – trung đại": {
+      "chapter": "VĂN MINH ĐÔNG NAM Á CỔ – TRUNG ĐẠI",
+      "content": "Trình bày các thời kì phát triển và những thành tựu tiêu biểu của văn minh Đông Nam Á về tín ngưỡng, tôn giáo, chữ viết, kiến trúc.",
+      "objectives": [
+        "Trình bày được các thời kì phát triển của văn minh Đông Nam Á.",
+        "Nêu được những thành tựu tiêu biểu về tín ngưỡng, tôn giáo, chữ viết, văn học, kiến trúc và điêu khắc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Văn minh Văn Lang – Âu Lạc": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH TRÊN ĐẤT NƯỚC VIỆT NAM (TRƯỚC NĂM 1858)",
+      "content": "Nghiên cứu cơ sở hình thành và những thành tựu tiêu biểu của nền văn minh Văn Lang - Âu Lạc về tổ chức nhà nước, đời sống vật chất và tinh thần.",
+      "objectives": [
+        "Nêu được cơ sở hình thành và những thành tựu tiêu biểu của nền văn minh Văn Lang - Âu Lạc (tổ chức nhà nước, đời sống vật chất, đời sống tinh thần)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Văn minh Chăm-pa": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH TRÊN ĐẤT NƯỚC VIỆT NAM (TRƯỚC NĂM 1858)",
+      "content": "Tìm hiểu cơ sở hình thành và những thành tựu tiêu biểu của văn minh Chăm-pa về tổ chức nhà nước, chữ viết, đời sống vật chất và tinh thần.",
+      "objectives": [
+        "Nêu được cơ sở hình thành và những thành tựu tiêu biểu của văn minh Chăm-pa (tổ chức nhà nước, chữ viết, đời sống vật chất, đời sống tinh thần)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Văn minh Phù Nam": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH TRÊN ĐẤT NƯỚC VIỆT NAM (TRƯỚC NĂM 1858)",
+      "content": "Khám phá cơ sở hình thành và những thành tựu tiêu biểu của văn minh Phù Nam về tổ chức nhà nước, kinh tế và đời sống văn hóa.",
+      "objectives": [
+        "Nêu được cơ sở hình thành và những thành tựu tiêu biểu của văn minh Phù Nam (tổ chức nhà nước, kinh tế, đời sống vật chất, đời sống tinh thần)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Văn minh Đại Việt": {
+      "chapter": "MỘT SỐ NỀN VĂN MINH TRÊN ĐẤT NƯỚC VIỆT NAM (TRƯỚC NĂM 1858)",
+      "content": "Nghiên cứu cơ sở hình thành và những thành tựu tiêu biểu của văn minh Đại Việt trên các lĩnh vực nhà nước, kinh tế, văn hóa.",
+      "objectives": [
+        "Nêu được cơ sở hình thành và những thành tựu tiêu biểu của văn minh Đại Việt (tổ chức nhà nước, kinh tế, đời sống vật chất, đời sống tinh thần)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Các dân tộc trên đất nước Việt Nam": {
+      "chapter": "CỘNG ĐỒNG CÁC DÂN TỘC VIỆT NAM",
+      "content": "Trình bày lịch sử hình thành, phát triển và những nét chính trong đời sống vật chất, tinh thần của cộng đồng 54 dân tộc Việt Nam.",
+      "objectives": [
+        "Trình bày được lịch sử hình thành và phát triển của cộng đồng các dân tộc Việt Nam.",
+        "Nêu được những nét chính trong đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam."
+      ],
+      "common_exercises": []
+    }
+  },
+  "11": {
+    "Bài 1. Một số vấn đề chung về cách mạng tư sản": {
+      "chapter": "CÁCH MẠNG TƯ SẢN VÀ SỰ PHÁT TRIỂN CỦA CHỦ NGHĨA TƯ BẢN",
+      "content": "Phân tích các tiền đề, mục tiêu, nhiệm vụ, giai cấp lãnh đạo và ý nghĩa của các cuộc cách mạng tư sản.",
+      "objectives": [
+        "Trình bày được tiền đề của các cuộc cách mạng tư sản về kinh tế, chính trị, xã hội, tư tưởng.",
+        "Phân tích được mục tiêu, nhiệm vụ, giai cấp lãnh đạo, động lực của các cuộc cách mạng tư sản.",
+        "Trình bày được kết quả, ý nghĩa của các cuộc cách mạng tư sản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Sự xác lập và phát triển của chủ nghĩa tư bản": {
+      "chapter": "CÁCH MẠNG TƯ SẢN VÀ SỰ PHÁT TRIỂN CỦA CHỦ NGHĨA TƯ BẢN",
+      "content": "Nghiên cứu quá trình xác lập chủ nghĩa tư bản ở châu Âu, Bắc Mỹ và sự phát triển sang giai đoạn độc quyền, cùng với tiềm năng và thách thức của chủ nghĩa tư bản hiện đại.",
+      "objectives": [
+        "Trình bày được sự xác lập của chủ nghĩa tư bản ở châu Âu và Bắc Mỹ.",
+        "Trình bày được quá trình mở rộng xâm lược thuộc địa và sự phát triển của chủ nghĩa tư bản từ tự do cạnh tranh sang độc quyền.",
+        "Nêu được khái niệm, tiềm năng và thách thức của chủ nghĩa tư bản hiện đại."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Liên bang Cộng hoà xã hội chủ nghĩa Xô viết ra đời và sự phát triển của chủ nghĩa xã hội sau Chiến tranh thế giới thứ hai": {
+      "chapter": "CHỦ NGHĨA XÃ HỘI TỪ NĂM 1917 ĐẾN NAY",
+      "content": "Tìm hiểu quá trình hình thành Liên Xô, sự phát triển của chủ nghĩa xã hội ở Đông Âu, châu Á, Mỹ La-tinh và nguyên nhân sụp đổ của mô hình này.",
+      "objectives": [
+        "Trình bày được quá trình hình thành và ý nghĩa sự ra đời của Liên Xô.",
+        "Trình bày được sự phát triển của chủ nghĩa xã hội ở các nước Đông Âu sau Thế chiến II.",
+        "Nêu được sự mở rộng của chủ nghĩa xã hội ở châu Á và khu vực Mỹ La-tinh.",
+        "Giải thích được nguyên nhân sụp đổ mô hình chủ nghĩa xã hội ở Đông Âu và Liên Xô."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Chủ nghĩa xã hội từ năm 1991 đến nay": {
+      "chapter": "CHỦ NGHĨA XÃ HỘI TỪ NĂM 1917 ĐẾN NAY",
+      "content": "Khái quát về chủ nghĩa xã hội từ năm 1991 đến nay và những thành tựu chính của công cuộc cải cách mở cửa ở Trung Quốc.",
+      "objectives": [
+        "Nêu được nét chính về chủ nghĩa xã hội từ năm 1991 đến nay.",
+        "Nêu được những thành tựu chính và ý nghĩa của công cuộc cải cách mở cửa của Trung Quốc."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á": {
+      "chapter": "QUÁ TRÌNH GIÀNH ĐỘC LẬP CỦA CÁC QUỐC GIA Ở ĐÔNG NAM Á",
+      "content": "Trình bày quá trình xâm lược của thực dân phương Tây và công cuộc cải cách giúp Xiêm giữ được độc lập.",
+      "objectives": [
+        "Trình bày được quá trình các nước thực dân phương Tây xâm lược và thiết lập nền thống trị ở Đông Nam Á.",
+        "Trình bày được công cuộc cải cách ở Xiêm và giải thích vì sao Xiêm không trở thành thuộc địa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Hành trình đi đến độc lập dân tộc ở Đông Nam Á": {
+      "chapter": "QUÁ TRÌNH GIÀNH ĐỘC LẬP CỦA CÁC QUỐC GIA Ở ĐÔNG NAM Á",
+      "content": "Tóm tắt các giai đoạn của cuộc đấu tranh giành độc lập và quá trình tái thiết, phát triển của các quốc gia Đông Nam Á.",
+      "objectives": [
+        "Tóm tắt được nét chính về cuộc đấu tranh chống thực dân ở Đông Nam Á hải đảo và lục địa.",
+        "Nêu được các giai đoạn phát triển của cuộc đấu tranh giành độc lập dân tộc ở Đông Nam Á.",
+        "Trình bày được quá trình tái thiết và phát triển ở Đông Nam Á sau khi giành độc lập."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam (trước năm 1945)": {
+      "chapter": "CHIẾN TRANH BẢO VỆ TỔ QUỐC VÀ CHIẾN TRANH GIẢI PHÓNG DÂN TỘC TRONG LỊCH SỬ VIỆT NAM (TRƯỚC CÁCH MẠNG THÁNG TÁM NĂM 1945)",
+      "content": "Phân tích vai trò của chiến tranh bảo vệ Tổ quốc và trình bày nội dung các cuộc kháng chiến thắng lợi tiêu biểu.",
+      "objectives": [
+        "Phân tích được vai trò, ý nghĩa của chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam.",
+        "Trình bày được nội dung chính của các cuộc kháng chiến thắng lợi tiêu biểu (chống Nam Hán, Tống, Mông-Nguyên, Xiêm, Thanh).",
+        "Giải thích được nguyên nhân thắng lợi và nguyên nhân không thành công của một số cuộc kháng chiến."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN – đến cuối thế kỉ XIX)": {
+      "chapter": "CHIẾN TRANH BẢO VỆ TỔ QUỐC VÀ CHIẾN TRANH GIẢI PHÓNG DÂN TỘC TRONG LỊCH SỬ VIỆT NAM (TRƯỚC CÁCH MẠNG THÁNG TÁM NĂM 1945)",
+      "content": "Nghiên cứu nội dung và ý nghĩa của các cuộc khởi nghĩa tiêu biểu thời Bắc thuộc, khởi nghĩa Lam Sơn và phong trào Tây Sơn.",
+      "objectives": [
+        "Trình bày được nội dung chính và ý nghĩa của các cuộc khởi nghĩa tiêu biểu thời Bắc thuộc.",
+        "Nêu được bối cảnh, diễn biến và ý nghĩa của khởi nghĩa Lam Sơn.",
+        "Trình bày được bối cảnh, diễn biến và ý nghĩa của phong trào Tây Sơn.",
+        "Rút ra được những bài học lịch sử về tập hợp lực lượng, đoàn kết dân tộc và nghệ thuật quân sự."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Cuộc cải cách của Hồ Quý Ly và triều Hồ": {
+      "chapter": "MỘT SỐ CUỘC CẢI CÁCH LỚN TRONG LỊCH SỬ VIỆT NAM (TRƯỚC NĂM 1858)",
+      "content": "Trình bày bối cảnh, nội dung, kết quả và ý nghĩa của cuộc cải cách do Hồ Quý Ly và triều Hồ tiến hành.",
+      "objectives": [
+        "Trình bày được bối cảnh, nội dung, kết quả và ý nghĩa cuộc cải cách của Hồ Quý Ly và triều Hồ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)": {
+      "chapter": "MỘT SỐ CUỘC CẢI CÁCH LỚN TRONG LỊCH SỬ VIỆT NAM (TRƯỚC NĂM 1858)",
+      "content": "Trình bày bối cảnh, nội dung, kết quả và ý nghĩa của cuộc cải cách toàn diện do vua Lê Thánh Tông thực hiện.",
+      "objectives": [
+        "Trình bày được bối cảnh, nội dung, kết quả và ý nghĩa cuộc cải cách của Lê Thánh Tông."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)": {
+      "chapter": "MỘT SỐ CUỘC CẢI CÁCH LỚN TRONG LỊCH SỬ VIỆT NAM (TRƯỚC NĂM 1858)",
+      "content": "Trình bày bối cảnh, nội dung, kết quả và ý nghĩa của cuộc cải cách hành chính do vua Minh Mạng tiến hành.",
+      "objectives": [
+        "Trình bày được bối cảnh, nội dung, kết quả và ý nghĩa cuộc cải cách của Minh Mạng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Vị trí và tầm quan trọng của Biển Đông": {
+      "chapter": "LỊCH SỬ BẢO VỆ CHỦ QUYỀN, CÁC QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA VIỆT NAM Ở BIỂN ĐÔNG",
+      "content": "Giải thích tầm quan trọng chiến lược của Biển Đông và các đảo, quần đảo về giao thông, tài nguyên và an ninh quốc phòng.",
+      "objectives": [
+        "Giải thích được tầm quan trọng chiến lược của Biển Đông về giao thông, vị trí chiến lược, tài nguyên thiên nhiên.",
+        "Giải thích được tầm quan trọng chiến lược của các đảo và quần đảo ở Biển Đông."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Việt Nam và Biển Đông": {
+      "chapter": "LỊCH SỬ BẢO VỆ CHỦ QUYỀN, CÁC QUYỀN VÀ LỢI ÍCH HỢP PHÁP CỦA VIỆT NAM Ở BIỂN ĐÔNG",
+      "content": "Trình bày quá trình Việt Nam xác lập, quản lí và đấu tranh bảo vệ chủ quyền đối với quần đảo Hoàng Sa, Trường Sa.",
+      "objectives": [
+        "Nêu được tầm quan trọng chiến lược của Biển Đông đối với Việt Nam.",
+        "Trình bày được quá trình Việt Nam xác lập chủ quyền và quản lí liên tục đối với quần đảo Hoàng Sa và Trường Sa.",
+        "Trình bày được nét chính về cuộc đấu tranh bảo vệ và thực thi chủ quyền của Việt Nam ở Biển Đông.",
+        "Nêu được chủ trương của Việt Nam giải quyết các tranh chấp ở Biển Đông bằng biện pháp hoà bình."
+      ],
+      "common_exercises": []
+    }
+  },
+  "12": {
+    "Bài 1. Liên hợp quốc": {
+      "chapter": "THẾ GIỚI TRONG VÀ SAU CHIẾN TRANH LẠNH",
+      "content": "Nghiên cứu bối cảnh hình thành, mục tiêu, nguyên tắc hoạt động và vai trò của Liên hợp quốc trong việc duy trì hòa bình và an ninh thế giới.",
+      "objectives": [
+        "Nêu được bối cảnh lịch sử và quá trình hình thành Liên hợp quốc.",
+        "Trình bày được mục tiêu và nguyên tắc hoạt động cơ bản của Liên hợp quốc.",
+        "Nêu được vai trò của Liên hợp quốc trong việc duy trì hoà bình, an ninh quốc tế, thúc đẩy phát triển và đảm bảo quyền con người."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Trật tự thế giới trong Chiến tranh lạnh": {
+      "chapter": "THẾ GIỚI TRONG VÀ SAU CHIẾN TRANH LẠNH",
+      "content": "Trình bày quá trình hình thành, tồn tại và sụp đổ của Trật tự thế giới hai cực I-an-ta.",
+      "objectives": [
+        "Trình bày được quá trình hình thành và tồn tại của Trật tự thế giới hai cực I-an-ta.",
+        "Nêu được nguyên nhân và tác động của sự sụp đổ Trật tự thế giới hai cực I-an-ta."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Trật tự thế giới sau Chiến tranh lạnh": {
+      "chapter": "THẾ GIỚI TRONG VÀ SAU CHIẾN TRANH LẠNH",
+      "content": "Phân tích các xu thế phát triển chính của thế giới sau Chiến tranh lạnh, đặc biệt là xu thế đa cực trong quan hệ quốc tế.",
+      "objectives": [
+        "Nêu được xu thế phát triển chính của thế giới sau Chiến tranh lạnh (đa cực, kinh tế làm trọng tâm, đối thoại hợp tác, toàn cầu hoá).",
+        "Trình bày được khái niệm và xu thế đa cực trong quan hệ quốc tế sau Chiến tranh lạnh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)": {
+      "chapter": "ASEAN: NHỮNG CHẶNG ĐƯỜNG LỊCH SỬ",
+      "content": "Trình bày quá trình hình thành, mục đích và các giai đoạn phát triển của ASEAN từ khi thành lập đến nay.",
+      "objectives": [
+        "Trình bày được quá trình hình thành và mục đích thành lập của ASEAN.",
+        "Trình bày được quá trình phát triển từ ASEAN 5 đến ASEAN 10.",
+        "Nêu được các giai đoạn phát triển chính của ASEAN từ năm 1967 đến nay."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Cộng đồng ASEAN: Từ ý tưởng đến hiện thực": {
+      "chapter": "ASEAN: NHỮNG CHẶNG ĐƯỜNG LỊCH SỬ",
+      "content": "Nghiên cứu về ý tưởng, mục tiêu, kế hoạch xây dựng và ba trụ cột của Cộng đồng ASEAN, cùng với những thách thức và triển vọng.",
+      "objectives": [
+        "Nêu được nét chính về ý tưởng, mục tiêu và kế hoạch xây dựng Cộng đồng ASEAN.",
+        "Trình bày được nội dung ba trụ cột của Cộng đồng ASEAN (Chính trị - An ninh, Kinh tế, Văn hoá - Xã hội).",
+        "Nêu được những thách thức và triển vọng của Cộng đồng ASEAN."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Cách mạng tháng Tám năm 1945": {
+      "chapter": "CÁCH MẠNG THÁNG TÁM 1945, CHIẾN TRANH GIẢI PHÓNG DÂN TỘC VÀ CHIẾN TRANH BẢO VỆ TỔ QUỐC",
+      "content": "Trình bày bối cảnh, diễn biến, nguyên nhân thắng lợi và ý nghĩa lịch sử của Cách mạng tháng Tám năm 1945.",
+      "objectives": [
+        "Trình bày được bối cảnh lịch sử, diễn biến chính của Cách mạng tháng Tám năm 1945.",
+        "Nêu được nguyên nhân thắng lợi, ý nghĩa và bài học kinh nghiệm của Cách mạng tháng Tám."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Cuộc kháng chiến chống thực dân Pháp (1945-1954)": {
+      "chapter": "CÁCH MẠNG THÁNG TÁM 1945, CHIẾN TRANH GIẢI PHÓNG DÂN TỘC VÀ CHIẾN TRANH BẢO VỆ TỔ QUỐC",
+      "content": "Nghiên cứu bối cảnh, các giai đoạn phát triển, nguyên nhân thắng lợi và ý nghĩa lịch sử của cuộc kháng chiến chống Pháp.",
+      "objectives": [
+        "Trình bày được bối cảnh lịch sử, các giai đoạn phát triển chính của cuộc kháng chiến chống Pháp.",
+        "Nêu được nguyên nhân thắng lợi và ý nghĩa lịch sử của cuộc kháng chiến."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Cuộc kháng chiến chống Mỹ, cứu nước (1954-1975)": {
+      "chapter": "CÁCH MẠNG THÁNG TÁM 1945, CHIẾN TRANH GIẢI PHÓNG DÂN TỘC VÀ CHIẾN TRANH BẢO VỆ TỔ QUỐC",
+      "content": "Tìm hiểu bối cảnh, các giai đoạn phát triển, nguyên nhân thắng lợi và ý nghĩa lịch sử của cuộc kháng chiến chống Mỹ.",
+      "objectives": [
+        "Trình bày được bối cảnh lịch sử, các giai đoạn phát triển chính của cuộc kháng chiến chống Mỹ.",
+        "Nêu được nguyên nhân thắng lợi và ý nghĩa lịch sử của cuộc kháng chiến."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Đấu tranh bảo vệ Tổ quốc từ sau tháng 4 – 1975 đến nay": {
+      "chapter": "CÁCH MẠNG THÁNG TÁM 1945, CHIẾN TRANH GIẢI PHÓNG DÂN TỘC VÀ CHIẾN TRANH BẢO VỆ TỔ QUỐC",
+      "content": "Trình bày diễn biến các cuộc chiến tranh bảo vệ biên giới Tây Nam, phía Bắc và cuộc đấu tranh bảo vệ chủ quyền ở Biển Đông.",
+      "objectives": [
+        "Trình bày được diễn biến chính về cuộc chiến tranh bảo vệ Tổ quốc ở biên giới Tây Nam và biên giới phía Bắc.",
+        "Trình bày được cuộc đấu tranh bảo vệ chủ quyền quốc gia ở Biển Đông từ sau 1975.",
+        "Nêu được những bài học cơ bản của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Khái quát về công cuộc Đổi mới từ năm 1986 đến nay": {
+      "chapter": "CÔNG CUỘC ĐỔI MỚI Ở VIỆT NAM TỪ NĂM 1986 ĐẾN NAY",
+      "content": "Trình bày nội dung chính và các giai đoạn phát triển của công cuộc Đổi mới ở Việt Nam từ năm 1986.",
+      "objectives": [
+        "Trình bày được nội dung chính các giai đoạn của công cuộc Đổi mới (1986-1995; 1996-2006; 2006-nay)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay": {
+      "chapter": "CÔNG CUỘC ĐỔI MỚI Ở VIỆT NAM TỪ NĂM 1986 ĐẾN NAY",
+      "content": "Trình bày những thành tựu cơ bản của công cuộc Đổi mới trên các lĩnh vực và rút ra các bài học kinh nghiệm.",
+      "objectives": [
+        "Trình bày được thành tựu cơ bản của công cuộc Đổi mới về chính trị, kinh tế, xã hội, văn hoá, hội nhập quốc tế.",
+        "Nêu được một số bài học kinh nghiệm của công cuộc Đổi mới."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Hoạt động đối ngoại của Việt Nam trong đấu tranh giành độc lập dân tộc (đầu thế kỉ XX đến Cách mạng tháng Tám năm 1945)": {
+      "chapter": "LỊCH SỬ ĐỐI NGOẠI CỦA VIỆT NAM THỜI CẬN – HIỆN ĐẠI",
+      "content": "Nêu những hoạt động đối ngoại chủ yếu của các nhà yêu nước đầu thế kỷ XX và của Nguyễn Ái Quốc, Đảng Cộng sản Đông Dương.",
+      "objectives": [
+        "Nêu được những hoạt động đối ngoại chủ yếu của các nhà yêu nước đầu thế kỉ XX (Phan Bội Châu, Phan Châu Trinh).",
+        "Nêu được những hoạt động đối ngoại của Nguyễn Ái Quốc và Đảng Cộng sản Đông Dương (1920-1945)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Hoạt động đối ngoại của Việt Nam từ sau Cách mạng tháng Tám năm 1945 đến nay": {
+      "chapter": "LỊCH SỬ ĐỐI NGOẠI CỦA VIỆT NAM THỜI CẬN – HIỆN ĐẠI",
+      "content": "Trình bày các hoạt động đối ngoại của Việt Nam trong các cuộc kháng chiến và trong công cuộc Đổi mới, hội nhập quốc tế.",
+      "objectives": [
+        "Nêu được những hoạt động đối ngoại của Việt Nam trong kháng chiến chống Pháp (1945-1954) và chống Mỹ (1954-1975).",
+        "Nêu được những hoạt động đối ngoại chủ yếu của Việt Nam trong giai đoạn 1975-1985 và từ 1986 đến nay."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Khái quát về cuộc đời và sự nghiệp của Hồ Chí Minh": {
+      "chapter": "HỒ CHÍ MINH TRONG LỊCH SỬ VIỆT NAM",
+      "content": "Tóm tắt những nét cơ bản trong tiểu sử và quá trình hoạt động cách mạng của Chủ tịch Hồ Chí Minh.",
+      "objectives": [
+        "Nêu được một số yếu tố ảnh hưởng đến cuộc đời và sự nghiệp của Hồ Chí Minh.",
+        "Tóm tắt được những nét cơ bản trong tiểu sử và tiến trình hoạt động cách mạng của Hồ Chí Minh."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Hồ Chí Minh – Anh hùng Giải phóng dân tộc": {
+      "chapter": "HỒ CHÍ MINH TRONG LỊCH SỬ VIỆT NAM",
+      "content": "Trình bày vai trò của Hồ Chí Minh trong việc tìm ra con đường cứu nước, thành lập Đảng, và lãnh đạo các cuộc kháng chiến.",
+      "objectives": [
+        "Trình bày được hành trình và ý nghĩa của việc Hồ Chí Minh tìm ra con đường cứu nước.",
+        "Nêu được vai trò của Hồ Chí Minh đối với việc thành lập Đảng, Mặt trận Việt Minh, và lãnh đạo Cách mạng tháng Tám.",
+        "Nêu được vai trò của Hồ Chí Minh trong kháng chiến chống Pháp và chống Mỹ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam": {
+      "chapter": "HỒ CHÍ MINH TRONG LỊCH SỬ VIỆT NAM",
+      "content": "Lý giải những cống hiến, giá trị tư tưởng, văn hóa và nguyên nhân vì sao Hồ Chí Minh sống mãi trong lòng nhân dân Việt Nam và thế giới.",
+      "objectives": [
+        "Nêu được nguyên nhân nhân dân thế giới và Việt Nam dành cho Hồ Chí Minh những cống hiến và giá trị tư tưởng, văn hoá.",
+        "Lý giải được vì sao Hồ Chí Minh sống mãi trong lòng nhân dân Việt Nam."
+      ],
+      "common_exercises": []
+    }
+  }
+}

@@ -1,0 +1,131 @@
+
+{
+  "6": {
+    "Chủ đề: Chất và sự thay đổi của chất": {
+      "chapter": "KHOA HỌC VẬT CHẤT",
+      "content": "Nghiên cứu các đặc điểm của chất và sự biến đổi trong tự nhiên.",
+      "objectives": [
+        "Trình bày được khái niệm chất và trạng thái của chất.",
+        "Phân tích được sự thay đổi của chất trong thực tế.",
+        "Hiểu được vai trò của chất trong đời sống.",
+        "Liên hệ thực tiễn về nước và các trạng thái."
+      ],
+      "common_exercises": [
+        "Phân tích sự thay đổi trạng thái của nước.",
+        "Thảo luận về tác động của nhiệt độ lên chất.",
+        "Liên hệ thực tiễn về sử dụng nước sạch."
+      ]
+    },
+    "Chuyên đề: Vật sống và môi trường": {
+      "chapter": "KHOA HỌC SINH THÁI",
+      "content": "Tìm hiểu mối quan hệ giữa vật sống và môi trường xung quanh.",
+      "objectives": [
+        "Trình bày được khái niệm vật sống và môi trường.",
+        "Phân tích được mối quan hệ giữa sinh vật và môi trường.",
+        "Hiểu được ảnh hưởng của con người đến môi trường.",
+        "Liên hệ thực tiễn về bảo vệ môi trường."
+      ],
+      "common_exercises": [
+        "Phân tích chuỗi thức ăn đơn giản.",
+        "Thảo luận về tác động của rác thải đến môi trường.",
+        "Đánh giá biện pháp bảo vệ cây xanh."
+      ]
+    }
+  },
+  "7": {
+    "Chủ đề: Năng lượng và chuyển hóa": {
+      "chapter": "KHOA HỌC NĂNG LƯỢNG",
+      "content": "Nghiên cứu các dạng năng lượng và quá trình chuyển hóa trong tự nhiên.",
+      "objectives": [
+        "Trình bày được khái niệm năng lượng và các dạng chính.",
+        "Phân tích được quá trình chuyển hóa năng lượng.",
+        "Hiểu được ứng dụng của năng lượng trong đời sống.",
+        "Liên hệ thực tiễn về sử dụng năng lượng mặt trời."
+      ],
+      "common_exercises": [
+        "Phân tích chuyển hóa năng lượng trong pin năng lượng.",
+        "Thảo luận về hiệu quả của năng lượng tái tạo.",
+        "Liên hệ thực tiễn về tiết kiệm điện."
+      ]
+    },
+    "Chuyên đề: Hệ thống Trái Đất": {
+      "chapter": "KHOA HỌC TRÁI ĐẤT",
+      "content": "Tìm hiểu cấu trúc và các hiện tượng tự nhiên của Trái Đất.",
+      "objectives": [
+        "Trình bày được cấu trúc lớp vỏ Trái Đất.",
+        "Phân tích được các hiện tượng tự nhiên như động đất.",
+        "Hiểu được vai trò của Trái Đất trong sự sống.",
+        "Liên hệ thực tiễn về phòng tránh thiên tai."
+      ],
+      "common_exercises": [
+        "Phân tích nguyên nhân gây động đất.",
+        "Thảo luận về tác động của núi lửa.",
+        "Đánh giá biện pháp phòng chống lũ lụt."
+      ]
+    }
+  },
+  "8": {
+    "Chủ đề: Vật chất và năng lượng trong sinh vật": {
+      "chapter": "KHOA HỌC SINH HỌC",
+      "content": "Nghiên cứu quá trình trao đổi chất và năng lượng trong sinh vật.",
+      "objectives": [
+        "Trình bày được khái niệm trao đổi chất.",
+        "Phân tích được quá trình quang hợp và hô hấp.",
+        "Hiểu được vai trò của năng lượng trong sinh vật.",
+        "Liên hệ thực tiễn về ảnh hưởng của ô nhiễm."
+      ],
+      "common_exercises": [
+        "Vẽ sơ đồ quá trình quang hợp.",
+        "Phân tích vai trò của oxy trong hô hấp.",
+        "Đánh giá tác động của ô nhiễm không khí."
+      ]
+    },
+    "Chuyên đề: Tương tác Trái Đất và vũ trụ": {
+      "chapter": "KHOA HỌC VŨ TRỤ",
+      "content": "Tìm hiểu mối quan hệ giữa Trái Đất và các hiện tượng vũ trụ.",
+      "objectives": [
+        "Trình bày được khái niệm về chuyển động Trái Đất.",
+        "Phân tích được tác động của Mặt Trời đến Trái Đất.",
+        "Hiểu được vai trò của vũ trụ trong khoa học.",
+        "Liên hệ thực tiễn về quan sát thiên văn."
+      ],
+      "common_exercises": [
+        "Phân tích nguyên nhân gây ra ngày và đêm.",
+        "Thảo luận về tác động của Mặt Trăng đến thủy triều.",
+        "Đánh giá vai trò của vệ tinh nhân tạo."
+      ]
+    }
+  },
+  "9": {
+    "Chủ đề: Tương tác vật chất và năng lượng": {
+      "chapter": "KHOA HỌC VẬT LÝ",
+      "content": "Nghiên cứu tương tác giữa vật chất và năng lượng trong các hiện tượng tự nhiên.",
+      "objectives": [
+        "Trình bày được khái niệm vật chất và năng lượng.",
+        "Phân tích được chuyển hóa năng lượng trong máy móc.",
+        "Hiểu được vai trò của năng lượng trong đời sống.",
+        "Liên hệ thực tiễn về sử dụng năng lượng tái tạo."
+      ],
+      "common_exercises": [
+        "Phân tích chuyển hóa năng lượng trong động cơ.",
+        "Thảo luận về hiệu quả của năng lượng gió.",
+        "Đánh giá tác động của năng lượng hóa thạch."
+      ]
+    },
+    "Chuyên đề: Sinh thái và bảo tồn": {
+      "chapter": "KHOA HỌC SINH THÁI",
+      "content": "Tìm hiểu bảo tồn sinh thái và ảnh hưởng của con người đến môi trường.",
+      "objectives": [
+        "Trình bày được khái niệm bảo tồn sinh thái.",
+        "Phân tích được tác động của con người đến môi trường.",
+        "Hiểu được biện pháp bảo vệ hệ sinh thái.",
+        "Liên hệ thực tiễn về bảo vệ rừng ngập mặn."
+      ],
+      "common_exercises": [
+        "Phân tích tác động của phá rừng.",
+        "Thảo luận về bảo vệ đa dạng sinh học.",
+        "Đánh giá hiệu quả của khu bảo tồn thiên nhiên."
+      ]
+    }
+  }
+}

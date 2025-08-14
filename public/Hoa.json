@@ -1,0 +1,528 @@
+
+{
+  "10": {
+    "Bài 2. Thành phần của nguyên tử": {
+      "chapter": "CẤU TẠO NGUYÊN TỬ",
+      "content": "Nghiên cứu về thành phần cấu tạo của nguyên tử, bao gồm hạt nhân (proton, neutron) và vỏ electron, cùng với so sánh về khối lượng và kích thước.",
+      "objectives": [
+        "Trình bày được thành phần của nguyên tử (hạt nhân và vỏ electron).",
+        "Nêu được thành phần hạt nhân nguyên tử (proton và neutron).",
+        "So sánh được khối lượng của electron với proton và neutron.",
+        "So sánh được kích thước của hạt nhân với kích thước nguyên tử."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Nguyên tố hoá học": {
+      "chapter": "CẤU TẠO NGUYÊN TỬ",
+      "content": "Tìm hiểu về khái niệm nguyên tố hoá học, đồng vị, nguyên tử khối và cách tính nguyên tử khối trung bình.",
+      "objectives": [
+        "Trình bày được khái niệm về nguyên tố hoá học, số hiệu nguyên tử và kí hiệu nguyên tử.",
+        "Phát biểu được khái niệm đồng vị, nguyên tử khối.",
+        "Tính được nguyên tử khối trung bình dựa vào khối lượng nguyên tử và phần trăm số nguyên tử của các đồng vị."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Cấu trúc lớp vỏ electron của nguyên tử": {
+      "chapter": "CẤU TẠO NGUYÊN TỬ",
+      "content": "Nghiên cứu mô hình hiện đại về cấu trúc lớp vỏ electron, orbital, lớp, phân lớp và cách viết cấu hình electron để dự đoán tính chất hóa học.",
+      "objectives": [
+        "Trình bày được mô hình hiện đại mô tả sự chuyển động của electron trong nguyên tử.",
+        "Nêu được khái niệm về orbital nguyên tử (AO) và mô tả được hình dạng của AO s, p.",
+        "Nêu được khái niệm lớp, phân lớp electron và số lượng AO trong một phân lớp.",
+        "Viết được cấu hình electron nguyên tử của 20 nguyên tố đầu tiên.",
+        "Dự đoán được tính chất hoá học cơ bản (kim loại, phi kim, khí hiếm) của nguyên tố dựa vào cấu hình electron lớp ngoài cùng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Cấu tạo bảng tuần hoàn các nguyên tố hoá học": {
+      "chapter": "BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC",
+      "content": "Mô tả cấu tạo của bảng tuần hoàn các nguyên tố hóa học, bao gồm ô, chu kì, nhóm và nguyên tắc sắp xếp, phân loại các nguyên tố.",
+      "objectives": [
+        "Mô tả được cấu tạo của bảng tuần hoàn (ô, chu kì, nhóm).",
+        "Nêu được nguyên tắc sắp xếp của bảng tuần hoàn.",
+        "Phân loại được nguyên tố s, p, d, f.",
+        "Phân loại được nguyên tố kim loại, phi kim, khí hiếm."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Xu hướng biến đổi một số tính chất": {
+      "chapter": "BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC",
+      "content": "Giải thích xu hướng biến đổi tuần hoàn của bán kính nguyên tử, độ âm điện, tính kim loại, phi kim và tính acid/base của các oxide và hydroxide.",
+      "objectives": [
+        "Giải thích được xu hướng biến đổi bán kính nguyên tử trong một chu kì, một nhóm A.",
+        "Giải thích được xu hướng biến đổi độ âm điện, tính kim loại, phi kim trong một chu kì, một nhóm A.",
+        "Nhận xét được xu hướng biến đổi tính acid/base của các oxide và hydroxide theo chu kì."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Định luật tuần hoàn – Ý nghĩa của bảng tuần hoàn": {
+      "chapter": "BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC",
+      "content": "Phát biểu định luật tuần hoàn và trình bày mối liên hệ giữa vị trí của một nguyên tố trong bảng tuần hoàn với cấu tạo nguyên tử và tính chất của nó.",
+      "objectives": [
+        "Phát biểu được định luật tuần hoàn.",
+        "Trình bày được mối liên hệ giữa vị trí trong bảng tuần hoàn với cấu tạo nguyên tử và tính chất của nguyên tố."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Quy tắc octet": {
+      "chapter": "LIÊN KẾT HOÁ HỌC",
+      "content": "Trình bày và vận dụng quy tắc octet để giải thích sự hình thành liên kết hoá học cho các nguyên tố nhóm A.",
+      "objectives": [
+        "Trình bày và vận dụng được quy tắc octet trong quá trình hình thành liên kết hoá học cho các nguyên tố nhóm A."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Liên kết ion": {
+      "chapter": "LIÊN KẾT HOÁ HỌC",
+      "content": "Nghiên cứu sự hình thành liên kết ion và cấu trúc tinh thể ion (ví dụ NaCl) để giải thích các tính chất chung của hợp chất ion.",
+      "objectives": [
+        "Trình bày được sự hình thành liên kết ion.",
+        "Nêu được cấu tạo tinh thể NaCl và giải thích được tính chất chung của hợp chất ion."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Liên kết cộng hoá trị": {
+      "chapter": "LIÊN KẾT HOÁ HỌC",
+      "content": "Tìm hiểu về sự hình thành các loại liên kết cộng hóa trị, công thức Lewis, liên kết cho-nhận, liên kết σ và π, và năng lượng liên kết.",
+      "objectives": [
+        "Trình bày được sự hình thành liên kết cộng hoá trị (đơn, đôi, ba).",
+        "Viết được công thức Lewis của một số chất đơn giản.",
+        "Nêu được khái niệm về liên kết cho nhận.",
+        "Phân biệt được các loại liên kết dựa theo độ âm điện.",
+        "Giải thích được sự hình thành liên kết σ và π.",
+        "Trình bày được khái niệm năng lượng liên kết."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Liên kết hydrogen và tương tác van der Waals": {
+      "chapter": "LIÊN KẾT HOÁ HỌC",
+      "content": "Tìm hiểu về liên kết hydrogen và tương tác van der Waals, và ảnh hưởng của chúng đến các tính chất vật lí của chất như nhiệt độ sôi, nhiệt độ nóng chảy.",
+      "objectives": [
+        "Trình bày được khái niệm liên kết hydrogen và vai trò của nó tới tính chất vật lí của nước.",
+        "Nêu được khái niệm về tương tác van der Waals và ảnh hưởng của nó tới nhiệt độ nóng chảy, nhiệt độ sôi."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Phản ứng oxi hoá - khử và ứng dụng trong cuộc sống": {
+      "chapter": "PHẢN ỨNG OXI HOÁ - KHỬ",
+      "content": "Nghiên cứu về các khái niệm cơ bản của phản ứng oxi hóa-khử, cách cân bằng bằng phương pháp thăng bằng electron và các ứng dụng quan trọng trong thực tế.",
+      "objectives": [
+        "Nêu được khái niệm và xác định được số oxi hoá.",
+        "Nêu được khái niệm về chất oxi hóa, chất khử, quá trình oxi hóa, quá trình khử.",
+        "Cân bằng được phản ứng oxi hoá - khử bằng phương pháp thăng bằng electron.",
+        "Mô tả được một số phản ứng oxi hoá - khử quan trọng trong cuộc sống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Enthalpy tạo thành và biến thiên enthalpy của phản ứng hoá học": {
+      "chapter": "NĂNG LƯỢNG HOÁ HỌC",
+      "content": "Tìm hiểu các khái niệm về phản ứng tỏa nhiệt, thu nhiệt, enthalpy tạo thành và biến thiên enthalpy của phản ứng trong điều kiện chuẩn.",
+      "objectives": [
+        "Trình bày được khái niệm phản ứng toả nhiệt, thu nhiệt, điều kiện chuẩn.",
+        "Nêu được khái niệm enthalpy tạo thành và biến thiên enthalpy của phản ứng.",
+        "Nêu được ý nghĩa của dấu và giá trị ΔrH."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Tính biến thiên enthalpy của phản ứng hoá học": {
+      "chapter": "NĂNG LƯỢNG HOÁ HỌC",
+      "content": "Nghiên cứu các phương pháp tính toán biến thiên enthalpy của một phản ứng hóa học dựa trên năng lượng liên kết hoặc enthalpy tạo thành.",
+      "objectives": [
+        "Tính được ΔrH của một phản ứng dựa vào bảng số liệu năng lượng liên kết.",
+        "Tính được ΔrH của một phản ứng dựa vào bảng số liệu enthalpy tạo thành."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Phương trình tốc độ phản ứng và hằng số tốc độ phản ứng": {
+      "chapter": "TỐC ĐỘ PHẢN ỨNG HOÁ HỌC",
+      "content": "Tìm hiểu về khái niệm tốc độ phản ứng, cách tính tốc độ trung bình và cách viết biểu thức tốc độ phản ứng cho các phản ứng đơn giản.",
+      "objectives": [
+        "Trình bày được khái niệm tốc độ phản ứng và cách tính tốc độ trung bình.",
+        "Viết được biểu thức tốc độ phản ứng theo hằng số tốc độ và nồng độ cho phản ứng đơn giản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Các yếu tố ảnh hưởng đến tốc độ phản ứng hoá học": {
+      "chapter": "TỐC ĐỘ PHẢN ỨNG HOÁ HỌC",
+      "content": "Giải thích ảnh hưởng của các yếu tố như nồng độ, nhiệt độ, áp suất, diện tích bề mặt và chất xúc tác đến tốc độ phản ứng hóa học.",
+      "objectives": [
+        "Giải thích được ảnh hưởng của nồng độ, nhiệt độ, áp suất, diện tích bề mặt, chất xúc tác đến tốc độ phản ứng.",
+        "Nêu được ý nghĩa của hệ số nhiệt độ Van't Hoff."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Tính chất vật lí và hoá học các đơn chất nhóm VIIA": {
+      "chapter": "NGUYÊN TỐ NHÓM VIIA – HALOGEN",
+      "content": "Trình bày các tính chất vật lí và hóa học cơ bản của các đơn chất halogen, đặc biệt là phản ứng với kim loại và hydrogen.",
+      "objectives": [
+        "Trình bày được tính chất vật lí và hoá học cơ bản của các đơn chất halogen (tác dụng với kim loại, hydrogen)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Hydrogen halide và một số phản ứng của ion halide": {
+      "chapter": "NGUYÊN TỐ NHÓM VIIA – HALOGEN",
+      "content": "Nghiên cứu tính chất của các hydrogen halide, dung dịch hydrohalic acid và phản ứng đặc trưng của các ion halide với dung dịch silver nitrate.",
+      "objectives": [
+        "Trình bày được tính chất của hydrogen halide và dung dịch hydrohalic acid.",
+        "Trình bày được phản ứng của ion halide với dung dịch silver nitrate."
+      ],
+      "common_exercises": []
+    }
+  },
+  "11": {
+    "Bài 1. Khái niệm về cân bằng hoá học": {
+      "chapter": "CÂN BẰNG HOÁ HỌC",
+      "content": "Nghiên cứu về phản ứng thuận nghịch, trạng thái cân bằng, hằng số cân bằng và sự chuyển dịch cân bằng theo nguyên lí Le Chatelier.",
+      "objectives": [
+        "Trình bày được khái niệm phản ứng thuận nghịch và trạng thái cân bằng.",
+        "Viết được biểu thức hằng số cân bằng (Kc).",
+        "Vận dụng được nguyên lí Le Chatelier để giải thích ảnh hưởng của nhiệt độ, nồng độ, áp suất đến cân bằng hoá học."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Cân bằng trong dung dịch nước": {
+      "chapter": "CÂN BẰNG HOÁ HỌC",
+      "content": "Tìm hiểu về sự điện li, thuyết acid-base Brønsted-Lowry, khái niệm pH, chất chỉ thị và nguyên tắc của phương pháp chuẩn độ.",
+      "objectives": [
+        "Nêu được khái niệm sự điện li, chất điện li, chất không điện li.",
+        "Trình bày được thuyết Brønsted - Lowry về acid - base.",
+        "Nêu được khái niệm và ý nghĩa của pH.",
+        "Viết được biểu thức tính pH và sử dụng chất chỉ thị để xác định pH.",
+        "Nêu được nguyên tắc của phương pháp chuẩn độ acid - base."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Đơn chất nitrogen": {
+      "chapter": "NITROGEN VÀ SULFUR",
+      "content": "Giải thích tính trơ của nitrogen, tính chất hóa học và vai trò của nitrogen trong tự nhiên, đặc biệt là quá trình tạo nitrate từ nước mưa.",
+      "objectives": [
+        "Giải thích được tính trơ của N2 ở nhiệt độ thường qua năng lượng liên kết.",
+        "Trình bày được tính chất hóa học của N2 (tác dụng với H2, O2).",
+        "Giải thích được quá trình tạo và cung cấp nitrate cho đất từ nước mưa."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Ammonia và một số hợp chất ammonium": {
+      "chapter": "NITROGEN VÀ SULFUR",
+      "content": "Nghiên cứu các tính chất của ammonia (tính tan, base, khử), quá trình Haber và tính chất của muối ammonium.",
+      "objectives": [
+        "Giải thích được tính tan, tính base, tính khử của ammonia.",
+        "Vận dụng kiến thức về cân bằng, tốc độ phản ứng cho quá trình Haber.",
+        "Trình bày được tính chất của muối ammonium và nhận biết ion ammonium."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Một số hợp chất với oxygen của nitrogen": {
+      "chapter": "NITROGEN VÀ SULFUR",
+      "content": "Tìm hiểu về nguồn gốc các oxide của nitrogen, nguyên nhân mưa acid, tính chất của nitric acid và hiện tượng phú dưỡng.",
+      "objectives": [
+        "Giải thích được nguồn gốc của các oxide của nitrogen và nguyên nhân gây mưa acid.",
+        "Trình bày được tính acid, tính oxi hoá mạnh của nitric acid.",
+        "Giải thích được nguyên nhân, hệ quả của hiện tượng phú dưỡng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Sulfur và sulfur dioxide": {
+      "chapter": "NITROGEN VÀ SULFUR",
+      "content": "Trình bày tính chất hóa học của sulfur, tính oxi hóa và khử của sulfur dioxide, cùng với sự hình thành và tác hại của nó.",
+      "objectives": [
+        "Trình bày được tính chất hóa học của sulfur (tính oxi hóa và tính khử).",
+        "Trình bày được tính oxi hoá và tính khử của sulfur dioxide.",
+        "Trình bày được sự hình thành và tác hại của sulfur dioxide."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Sulfuric acid và muối sulfate": {
+      "chapter": "NITROGEN VÀ SULFUR",
+      "content": "Nghiên cứu các tính chất của sulfuric acid (loãng và đặc), quy trình sản xuất và cách nhận biết ion sulfate trong dung dịch.",
+      "objectives": [
+        "Trình bày được tính chất của dung dịch H2SO4 loãng và đặc (tính oxi hóa, tính háo nước).",
+        "Giải thích được các giai đoạn sản xuất sulfuric acid.",
+        "Nhận biết được ion sulfate trong dung dịch."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Hợp chất hữu cơ và hoá học hữu cơ": {
+      "chapter": "ĐẠI CƯƠNG HOÁ HỌC HỮU CƠ",
+      "content": "Nêu khái niệm về hợp chất hữu cơ, hóa học hữu cơ, cách phân loại và giới thiệu một số nhóm chức cơ bản.",
+      "objectives": [
+        "Nêu được khái niệm hợp chất hữu cơ và phân loại (hydrocarbon, dẫn xuất).",
+        "Nêu được khái niệm nhóm chức và một số nhóm chức cơ bản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Phương pháp tách và tinh chế hợp chất hữu cơ": {
+      "chapter": "ĐẠI CƯƠNG HOÁ HỌC HỮU CƠ",
+      "content": "Trình bày nguyên tắc và cách tiến hành các phương pháp tách và tinh chế hợp chất hữu cơ phổ biến như chưng cất, chiết, kết tinh và sắc kí cột.",
+      "objectives": [
+        "Trình bày được nguyên tắc và cách tiến hành các phương pháp: chưng cất, chiết, kết tinh, sắc kí cột."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Công thức phân tử hợp chất hữu cơ": {
+      "chapter": "ĐẠI CƯƠNG HOÁ HỌC HỮU CƠ",
+      "content": "Sử dụng phổ khối lượng để xác định phân tử khối và lập công thức phân tử từ dữ liệu phân tích nguyên tố.",
+      "objectives": [
+        "Sử dụng được kết quả phổ khối lượng (MS) để xác định phân tử khối.",
+        "Lập được công thức phân tử từ dữ liệu phân tích nguyên tố và phân tử khối."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Cấu tạo hoá học hợp chất hữu cơ": {
+      "chapter": "ĐẠI CƯƠNG HOÁ HỌC HỮU CƠ",
+      "content": "Trình bày nội dung thuyết cấu tạo hóa học, giải thích hiện tượng đồng phân, đồng đẳng và viết công thức cấu tạo của các hợp chất hữu cơ đơn giản.",
+      "objectives": [
+        "Trình bày được nội dung thuyết cấu tạo hoá học.",
+        "Giải thích được hiện tượng đồng phân, đồng đẳng.",
+        "Viết được công thức cấu tạo của một số hợp chất hữu cơ đơn giản."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Alkane": {
+      "chapter": "HYDROCARBON",
+      "content": "Gọi tên các alkane theo danh pháp thay thế và trình bày các tính chất hóa học đặc trưng như phản ứng thế, cracking, reforming và oxi hóa.",
+      "objectives": [
+        "Gọi được tên một số alkane theo danh pháp thay thế.",
+        "Trình bày được tính chất hóa học của alkane (phản ứng thế, cracking, reforming, oxi hoá)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Hydrocarbon không no": {
+      "chapter": "HYDROCARBON",
+      "content": "Nghiên cứu về alkene, alkyne, bao gồm cách gọi tên, đồng phân hình học và các tính chất hóa học như phản ứng cộng, trùng hợp, oxi hóa.",
+      "objectives": [
+        "Gọi được tên một số alkene, alkyne đơn giản.",
+        "Xác định được đồng phân hình học (cis, trans).",
+        "Trình bày được tính chất hóa học của alkene, alkyne (phản ứng cộng, trùng hợp, oxi hóa, phản ứng của alk-1-yne)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Arene (Hydrocarbon thơm)": {
+      "chapter": "HYDROCARBON",
+      "content": "Tìm hiểu về khái niệm arene (hydrocarbon thơm) và các tính chất hóa học đặc trưng của vòng thơm như phản ứng thế, cộng và oxi hóa.",
+      "objectives": [
+        "Nêu được khái niệm về arene.",
+        "Trình bày được tính chất hóa học của arene (phản ứng thế, cộng, oxi hoá)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Dẫn xuất halogen": {
+      "chapter": "DẪN XUẤT HALOGEN - ALCOHOL - PHENOL",
+      "content": "Gọi tên các dẫn xuất halogen và trình bày các tính chất hóa học chính như phản ứng thế và phản ứng tách theo quy tắc Zaitsev.",
+      "objectives": [
+        "Gọi được tên một số dẫn xuất halogen.",
+        "Trình bày được tính chất hóa học (phản ứng thế, phản ứng tách theo quy tắc Zaitsev)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Alcohol": {
+      "chapter": "DẪN XUẤT HALOGEN - ALCOHOL - PHENOL",
+      "content": "Nghiên cứu về alcohol, bao gồm cách gọi tên và các tính chất hóa học như phản ứng thế, tách nước và oxi hóa.",
+      "objectives": [
+        "Gọi được tên một số alcohol.",
+        "Trình bày được tính chất hóa học (phản ứng thế, tách nước, oxi hóa)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Phenol": {
+      "chapter": "DẪN XUẤT HALOGEN - ALCOHOL - PHENOL",
+      "content": "Trình bày các tính chất hóa học đặc trưng của phenol, bao gồm tính acid yếu và khả năng tham gia phản ứng thế ở vòng thơm.",
+      "objectives": [
+        "Trình bày được tính chất hóa học (tính acid, phản ứng thế ở vòng thơm)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Hợp chất carbonyl": {
+      "chapter": "HỢP CHẤT CARBONYL - CARBOXYLIC ACID",
+      "content": "Tìm hiểu về aldehyde và ketone, cách gọi tên và các tính chất hóa học như phản ứng khử, oxi hóa aldehyde, phản ứng cộng và phản ứng iodoform.",
+      "objectives": [
+        "Gọi được tên một số aldehyde, ketone.",
+        "Trình bày được tính chất hóa học (phản ứng khử, oxi hóa aldehyde, cộng, phản ứng iodoform)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Carboxylic acid": {
+      "chapter": "HỢP CHẤT CARBONYL - CARBOXYLIC ACID",
+      "content": "Nghiên cứu về carboxylic acid, cách gọi tên và các tính chất hóa học cơ bản như tính acid và phản ứng ester hóa.",
+      "objectives": [
+        "Gọi được tên một số carboxylic acid.",
+        "Trình bày được tính chất hóa học (tính acid, phản ứng ester hóa)."
+      ],
+      "common_exercises": []
+    }
+  },
+  "12": {
+    "Bài 1. Ester - Lipid": {
+      "chapter": "ESTER - LIPID. XÀ PHÒNG VÀ CHẤT GIẶT RỬA",
+      "content": "Nghiên cứu về khái niệm, cấu tạo và tính chất hóa học của ester, lipid, chất béo và acid béo.",
+      "objectives": [
+        "Nêu được khái niệm về lipid, chất béo, acid béo, ester.",
+        "Trình bày được tính chất hoá học của ester (thuỷ phân) và chất béo (hydrogen hoá, oxi hoá)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Xà phòng và chất giặt rửa": {
+      "chapter": "ESTER - LIPID. XÀ PHÒNG VÀ CHẤT GIẶT RỬA",
+      "content": "Tìm hiểu về khái niệm, cấu tạo, tính chất và phương pháp sản xuất xà phòng và chất giặt rửa tổng hợp.",
+      "objectives": [
+        "Nêu được khái niệm, cấu tạo và tính chất giặt rửa của xà phòng và chất giặt rửa tổng hợp.",
+        "Trình bày được phương pháp sản xuất xà phòng và chất giặt rửa tổng hợp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Glucose và fructose": {
+      "chapter": "CARBOHYDRATE",
+      "content": "Trình bày các tính chất hóa học của hai monosaccharide quan trọng là glucose và fructose, bao gồm tính chất của polyalcohol, aldehyde và phản ứng lên men.",
+      "objectives": [
+        "Trình bày được tính chất hoá học của glucose và fructose (tính chất của polyalcohol, aldehyde, phản ứng lên men)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Saccharose và maltose": {
+      "chapter": "CARBOHYDRATE",
+      "content": "Nghiên cứu các tính chất hóa học của hai disaccharide là saccharose và maltose, tập trung vào tính chất của polyalcohol và phản ứng thủy phân.",
+      "objectives": [
+        "Trình bày được tính chất hoá học của saccharose và maltose (tính chất của polyalcohol, phản ứng thuỷ phân)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Tinh bột và cellulose": {
+      "chapter": "CARBOHYDRATE",
+      "content": "Tìm hiểu về hai polysaccharide phổ biến là tinh bột và cellulose, cùng các tính chất hóa học đặc trưng như thủy phân và các phản ứng riêng.",
+      "objectives": [
+        "Trình bày được tính chất hoá học của tinh bột (thuỷ phân, phản ứng với iodine) và cellulose (thuỷ phân, phản ứng với nitric acid)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 6. Amine": {
+      "chapter": "HỢP CHẤT CHỨA NITROGEN",
+      "content": "Nghiên cứu tính chất hóa học của amine, bao gồm tính base và khả năng tham gia phản ứng thế ở nhân thơm của aniline.",
+      "objectives": [
+        "Trình bày được tính chất hoá học của amine (tính base, phản ứng thế ở nhân thơm của aniline)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 7. Amino acid và peptide": {
+      "chapter": "HỢP CHẤT CHỨA NITROGEN",
+      "content": "Trình bày các tính chất hóa học của amino acid (tính lưỡng tính, ester hóa, trùng ngưng) và peptide (thủy phân, phản ứng màu biuret).",
+      "objectives": [
+        "Trình bày được tính chất hoá học của amino acid (tính lưỡng tính, ester hoá, trùng ngưng) và peptide (thuỷ phân, phản ứng màu biuret)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 8. Protein và enzyme": {
+      "chapter": "HỢP CHẤT CHỨA NITROGEN",
+      "content": "Nghiên cứu về tính chất hóa học của protein như thủy phân, phản ứng màu, sự đông tụ, và vai trò quan trọng của protein và enzyme đối với sự sống.",
+      "objectives": [
+        "Trình bày được tính chất hoá học của protein (thuỷ phân, phản ứng màu, sự đông tụ).",
+        "Nêu được vai trò của protein và enzyme đối với sự sống."
+      ],
+      "common_exercises": []
+    },
+    "Bài 9. Đại cương về polymer": {
+      "chapter": "POLYMER",
+      "content": "Viết công thức cấu tạo, gọi tên một số polymer thường gặp và trình bày các phương pháp điều chế polymer như trùng hợp, trùng ngưng.",
+      "objectives": [
+        "Viết được công thức cấu tạo và gọi tên một số polymer thường gặp.",
+        "Trình bày được phương pháp trùng hợp, trùng ngưng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 10. Chất dẻo và vật liệu composite": {
+      "chapter": "POLYMER",
+      "content": "Nêu khái niệm chất dẻo, vật liệu composite, trình bày ứng dụng và phân tích tác hại của việc lạm dụng chất dẻo.",
+      "objectives": [
+        "Nêu được khái niệm chất dẻo và vật liệu composite.",
+        "Trình bày được ứng dụng của chất dẻo và tác hại của việc lạm dụng chất dẻo."
+      ],
+      "common_exercises": []
+    },
+    "Bài 11. Tơ – Cao su – Keo dán tổng hợp": {
+      "chapter": "POLYMER",
+      "content": "Tìm hiểu về khái niệm, phân loại tơ; đặc điểm, tính chất, ứng dụng của cao su và khái niệm, ứng dụng của keo dán.",
+      "objectives": [
+        "Nêu được khái niệm và phân loại tơ.",
+        "Trình bày được đặc điểm, tính chất, ứng dụng của cao su tự nhiên và tổng hợp.",
+        "Nêu được khái niệm và ứng dụng của keo dán."
+      ],
+      "common_exercises": []
+    },
+    "Bài 12. Thế điện cực và nguồn điện hoá học": {
+      "chapter": "PIN ĐIỆN VÀ ĐIỆN PHÂN",
+      "content": "Sử dụng bảng thế điện cực chuẩn để so sánh tính oxi hóa-khử, dự đoán chiều phản ứng và tìm hiểu về cấu tạo, nguyên tắc hoạt động của các loại pin.",
+      "objectives": [
+        "Sử dụng bảng thế điện cực chuẩn để so sánh tính oxi hoá - khử và dự đoán chiều phản ứng.",
+        "Nêu được cấu tạo, nguyên tắc hoạt động của pin Galvani và một số loại pin khác."
+      ],
+      "common_exercises": []
+    },
+    "Bài 13. Điện phân": {
+      "chapter": "PIN ĐIỆN VÀ ĐIỆN PHÂN",
+      "content": "Trình bày nguyên tắc điện phân dung dịch và điện phân nóng chảy, cùng với các ứng dụng thực tế như mạ điện và tinh chế kim loại.",
+      "objectives": [
+        "Trình bày được nguyên tắc điện phân dung dịch và điện phân nóng chảy.",
+        "Nêu được ứng dụng của điện phân (mạ điện, tinh chế kim loại)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 14. Đặc điểm cấu tạo và liên kết kim loại. Tính chất kim loại": {
+      "chapter": "ĐẠI CƯƠNG VỀ KIM LOẠI",
+      "content": "Giải thích các tính chất vật lí và hóa học chung của kim loại dựa trên đặc điểm cấu tạo và liên kết kim loại.",
+      "objectives": [
+        "Giải thích được các tính chất vật lí chung của kim loại.",
+        "Trình bày được tính chất hóa học của kim loại (tác dụng với phi kim, acid, nước, dung dịch muối)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 15. Các phương pháp tách kim loại": {
+      "chapter": "ĐẠI CƯƠNG VỀ KIM LOẠI",
+      "content": "Trình bày và giải thích nguyên tắc của các phương pháp tách kim loại từ hợp chất như nhiệt luyện, thủy luyện và điện phân.",
+      "objectives": [
+        "Trình bày và giải thích được các phương pháp tách kim loại (nhiệt luyện, thuỷ luyện, điện phân)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 16. Hợp kim – Sự ăn mòn kim loại": {
+      "chapter": "ĐẠI CƯƠNG VỀ KIM LOẠI",
+      "content": "Nêu khái niệm hợp kim, các dạng ăn mòn kim loại và các phương pháp hiệu quả để chống ăn mòn kim loại.",
+      "objectives": [
+        "Nêu được khái niệm hợp kim và một số hợp kim quan trọng của sắt, nhôm.",
+        "Trình bày được các dạng ăn mòn và phương pháp chống ăn mòn kim loại."
+      ],
+      "common_exercises": []
+    },
+    "Bài 17. Nguyên tố nhóm IA": {
+      "chapter": "NGUYÊN TỐ NHÓM IA VÀ NHÓM IIA",
+      "content": "Trình bày tính chất đặc trưng của kim loại nhóm IA (kim loại kiềm) và một số hợp chất quan trọng của chúng như NaCl, NaOH, NaHCO3, Na2CO3.",
+      "objectives": [
+        "Trình bày được tính chất của kim loại nhóm IA và một số hợp chất quan trọng (NaCl, NaOH, NaHCO3, Na2CO3)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 18. Nguyên tố nhóm IIA": {
+      "chapter": "NGUYÊN TỐ NHÓM IA VÀ NHÓM IIA",
+      "content": "Nghiên cứu tính chất của kim loại nhóm IIA (kim loại kiềm thổ), một số hợp chất quan trọng và khái niệm, cách xử lý nước cứng.",
+      "objectives": [
+        "Trình bày được tính chất của kim loại nhóm IIA và một số hợp chất quan trọng (Ca(OH)2, CaCO3, CaSO4).",
+        "Giải thích được khái niệm nước cứng và cách làm mềm nước cứng."
+      ],
+      "common_exercises": []
+    },
+    "Bài 19. Đại cương về kim loại chuyển tiếp dãy thứ nhất": {
+      "chapter": "SƠ LƯỢC VỀ DÃY KIM LOẠI CHUYỂN TIẾP THỨ NHẤT VÀ PHỨC CHẤT",
+      "content": "Trình bày các đặc điểm về cấu hình electron, tính chất và ứng dụng của một số kim loại chuyển tiếp thuộc dãy thứ nhất.",
+      "objectives": [
+        "Trình bày được đặc điểm cấu hình electron, tính chất và ứng dụng của một số kim loại chuyển tiếp."
+      ],
+      "common_exercises": []
+    },
+    "Bài 20. Sơ lược về phức chất": {
+      "chapter": "SƠ LƯỢC VỀ DÃY KIM LOẠI CHUYỂN TIẾP THỨ NHẤT VÀ PHỨC CHẤT",
+      "content": "Trình bày các khái niệm cơ bản về phức chất, bao gồm thành phần, dạng hình học và sự hình thành phức chất trong dung dịch.",
+      "objectives": [
+        "Trình bày được thành phần, dạng hình học và sự hình thành phức chất trong dung dịch."
+      ],
+      "common_exercises": []
+    }
+  }
+}

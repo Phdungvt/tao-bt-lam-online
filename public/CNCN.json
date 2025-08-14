@@ -1,0 +1,99 @@
+
+{
+  "10": {
+    "Chủ đề: Công nghệ gia đình và cơ khí": {
+      "chapter": "CÔNG NGHỆ CƠ KHÍ",
+      "content": "Nghiên cứu các kỹ thuật cơ bản trong gia đình và cơ khí cơ bản.",
+      "objectives": [
+        "Trình bày được khái niệm công nghệ cơ khí gia đình.",
+        "Phân tích được quy trình chế tạo một sản phẩm cơ khí đơn giản.",
+        "Hiểu được ứng dụng của cơ khí trong đời sống.",
+        "Liên hệ thực tiễn về sửa chữa thiết bị gia đình."
+      ],
+      "common_exercises": [
+        "Vẽ bản vẽ kỹ thuật của một sản phẩm cơ khí.",
+        "Phân tích quy trình lắp ráp một thiết bị đơn giản.",
+        "Liên hệ thực tiễn về bảo trì máy móc."
+      ]
+    },
+    "Chuyên đề: Gia công kim loại": {
+      "chapter": "CÔNG NGHỆ CHẾ TẠO",
+      "content": "Tìm hiểu các phương pháp gia công kim loại và ứng dụng trong công nghiệp.",
+      "objectives": [
+        "Trình bày được các phương pháp gia công kim loại.",
+        "Phân tích được quy trình gia công một chi tiết cơ khí.",
+        "Hiểu được ứng dụng của gia công kim loại trong sản xuất.",
+        "Liên hệ thực tiễn về sản xuất linh kiện."
+      ],
+      "common_exercises": [
+        "Phân tích quy trình tiện kim loại.",
+        "Thảo luận về ưu điểm của gia công CNC.",
+        "Đánh giá hiệu quả gia công kim loại trong công nghiệp."
+      ]
+    }
+  },
+  "11": {
+    "Chủ đề: Điện và điện tử cơ bản": {
+      "chapter": "CÔNG NGHỆ ĐIỆN - ĐIỆN TỬ",
+      "content": "Nghiên cứu các nguyên lý cơ bản về điện và điện tử trong công nghiệp.",
+      "objectives": [
+        "Trình bày được khái niệm mạch điện và linh kiện điện tử.",
+        "Phân tích được hoạt động của một mạch điện đơn giản.",
+        "Hiểu được ứng dụng của điện tử trong công nghiệp.",
+        "Liên hệ thực tiễn về sửa chữa thiết bị điện."
+      ],
+      "common_exercises": [
+        "Vẽ sơ đồ một mạch điện cơ bản.",
+        "Phân tích hoạt động của một linh kiện điện tử.",
+        "Đánh giá vai trò của điện tử trong sản xuất."
+      ]
+    },
+    "Chuyên đề: Tự động hóa": {
+      "chapter": "CÔNG NGHỆ TỰ ĐỘNG HÓA",
+      "content": "Tìm hiểu các hệ thống tự động hóa và ứng dụng trong sản xuất.",
+      "objectives": [
+        "Trình bày được khái niệm tự động hóa và hệ thống điều khiển.",
+        "Phân tích được quy trình tự động hóa trong dây chuyền.",
+        "Hiểu được lợi ích của tự động hóa trong công nghiệp.",
+        "Liên hệ thực tiễn về robot công nghiệp."
+      ],
+      "common_exercises": [
+        "Phân tích hoạt động của một dây chuyền tự động.",
+        "Thảo luận về ứng dụng robot trong sản xuất.",
+        "Đánh giá tác động của tự động hóa đến lao động."
+      ]
+    }
+  },
+  "12": {
+    "Chủ đề: Kỹ thuật cơ khí nâng cao": {
+      "chapter": "CÔNG NGHỆ CƠ KHÍ NÂNG CAO",
+      "content": "Nghiên cứu các kỹ thuật cơ khí hiện đại và ứng dụng trong sản xuất.",
+      "objectives": [
+        "Trình bày được các kỹ thuật cơ khí tiên tiến.",
+        "Phân tích được quy trình sản xuất chi tiết phức tạp.",
+        "Hiểu được ứng dụng của cơ khí trong công nghệ cao.",
+        "Liên hệ thực tiễn về sản xuất ô tô."
+      ],
+      "common_exercises": [
+        "Phân tích quy trình sản xuất một chi tiết máy.",
+        "Thảo luận về ứng dụng cơ khí trong ngành ô tô.",
+        "Đánh giá hiệu quả của công nghệ CAD/CAM."
+      ]
+    },
+    "Chuyên đề: Quản lý sản xuất": {
+      "chapter": "QUẢN LÝ CÔNG NGHỆ",
+      "content": "Tìm hiểu các phương pháp quản lý sản xuất và tối ưu hóa quy trình.",
+      "objectives": [
+        "Trình bày được khái niệm quản lý sản xuất.",
+        "Phân tích được quy trình tối ưu hóa sản xuất.",
+        "Hiểu được vai trò của quản lý trong công nghiệp.",
+        "Liên hệ thực tiễn về quản lý nhà máy."
+      ],
+      "common_exercises": [
+        "Phân tích một quy trình sản xuất hiệu quả.",
+        "Thảo luận về tối ưu hóa chi phí sản xuất.",
+        "Đánh giá vai trò của quản lý trong giảm thiểu lãng phí."
+      ]
+    }
+  }
+}
