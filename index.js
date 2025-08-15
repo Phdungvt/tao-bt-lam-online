@@ -1306,7 +1306,7 @@ function handleExportHTML(options, title) {
                                 groupHTML += \`<textarea name="q\${globalIndex}" class="mt-1 block w-full border border-slate-300 rounded-lg shadow-sm py-2.5 px-3 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" rows="5" placeholder="Nhập câu trả lời tự luận của bạn..."></textarea>\`;
                                 break;
                         }
-                        groupHTML += \`</div><div id="q-\${index}-feedback" class="mt-4"></div></div>\`;
+                        groupHTML += \`</div><div id="q-\${globalIndex}-feedback" class="mt-4"></div></div>\`;
                     });
                     groupHTML += \`</div>\`;
                     studentQuizContainer.innerHTML += groupHTML;
