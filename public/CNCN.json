@@ -1,98 +1,464 @@
-
 {
   "10": {
-    "Chủ đề: Công nghệ gia đình và cơ khí": {
-      "chapter": "CÔNG NGHỆ CƠ KHÍ",
-      "content": "Nghiên cứu các kỹ thuật cơ bản trong gia đình và cơ khí cơ bản.",
+    "Bài 1. Công nghệ và đời sống": {
+      "chapter": "ĐẠI CƯƠNG VỀ CÔNG NGHỆ",
+      "content": "Giới thiệu các khái niệm cơ bản về khoa học, kĩ thuật, công nghệ. Phân tích mối liên hệ giữa chúng và mối quan hệ tương tác giữa công nghệ với tự nhiên, con người và xã hội.",
       "objectives": [
-        "Trình bày được khái niệm công nghệ cơ khí gia đình.",
-        "Phân tích được quy trình chế tạo một sản phẩm cơ khí đơn giản.",
-        "Hiểu được ứng dụng của cơ khí trong đời sống.",
-        "Liên hệ thực tiễn về sửa chữa thiết bị gia đình."
+        "Nêu được các khái niệm khoa học, kĩ thuật, công nghệ.",
+        "Phân tích được mối liên hệ giữa khoa học, kĩ thuật và công nghệ.",
+        "Mô tả được mối quan hệ hai chiều giữa công nghệ với tự nhiên, con người và xã hội.",
+        "Lấy được ví dụ cụ thể về tác động tích cực và tiêu cực của công nghệ."
       ],
       "common_exercises": [
-        "Vẽ bản vẽ kỹ thuật của một sản phẩm cơ khí.",
-        "Phân tích quy trình lắp ráp một thiết bị đơn giản.",
-        "Liên hệ thực tiễn về bảo trì máy móc."
+        "Phân tích một sản phẩm công nghệ (ví dụ: điện thoại thông minh) để chỉ ra các yếu tố khoa học, kĩ thuật.",
+        "Thảo luận về tác động của một công nghệ cụ thể (ví dụ: mạng xã hội) đến đời sống học sinh.",
+        "Vẽ sơ đồ tư duy thể hiện mối liên hệ giữa khoa học, kĩ thuật và công nghệ."
       ]
     },
-    "Chuyên đề: Gia công kim loại": {
-      "chapter": "CÔNG NGHỆ CHẾ TẠO",
-      "content": "Tìm hiểu các phương pháp gia công kim loại và ứng dụng trong công nghiệp.",
+    "Bài 2. Hệ thống kĩ thuật": {
+      "chapter": "ĐẠI CƯƠNG VỀ CÔNG NGHỆ",
+      "content": "Trình bày khái niệm và cấu trúc của một hệ thống kĩ thuật, bao gồm các thành phần đầu vào, bộ phận xử lí và đầu ra. Phân biệt hệ thống mạch hở và mạch kín.",
       "objectives": [
-        "Trình bày được các phương pháp gia công kim loại.",
-        "Phân tích được quy trình gia công một chi tiết cơ khí.",
-        "Hiểu được ứng dụng của gia công kim loại trong sản xuất.",
-        "Liên hệ thực tiễn về sản xuất linh kiện."
+        "Trình bày được khái niệm hệ thống kĩ thuật.",
+        "Mô tả được cấu trúc của một hệ thống kĩ thuật (đầu vào, bộ phận xử lí, đầu ra).",
+        "Phân biệt được hệ thống kĩ thuật mạch hở và mạch kín qua các ví dụ cụ thể."
       ],
       "common_exercises": [
-        "Phân tích quy trình tiện kim loại.",
-        "Thảo luận về ưu điểm của gia công CNC.",
-        "Đánh giá hiệu quả gia công kim loại trong công nghiệp."
+        "Xác định các thành phần đầu vào, xử lí, đầu ra của một hệ thống kĩ thuật đơn giản (ví dụ: ấm đun nước siêu tốc).",
+        "Vẽ sơ đồ khối mô tả một hệ thống kĩ thuật.",
+        "Phân tích hệ thống điều hoà nhiệt độ để chỉ ra tín hiệu phản hồi trong hệ thống mạch kín."
+      ]
+    },
+    "Bài 3. Công nghệ phổ biến": {
+      "chapter": "ĐẠI CƯƠNG VỀ CÔNG NGHỆ",
+      "content": "Giới thiệu và tóm tắt nội dung cơ bản của một số công nghệ phổ biến trong các lĩnh vực luyện kim, cơ khí, điện - điện tử.",
+      "objectives": [
+        "Kể tên được một số công nghệ phổ biến trong các lĩnh vực luyện kim, cơ khí, điện - điện tử.",
+        "Tóm tắt được nội dung cơ bản của công nghệ luyện kim, đúc, gia công cắt gọt, hàn.",
+        "Tóm tắt được nội dung cơ bản của công nghệ sản xuất điện năng, điện - quang, điện - cơ, điều khiển và tự động hoá."
+      ],
+      "common_exercises": [
+        "Phân biệt công nghệ luyện kim đen và luyện kim màu.",
+        "Mô tả quy trình tạo ra một sản phẩm bằng công nghệ đúc.",
+        "So sánh các loại bóng đèn dựa trên công nghệ điện - quang."
+      ]
+    },
+    "Bài 4. Một số công nghệ mới": {
+      "chapter": "ĐẠI CƯƠNG VỀ CÔNG NGHỆ",
+      "content": "Trình bày bản chất và hướng ứng dụng của một số công nghệ mới như công nghệ nano, CAD/CAM/CNC, in 3D, năng lượng tái tạo và trí tuệ nhân tạo.",
+      "objectives": [
+        "Trình bày được bản chất của một số công nghệ mới.",
+        "Phát biểu được hướng ứng dụng của công nghệ nano, CAD/CAM/CNC, in 3D, năng lượng tái tạo, trí tuệ nhân tạo (AI), Internet vạn vật (IoT)."
+      ],
+      "common_exercises": [
+        "Thảo luận về ứng dụng của công nghệ nano trong y tế.",
+        "Mô tả các bước để tạo ra một sản phẩm bằng công nghệ in 3D.",
+        "Lấy ví dụ về ứng dụng của AI trong đời sống hàng ngày."
+      ]
+    },
+    "Bài 5. Đánh giá công nghệ": {
+      "chapter": "ĐẠI CƯƠNG VỀ CÔNG NGHỆ",
+      "content": "Tìm hiểu các tiêu chí cơ bản để đánh giá một công nghệ hoặc sản phẩm công nghệ, bao gồm hiệu quả, độ tin cậy, kinh tế và tác động môi trường.",
+      "objectives": [
+        "Giải thích được các tiêu chí cơ bản trong đánh giá công nghệ (hiệu quả, độ tin cậy, kinh tế, môi trường).",
+        "Đánh giá được một số sản phẩm công nghệ phổ biến dựa trên các tiêu chí đã học."
+      ],
+      "common_exercises": [
+        "So sánh và đánh giá hai sản phẩm công nghệ cùng chức năng (ví dụ: hai loại điện thoại).",
+        "Lập bảng đánh giá một công nghệ sản xuất (ví dụ: sản xuất túi nylon so với túi giấy).",
+        "Thảo luận để lựa chọn một công nghệ phù hợp cho một nhu cầu cụ thể."
+      ]
+    },
+    "Bài 6. Cách mạng công nghiệp": {
+      "chapter": "ĐẠI CƯƠNG VỀ CÔNG NGHỆ",
+      "content": "Tóm tắt nội dung cơ bản, vai trò và đặc điểm của bốn cuộc cách mạng công nghiệp trong lịch sử.",
+      "objectives": [
+        "Tóm tắt được nội dung cơ bản, vai trò, đặc điểm của các cuộc cách mạng công nghiệp.",
+        "Nhận biết được công nghệ đặc trưng của mỗi cuộc cách mạng công nghiệp."
+      ],
+      "common_exercises": [
+        "Lập trục thời gian thể hiện các cuộc cách mạng công nghiệp và các phát minh chính.",
+        "So sánh tác động của Cách mạng công nghiệp lần thứ nhất và lần thứ tư đến xã hội.",
+        "Thảo luận về những cơ hội và thách thức của Cách mạng công nghiệp 4.0 đối với Việt Nam."
+      ]
+    },
+    "Bài 8. Bản vẽ kĩ thuật và tiêu chuẩn trình bày": {
+      "chapter": "VẼ KĨ THUẬT",
+      "content": "Tìm hiểu khái niệm, vai trò của bản vẽ kĩ thuật và các tiêu chuẩn trình bày cơ bản (khổ giấy, tỉ lệ, nét vẽ, chữ viết, ghi kích thước).",
+      "objectives": [
+        "Trình bày được khái niệm, vai trò của bản vẽ kĩ thuật.",
+        "Mô tả được các tiêu chuẩn trình bày bản vẽ kĩ thuật về khổ giấy, tỉ lệ, nét vẽ, chữ viết, ghi kích thước."
+      ],
+      "common_exercises": [
+        "Vẽ khung bản vẽ và khung tên trên khổ giấy A4 theo đúng tiêu chuẩn.",
+        "Nhận biết các loại nét vẽ trên một bản vẽ cho trước.",
+        "Ghi kích thước cho một vật thể đơn giản theo đúng quy ước."
+      ]
+    },
+    "Bài 9. Hình chiếu vuông góc": {
+      "chapter": "VẼ KĨ THUẬT",
+      "content": "Nghiên cứu phương pháp chiếu góc thứ nhất và thứ ba để vẽ các hình chiếu vuông góc của vật thể đơn giản.",
+      "objectives": [
+        "Phân biệt được phương pháp chiếu góc thứ nhất và phương pháp chiếu góc thứ ba.",
+        "Vẽ được các hình chiếu vuông góc (hình chiếu đứng, bằng, cạnh) của vật thể đơn giản."
+      ],
+      "common_exercises": [
+        "Cho một vật thể 3D, vẽ ba hình chiếu vuông góc của nó.",
+        "Từ hai hình chiếu, vẽ hình chiếu thứ ba.",
+        "Đọc bản vẽ hai hình chiếu và hình dung hình dạng vật thể."
+      ]
+    },
+    "Bài 10. Hình cắt và mặt cắt": {
+      "chapter": "VẼ KĨ THUẬT",
+      "content": "Tìm hiểu khái niệm, công dụng và cách vẽ hình cắt, mặt cắt để biểu diễn cấu tạo bên trong của vật thể.",
+      "objectives": [
+        "Phân biệt được khái niệm mặt cắt và hình cắt.",
+        "Phân loại được các loại hình cắt (toàn bộ, bán phần, cục bộ) và mặt cắt (rời, chập).",
+        "Vẽ được hình cắt, mặt cắt của vật thể đơn giản."
+      ],
+      "common_exercises": [
+        "Cho hai hình chiếu của một vật thể rỗng, vẽ hình cắt đứng.",
+        "Vẽ mặt cắt tại một vị trí cho trước trên hình chiếu.",
+        "Đọc bản vẽ có hình cắt để mô tả cấu tạo bên trong của chi tiết."
+      ]
+    },
+    "Bài 11. Hình chiếu trục đo": {
+      "chapter": "VẼ KĨ THUẬT",
+      "content": "Tìm hiểu phương pháp hình chiếu trục đo và thực hành vẽ hình chiếu trục đo vuông góc đều và xiên góc cân của vật thể đơn giản.",
+      "objectives": [
+        "Trình bày được nội dung của phương pháp hình chiếu trục đo.",
+        "Phân biệt được hình chiếu trục đo vuông góc đều và xiên góc cân.",
+        "Vẽ được hình chiếu trục đo của vật thể đơn giản."
+      ],
+      "common_exercises": [
+        "Từ ba hình chiếu vuông góc, vẽ hình chiếu trục đo vuông góc đều của vật thể.",
+        "Vẽ hình chiếu trục đo xiên góc cân của một vật thể có mặt trước là hình tròn.",
+        "Phác thảo nhanh hình chiếu trục đo của một đồ vật quen thuộc."
+      ]
+    },
+    "Bài 14. Bản vẽ cơ khí": {
+      "chapter": "VẼ KĨ THUẬT",
+      "content": "Tìm hiểu nội dung và cách đọc, lập một bản vẽ chi tiết và bản vẽ lắp đơn giản trong lĩnh vực cơ khí.",
+      "objectives": [
+        "Nêu được nội dung của bản vẽ chi tiết và bản vẽ lắp.",
+        "Đọc được bản vẽ chi tiết và bản vẽ lắp của sản phẩm cơ khí đơn giản.",
+        "Lập được bản vẽ chi tiết đơn giản."
+      ],
+      "common_exercises": [
+        "Đọc bản vẽ chi tiết của một chi tiết cơ khí (ví dụ: bu lông) và mô tả hình dạng, kích thước, vật liệu.",
+        "Đọc bản vẽ lắp của một bộ sản phẩm (ví dụ: ê tô) và nêu trình tự tháo lắp.",
+        "Vẽ bản vẽ chi tiết cho một đồ vật đơn giản."
+      ]
+    },
+    "Bài 15. Bản vẽ xây dựng": {
+      "chapter": "VẼ KĨ THUẬT",
+      "content": "Tìm hiểu các hình biểu diễn chính của một ngôi nhà (mặt bằng, mặt đứng, mặt cắt) và thực hành đọc, lập bản vẽ xây dựng đơn giản.",
+      "objectives": [
+        "Nhận biết được các hình biểu diễn chính của một ngôi nhà (mặt bằng, mặt đứng, mặt cắt).",
+        "Nhận biết được các kí hiệu quy ước trên bản vẽ xây dựng.",
+        "Đọc và lập được bản vẽ xây dựng đơn giản."
+      ],
+      "common_exercises": [
+        "Đọc bản vẽ mặt bằng của một ngôi nhà và mô tả cách bố trí các phòng.",
+        "Vẽ mặt bằng của phòng học hoặc phòng ngủ của em.",
+        "Nhận biết các kí hiệu cửa đi, cửa sổ, cầu thang trên bản vẽ."
+      ]
+    },
+    "Bài 18. Quy trình thiết kế kĩ thuật": {
+      "chapter": "THIẾT KẾ KĨ THUẬT",
+      "content": "Trình bày và vận dụng quy trình thiết kế kĩ thuật gồm các bước cơ bản để giải quyết một vấn đề hoặc tạo ra một sản phẩm.",
+      "objectives": [
+        "Trình bày được các bước cơ bản của quy trình thiết kế kĩ thuật.",
+        "Vận dụng được quy trình thiết kế kĩ thuật để giải quyết một vấn đề đơn giản."
+      ],
+      "common_exercises": [
+        "Áp dụng quy trình thiết kế để tạo ra một sản phẩm đơn giản (ví dụ: giá để điện thoại).",
+        "Lập kế hoạch cho một dự án thiết kế theo các bước đã học.",
+        "Phân tích một sản phẩm có sẵn và suy luận ngược lại quy trình thiết kế ra nó."
       ]
     }
   },
   "11": {
-    "Chủ đề: Điện và điện tử cơ bản": {
-      "chapter": "CÔNG NGHỆ ĐIỆN - ĐIỆN TỬ",
-      "content": "Nghiên cứu các nguyên lý cơ bản về điện và điện tử trong công nghiệp.",
+    "Bài 1. Khái quát về cơ khí chế tạo": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ CƠ KHÍ CHẾ TẠO",
+      "content": "Giới thiệu khái niệm, vai trò và các đặc điểm của ngành cơ khí chế tạo. Mô tả các bước cơ bản trong quy trình chế tạo một sản phẩm cơ khí.",
       "objectives": [
-        "Trình bày được khái niệm mạch điện và linh kiện điện tử.",
-        "Phân tích được hoạt động của một mạch điện đơn giản.",
-        "Hiểu được ứng dụng của điện tử trong công nghiệp.",
-        "Liên hệ thực tiễn về sửa chữa thiết bị điện."
+        "Trình bày được khái niệm, vai trò của cơ khí chế tạo.",
+        "Nêu được những đặc điểm của cơ khí chế tạo (đối tượng, công cụ lao động).",
+        "Mô tả được các bước cơ bản trong quy trình chế tạo cơ khí (đọc bản vẽ, chế tạo phôi, gia công, xử lí bề mặt, lắp ráp)."
       ],
       "common_exercises": [
-        "Vẽ sơ đồ một mạch điện cơ bản.",
-        "Phân tích hoạt động của một linh kiện điện tử.",
-        "Đánh giá vai trò của điện tử trong sản xuất."
+        "Kể tên các sản phẩm của ngành cơ khí chế tạo trong gia đình.",
+        "Mô tả quy trình chế tạo một sản phẩm đơn giản (ví dụ: cái búa) dưới dạng sơ đồ khối.",
+        "Thảo luận về vai trò của cơ khí chế tạo đối với các ngành kinh tế khác."
       ]
     },
-    "Chuyên đề: Tự động hóa": {
-      "chapter": "CÔNG NGHỆ TỰ ĐỘNG HÓA",
-      "content": "Tìm hiểu các hệ thống tự động hóa và ứng dụng trong sản xuất.",
+    "Bài 4. Vật liệu kim loại và hợp kim": {
+      "chapter": "VẬT LIỆU CƠ KHÍ",
+      "content": "Phân loại và mô tả tính chất cơ bản, công dụng của các vật liệu kim loại và hợp kim thông dụng trong cơ khí (gang, thép, nhôm, đồng).",
       "objectives": [
-        "Trình bày được khái niệm tự động hóa và hệ thống điều khiển.",
-        "Phân tích được quy trình tự động hóa trong dây chuyền.",
-        "Hiểu được lợi ích của tự động hóa trong công nghiệp.",
-        "Liên hệ thực tiễn về robot công nghiệp."
+        "Phân loại được vật liệu kim loại và hợp kim (sắt và hợp kim của sắt, kim loại và hợp kim màu).",
+        "Mô tả được tính chất cơ bản (cơ, lí, hoá, công nghệ) của vật liệu kim loại.",
+        "Nêu được công dụng của một số vật liệu kim loại phổ biến (gang, thép, nhôm, đồng)."
       ],
       "common_exercises": [
-        "Phân tích hoạt động của một dây chuyền tự động.",
-        "Thảo luận về ứng dụng robot trong sản xuất.",
-        "Đánh giá tác động của tự động hóa đến lao động."
+        "Phân biệt gang và thép dựa vào hàm lượng carbon và tính chất.",
+        "Lấy ví dụ về các chi tiết máy được làm từ đồng, nhôm và giải thích lý do lựa chọn vật liệu.",
+        "Thực hiện các phương pháp đơn giản để nhận biết một số kim loại (quan sát màu sắc, thử độ cứng)."
+      ]
+    },
+    "Bài 8. Một số phương pháp gia công cơ khí": {
+      "chapter": "CÁC PHƯƠNG PHÁP GIA CÔNG CƠ KHÍ",
+      "content": "Tóm tắt nội dung cơ bản của các phương pháp gia công cơ khí phổ biến như đúc, hàn, khoan, tiện, phay.",
+      "objectives": [
+        "Phân biệt được gia công không phoi và gia công có phoi (cắt gọt).",
+        "Tóm tắt được nguyên lí, đặc điểm của phương pháp đúc, hàn.",
+        "Tóm tắt được nguyên lí, đặc điểm của phương pháp khoan, tiện, phay."
+      ],
+      "common_exercises": [
+        "Quan sát một sản phẩm và phán đoán phương pháp gia công đã được sử dụng.",
+        "Mô tả chuyển động của dao và phôi trong gia công tiện.",
+        "So sánh ưu, nhược điểm của phương pháp đúc và hàn."
+      ]
+    },
+    "Bài 11. Quá trình sản xuất cơ khí": {
+      "chapter": "SẢN XUẤT CƠ KHÍ",
+      "content": "Phân tích chi tiết các giai đoạn của một quá trình sản xuất cơ khí, từ chế tạo phôi, gia công tạo hình, xử lí bề mặt, lắp ráp đến đóng gói sản phẩm.",
+      "objectives": [
+        "Phân tích được các giai đoạn của quá trình sản xuất cơ khí.",
+        "Mô tả được các phương pháp chế tạo phôi (đúc, gia công áp lực, hàn).",
+        "Phân biệt được các phương pháp lắp ráp sản phẩm (lắp lẫn, lắp chọn, lắp sửa)."
+      ],
+      "common_exercises": [
+        "Vẽ sơ đồ khối tổng quát của quá trình sản xuất một chi tiết cơ khí.",
+        "Thảo luận về yêu cầu của từng giai đoạn trong quá trình sản xuất.",
+        "Lấy ví dụ thực tế về một sản phẩm được lắp ráp theo phương pháp lắp lẫn hoàn toàn."
+      ]
+    },
+    "Bài 12. Dây chuyền sản xuất tự động với sự tham gia của robot": {
+      "chapter": "SẢN XUẤT CƠ KHÍ",
+      "content": "Mô tả dây chuyền sản xuất tự động, phân loại và nêu vai trò của robot công nghiệp. Phân biệt dây chuyền sản xuất tự động cứng và mềm.",
+      "objectives": [
+        "Nêu được khái niệm và đặc điểm của robot công nghiệp.",
+        "Mô tả được các thành phần cơ bản của một dây chuyền sản xuất tự động.",
+        "Phân biệt được dây chuyền sản xuất tự động cứng và dây chuyền sản xuất tự động mềm."
+      ],
+      "common_exercises": [
+        "Kể tên các loại robot công nghiệp theo chức năng (hàn, lắp ráp, vận chuyển).",
+        "Phân tích ưu, nhược điểm của dây chuyền sản xuất tự động cứng và mềm.",
+        "Tìm hiểu một ví dụ về dây chuyền sản xuất tự động trong thực tế (ví dụ: lắp ráp ô tô)."
+      ]
+    },
+    "Bài 17. Đại cương về động cơ đốt trong": {
+      "chapter": "ĐỘNG CƠ ĐỐT TRONG",
+      "content": "Trình bày khái niệm, phân loại và cấu tạo chung của động cơ đốt trong.",
+      "objectives": [
+        "Trình bày được khái niệm và quá trình chuyển hoá năng lượng trong động cơ đốt trong.",
+        "Phân loại được động cơ đốt trong theo các tiêu chí (nhiên liệu, số kì, cách bố trí xi lanh).",
+        "Nêu được cấu tạo chung và các chi tiết, bộ phận chính của động cơ đốt trong."
+      ],
+      "common_exercises": [
+        "Phân loại động cơ của xe máy, ô tô mà bạn biết.",
+        "Xác định các bộ phận chính trên mô hình hoặc hình ảnh của một động cơ.",
+        "Thảo luận về ưu điểm của động cơ đốt trong so với động cơ hơi nước."
+      ]
+    },
+    "Bài 18. Nguyên lí làm việc của động cơ đốt trong": {
+      "chapter": "ĐỘNG CƠ ĐỐT TRONG",
+      "content": "Giải thích các khái niệm cơ bản và nguyên lí làm việc của động cơ xăng và Diesel 4 kì, 2 kì.",
+      "objectives": [
+        "Giải thích được các khái niệm cơ bản (điểm chết, hành trình, thể tích công tác, tỉ số nén, chu trình, kì).",
+        "Giải thích được nguyên lí làm việc của động cơ xăng 4 kì (Nạp - Nén - Nổ - Xả).",
+        "So sánh được sự khác biệt trong nguyên lí làm việc của động cơ Diesel và động cơ 2 kì."
+      ],
+      "common_exercises": [
+        "Mô tả chuyển động của pít tông và trạng thái của các xu páp trong từng kì của động cơ 4 kì.",
+        "Tính thể tích công tác của một động cơ khi biết đường kính xi lanh và hành trình pít tông.",
+        "Giải thích tại sao động cơ Diesel không cần bugi."
+      ]
+    },
+    "Bài 19. Các cơ cấu trong động cơ đốt trong": {
+      "chapter": "ĐỘNG CƠ ĐỐT TRONG",
+      "content": "Mô tả cấu tạo và nguyên lí làm việc của các cơ cấu chính trong động cơ: cơ cấu trục khuỷu thanh truyền và cơ cấu phối khí.",
+      "objectives": [
+        "Mô tả được cấu tạo và nhiệm vụ của các chi tiết trong cơ cấu trục khuỷu thanh truyền (pít tông, thanh truyền, trục khuỷu, bánh đà).",
+        "Mô tả được cấu tạo và nguyên lí làm việc của cơ cấu phối khí dùng xu páp treo."
+      ],
+      "common_exercises": [
+        "Nhận biết các chi tiết của cơ cấu trục khuỷu thanh truyền trên mô hình.",
+        "Giải thích tại sao số vòng quay của trục cam bằng một nửa số vòng quay của trục khuỷu trong động cơ 4 kì.",
+        "Vẽ sơ đồ đơn giản của cơ cấu phối khí."
+      ]
+    },
+    "Bài 21. Khái quát chung về ô tô": {
+      "chapter": "Ô TÔ",
+      "content": "Trình bày cấu tạo chung của ô tô và phân loại ô tô theo các tiêu chí khác nhau.",
+      "objectives": [
+        "Trình bày được cấu tạo chung của ô tô (động cơ, hệ thống truyền lực, khung gầm, thân vỏ, hệ thống điều khiển).",
+        "Phân loại được ô tô theo mục đích sử dụng, số trục, loại động cơ."
+      ],
+      "common_exercises": [
+        "Vẽ sơ đồ khối cấu tạo chung của một chiếc ô tô.",
+        "Phân loại các loại xe ô tô thường gặp trên đường.",
+        "Thảo luận về các hệ thống an toàn trên ô tô hiện đại."
       ]
     }
   },
   "12": {
-    "Chủ đề: Kỹ thuật cơ khí nâng cao": {
-      "chapter": "CÔNG NGHỆ CƠ KHÍ NÂNG CAO",
-      "content": "Nghiên cứu các kỹ thuật cơ khí hiện đại và ứng dụng trong sản xuất.",
+    "Bài 1. Giới thiệu tổng quan về kĩ thuật điện": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ KĨ THUẬT ĐIỆN",
+      "content": "Trình bày khái niệm, vị trí, vai trò và triển vọng phát triển của ngành kĩ thuật điện trong sản xuất và đời sống.",
       "objectives": [
-        "Trình bày được các kỹ thuật cơ khí tiên tiến.",
-        "Phân tích được quy trình sản xuất chi tiết phức tạp.",
-        "Hiểu được ứng dụng của cơ khí trong công nghệ cao.",
-        "Liên hệ thực tiễn về sản xuất ô tô."
+        "Trình bày được khái niệm kĩ thuật điện (sản xuất, truyền tải, phân phối, sử dụng điện).",
+        "Tóm tắt được vị trí, vai trò của kĩ thuật điện trong sản xuất và đời sống.",
+        "Nêu được các triển vọng phát triển của kĩ thuật điện (năng lượng tái tạo, lưới điện thông minh)."
       ],
       "common_exercises": [
-        "Phân tích quy trình sản xuất một chi tiết máy.",
-        "Thảo luận về ứng dụng cơ khí trong ngành ô tô.",
-        "Đánh giá hiệu quả của công nghệ CAD/CAM."
+        "Lấy ví dụ về vai trò của điện trong một ngành sản xuất cụ thể (ví dụ: nông nghiệp).",
+        "Thảo luận về ưu điểm của lưới điện thông minh so với lưới điện truyền thống.",
+        "Tìm hiểu về một nguồn năng lượng tái tạo đang được phát triển ở Việt Nam."
       ]
     },
-    "Chuyên đề: Quản lý sản xuất": {
-      "chapter": "QUẢN LÝ CÔNG NGHỆ",
-      "content": "Tìm hiểu các phương pháp quản lý sản xuất và tối ưu hóa quy trình.",
+    "Bài 3. Mạch điện xoay chiều ba pha": {
+      "chapter": "HỆ THỐNG ĐIỆN QUỐC GIA",
+      "content": "Trình bày khái niệm, nguyên lí tạo ra dòng điện xoay chiều ba pha và các cách nối nguồn, tải ba pha (hình sao, hình tam giác).",
       "objectives": [
-        "Trình bày được khái niệm quản lý sản xuất.",
-        "Phân tích được quy trình tối ưu hóa sản xuất.",
-        "Hiểu được vai trò của quản lý trong công nghiệp.",
-        "Liên hệ thực tiễn về quản lý nhà máy."
+        "Trình bày được khái niệm và nguyên lí tạo ra dòng điện xoay chiều ba pha.",
+        "Mô tả được cách nối nguồn, tải ba pha hình sao và hình tam giác.",
+        "Xác định được các thông số hiệu dụng (dòng điện dây/pha, điện áp dây/pha) của mạch điện ba pha đối xứng."
       ],
       "common_exercises": [
-        "Phân tích một quy trình sản xuất hiệu quả.",
-        "Thảo luận về tối ưu hóa chi phí sản xuất.",
-        "Đánh giá vai trò của quản lý trong giảm thiểu lãng phí."
+        "Vẽ sơ đồ nối hình sao và hình tam giác cho nguồn và tải.",
+        "Giải bài toán tính toán dòng điện và điện áp trong mạch ba pha đối xứng.",
+        "Phân biệt điện áp dây và điện áp pha trong hai cách nối."
+      ]
+    },
+    "Bài 4. Hệ thống điện quốc gia": {
+      "chapter": "HỆ THỐNG ĐIỆN QUỐC GIA",
+      "content": "Mô tả cấu trúc chung và vai trò của từng thành phần trong hệ thống điện quốc gia, bao gồm nguồn điện, lưới điện và tải tiêu thụ.",
+      "objectives": [
+        "Vẽ và mô tả được cấu trúc chung của hệ thống điện quốc gia.",
+        "Trình bày được vai trò của từng thành phần (nguồn điện, lưới điện truyền tải, lưới điện phân phối, tải tiêu thụ).",
+        "Phân biệt được các cấp điện áp của lưới điện (hạ áp, trung áp, cao áp, siêu cao áp)."
+      ],
+      "common_exercises": [
+        "Vẽ sơ đồ khối của hệ thống điện quốc gia.",
+        "Giải thích tại sao cần phải có các trạm biến áp trong hệ thống điện.",
+        "Tìm hiểu về đường dây truyền tải điện 500kV Bắc - Nam."
+      ]
+    },
+    "Bài 8. Hệ thống điện trong gia đình": {
+      "chapter": "HỆ THỐNG ĐIỆN TRONG GIA ĐÌNH",
+      "content": "Mô tả cấu trúc chung, vẽ sơ đồ nguyên lí và sơ đồ lắp đặt của hệ thống điện trong gia đình.",
+      "objectives": [
+        "Vẽ và mô tả được cấu trúc chung của hệ thống điện trong gia đình (từ công tơ đến các thiết bị).",
+        "Phân biệt được sơ đồ nguyên lí và sơ đồ lắp đặt.",
+        "Vẽ được sơ đồ nguyên lí và sơ đồ lắp đặt của một mạch điện đơn giản trong gia đình."
+      ],
+      "common_exercises": [
+        "Vẽ sơ đồ cấu trúc hệ thống điện của nhà mình.",
+        "Vẽ sơ đồ nguyên lí của mạch điện đèn cầu thang.",
+        "Đọc một sơ đồ lắp đặt đơn giản và mô tả cách đi dây."
+      ]
+    },
+    "Bài 9. Thiết bị điện trong hệ thống điện gia đình": {
+      "chapter": "HỆ THỐNG ĐIỆN TRONG GIA ĐÌNH",
+      "content": "Trình bày chức năng, thông số kĩ thuật và cách xác định thông số cho các thiết bị điện phổ biến trong gia đình (công tơ, aptomat, dây dẫn).",
+      "objectives": [
+        "Trình bày được chức năng và thông số kĩ thuật của một số thiết bị điện phổ biến (công tơ, aptomat, cầu dao, ổ cắm, dây dẫn).",
+        "Xác định được công suất tiêu thụ của hệ thống điện gia đình.",
+        "Tính toán và lựa chọn được tiết diện dây dẫn và thông số aptomat phù hợp cho một tải cụ thể."
+      ],
+      "common_exercises": [
+        "Đọc và giải thích các thông số ghi trên một aptomat.",
+        "Tính toán dòng điện tiêu thụ của một thiết bị điện trong nhà.",
+        "Lựa chọn tiết diện dây dẫn phù hợp cho một bình nóng lạnh."
+      ]
+    },
+    "Bài 11. An toàn điện": {
+      "chapter": "AN TOÀN VÀ TIẾT KIỆM ĐIỆN NĂNG",
+      "content": "Trình bày khái niệm và các biện pháp an toàn điện trong thiết kế, lắp đặt, sử dụng và sửa chữa điện.",
+      "objectives": [
+        "Trình bày được khái niệm an toàn điện.",
+        "Nêu được các biện pháp an toàn trong thiết kế và lắp đặt (chọn dây dẫn, thiết bị bảo vệ, nối đất, chống sét).",
+        "Nêu được các quy tắc an toàn trong sử dụng và sửa chữa điện."
+      ],
+      "common_exercises": [
+        "Phân tích các nguy cơ gây mất an toàn điện trong gia đình.",
+        "Thảo luận về các hành động cần làm khi phát hiện có người bị điện giật.",
+        "Sử dụng bút thử điện để kiểm tra dây pha và dây trung tính."
+      ]
+    },
+    "Bài 12. Tiết kiệm điện năng": {
+      "chapter": "AN TOÀN VÀ TIẾT KIỆM ĐIỆN NĂNG",
+      "content": "Trình bày khái niệm và các biện pháp tiết kiệm điện năng trong thiết kế, lựa chọn thiết bị và trong quá trình sử dụng.",
+      "objectives": [
+        "Trình bày được khái niệm tiết kiệm điện năng.",
+        "Nêu được các biện pháp tiết kiệm điện trong việc lựa chọn thiết bị (nhãn năng lượng, công nghệ mới).",
+        "Nêu được các biện pháp tiết kiệm điện trong quá trình sử dụng (tắt khi không dùng, sử dụng hợp lí giờ cao điểm)."
+      ],
+      "common_exercises": [
+        "So sánh mức tiêu thụ điện của hai thiết bị có nhãn năng lượng khác nhau.",
+        "Lập kế hoạch sử dụng các thiết bị điện trong gia đình để tiết kiệm điện.",
+        "Thảo luận về lợi ích của việc sử dụng các thiết bị năng lượng mặt trời."
+      ]
+    },
+    "Bài 15. Điện trở, tụ điện và cuộn cảm": {
+      "chapter": "LINH KIỆN ĐIỆN TỬ",
+      "content": "Trình bày công dụng, thông số kĩ thuật, cách nhận biết và đọc giá trị của các linh kiện điện tử thụ động: điện trở, tụ điện, cuộn cảm.",
+      "objectives": [
+        "Trình bày được công dụng và thông số kĩ thuật của điện trở, tụ điện, cuộn cảm.",
+        "Đọc được giá trị của điện trở thông qua vạch màu.",
+        "Đọc được các thông số ghi trên tụ điện.",
+        "Sử dụng đồng hồ vạn năng để đo và kiểm tra các linh kiện."
+      ],
+      "common_exercises": [
+        "Đọc giá trị của một điện trở 4 vạch màu và 5 vạch màu.",
+        "Xác định điện dung và điện áp định mức của một tụ hoá.",
+        "Sử dụng đồng hồ vạn năng để đo điện trở của một linh kiện."
+      ]
+    },
+    "Bài 16. Diode, transistor và mạch tích hợp IC": {
+      "chapter": "LINH KIỆN ĐIỆN TỬ",
+      "content": "Trình bày công dụng, thông số kĩ thuật và cách nhận biết, kiểm tra các linh kiện bán dẫn: diode, transistor và IC.",
+      "objectives": [
+        "Trình bày được công dụng và thông số kĩ thuật của diode, transistor lưỡng cực và IC.",
+        "Phân biệt được diode thường và diode ổn áp (Zener).",
+        "Phân biệt được transistor NPN và PNP.",
+        "Sử dụng đồng hồ vạn năng để kiểm tra diode và transistor."
+      ],
+      "common_exercises": [
+        "Xác định cực Anode và Cathode của một diode.",
+        "Sử dụng đồng hồ vạn năng để xác định loại (NPN/PNP) và các chân (B, C, E) của một transistor.",
+        "Tra cứu datasheet của một IC đơn giản để biết sơ đồ chân và chức năng."
+      ]
+    },
+    "Bài 21. Tín hiệu số và các cổng logic cơ bản": {
+      "chapter": "ĐIỆN TỬ SỐ",
+      "content": "Trình bày về tín hiệu số, các cổng logic cơ bản (AND, OR, NOT, NAND, NOR, XOR) và bảng trạng thái của chúng.",
+      "objectives": [
+        "Phân biệt được tín hiệu tương tự và tín hiệu số.",
+        "Trình bày được kí hiệu và hoạt động của các cổng logic cơ bản.",
+        "Lập được bảng trạng thái cho các cổng logic cơ bản."
+      ],
+      "common_exercises": [
+        "Vẽ kí hiệu của các cổng logic.",
+        "Xác định đầu ra của một cổng logic với các tín hiệu đầu vào cho trước.",
+        "Thiết kế một mạch logic đơn giản từ các cổng logic (ví dụ: mạch so sánh 1 bit)."
+      ]
+    },
+    "Bài 24. Khái quát về vi điều khiển": {
+      "chapter": "VI ĐIỀU KHIỂN",
+      "content": "Trình bày khái niệm, cấu trúc và ứng dụng của vi điều khiển trong các hệ thống nhúng.",
+      "objectives": [
+        "Trình bày được khái niệm về vi điều khiển.",
+        "Mô tả được cấu trúc cơ bản của một vi điều khiển (CPU, bộ nhớ, các cổng vào/ra).",
+        "Nêu được các ứng dụng phổ biến của vi điều khiển."
+      ],
+      "common_exercises": [
+        "Kể tên một số thiết bị trong gia đình có sử dụng vi điều khiển.",
+        "Vẽ sơ đồ khối cấu trúc của một vi điều khiển.",
+        "Thảo luận về sự khác biệt giữa vi điều khiển và vi xử lí."
       ]
     }
   }
