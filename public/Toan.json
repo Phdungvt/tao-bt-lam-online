@@ -1,5 +1,240 @@
 
 {
+  "1": {
+    "Bài 1. Số và phép tính trong phạm vi 100": {
+      "chapter": "SỐ VÀ PHÉP TÍNH",
+      "content": "Đếm, đọc, viết, so sánh các số đến 100. Thực hiện phép cộng, trừ không nhớ và có nhớ trong phạm vi 100.",
+      "objectives": [
+        "Đếm, đọc, viết các số trong phạm vi 100.",
+        "So sánh và sắp xếp các số trong phạm vi 100.",
+        "Nhận biết cấu tạo thập phân của số có hai chữ số.",
+        "Thực hiện thành thạo phép cộng, trừ không nhớ trong phạm vi 100.",
+        "Làm quen với việc thực hiện phép cộng, trừ có nhớ trong phạm vi 100.",
+        "Tính nhẩm trong các trường hợp đơn giản.",
+        "Giải quyết các bài toán thực tế liên quan đến cộng, trừ."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Hình học và đo lường cơ bản": {
+      "chapter": "HÌNH HỌC VÀ ĐO LƯỜNG",
+      "content": "Nhận dạng các hình phẳng và hình khối quen thuộc. Làm quen với đo độ dài, thời gian và tiền Việt Nam.",
+      "objectives": [
+        "Nhận dạng hình vuông, hình tròn, hình tam giác, hình chữ nhật.",
+        "Nhận dạng khối hộp chữ nhật, khối lập phương.",
+        "Xác định vị trí (trước-sau, trên-dưới, phải-trái).",
+        "Lắp ghép, xếp hình đơn giản.",
+        "Làm quen với đơn vị đo độ dài (cm) và thực hành đo.",
+        "Nhận biết và đọc giờ đúng trên đồng hồ.",
+        "Nhận biết các ngày trong tuần.",
+        "Nhận biết và sử dụng một số tờ tiền Việt Nam."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Làm quen với Thống kê và Xác suất": {
+      "chapter": "MỘT SỐ YẾU TỐ THỐNG KÊ VÀ XÁC SUẤT",
+      "content": "Làm quen với việc thu thập, phân loại và kiểm đếm dữ liệu. Bước đầu nhận biết các khả năng xảy ra của một sự kiện.",
+      "objectives": [
+        "Thực hiện thu thập, phân loại, kiểm đếm các đối tượng trong một số tình huống đơn giản.",
+        "Đọc biểu đồ tranh.",
+        "Làm quen, mô tả các khả năng có thể xảy ra (chắc chắn, có thể, không thể) của một sự kiện."
+      ],
+      "common_exercises": []
+    }
+  },
+  "2": {
+    "Bài 1. Số và phép tính trong phạm vi 1000": {
+      "chapter": "SỐ VÀ PHÉP TÍNH",
+      "content": "Nghiên cứu về số tự nhiên đến 1000, các phép cộng, trừ có nhớ và làm quen với phép nhân, chia.",
+      "objectives": [
+        "Đọc, viết, so sánh các số có ba chữ số.",
+        "Nhận biết cấu tạo thập phân của số có ba chữ số.",
+        "Thực hiện thành thạo phép cộng, trừ có nhớ trong phạm vi 1000.",
+        "Nhận biết ý nghĩa của phép nhân, phép chia.",
+        "Thuộc bảng nhân, chia 2, 3, 4, 5.",
+        "Thực hiện phép nhân, chia (trong bảng) với các số có đến ba chữ số.",
+        "Tính giá trị biểu thức số có đến hai dấu phép tính cộng, trừ hoặc nhân, chia.",
+        "Giải quyết các bài toán liên quan đến các phép tính đã học."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Hình học và đo lường nâng cao": {
+      "chapter": "HÌNH HỌC VÀ ĐO LƯỜNG",
+      "content": "Nhận dạng đường thẳng, đường cong, đường gấp khúc. Sử dụng các đơn vị đo độ dài, khối lượng, thời gian, dung tích.",
+      "objectives": [
+        "Nhận dạng đường thẳng, đường cong, ba điểm thẳng hàng.",
+        "Nhận dạng đường gấp khúc, tính độ dài đường gấp khúc.",
+        "Nhận biết và tính chu vi hình tam giác, hình tứ giác.",
+        "Sử dụng các đơn vị đo độ dài: dm, m, km.",
+        "Sử dụng các đơn vị đo khối lượng: kg.",
+        "Sử dụng các đơn vị đo dung tích: lít.",
+        "Xem lịch (ngày, tháng) và đọc giờ (đến nửa giờ).",
+        "Giải các bài toán thực tế liên quan đến đo lường."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Thu thập và biểu diễn dữ liệu": {
+      "chapter": "MỘT SỐ YẾU TỐ THỐNG KÊ VÀ XÁC SUẤT",
+      "content": "Thu thập, phân loại dữ liệu và biểu diễn bằng biểu đồ tranh. Nhận xét và rút ra kết luận đơn giản từ biểu đồ.",
+      "objectives": [
+        "Thực hiện thu thập, phân loại, ghi chép số liệu thống kê.",
+        "Đọc và mô tả số liệu ở dạng bảng.",
+        "Đọc và mô tả số liệu ở dạng biểu đồ tranh.",
+        "Nhận xét, so sánh từ bảng số liệu, biểu đồ tranh."
+      ],
+      "common_exercises": []
+    }
+  },
+  "3": {
+    "Bài 1. Số và phép tính trong phạm vi 100 000": {
+      "chapter": "SỐ VÀ PHÉP TÍNH",
+      "content": "Nghiên cứu về số tự nhiên đến 100 000, các phép toán cộng, trừ, nhân, chia và làm tròn số.",
+      "objectives": [
+        "Đọc, viết, so sánh các số có đến năm chữ số.",
+        "Thực hiện cộng, trừ các số có đến năm chữ số.",
+        "Hoàn thành các bảng nhân, chia từ 6 đến 9.",
+        "Thực hiện phép nhân số có đến năm chữ số với số có một chữ số.",
+        "Thực hiện phép chia số có đến năm chữ số cho số có một chữ số (chia hết và chia có dư).",
+        "Làm quen với biểu thức số có dấu ngoặc.",
+        "Làm tròn số đến hàng chục, hàng trăm.",
+        "Giải các bài toán gắn với thực tế (bài toán gấp một số lên nhiều lần, giảm đi một số lần,...)"
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Hình học và đo lường thực hành": {
+      "chapter": "HÌNH HỌC VÀ ĐO LƯỜNG",
+      "content": "Tìm hiểu về góc vuông, góc không vuông, hình chữ nhật, hình vuông. Đo lường diện tích và các đơn vị đo quen thuộc.",
+      "objectives": [
+        "Nhận biết góc vuông, góc không vuông.",
+        "Nhận biết hình chữ nhật, hình vuông và các đặc điểm của chúng.",
+        "Tính chu vi, diện tích hình chữ nhật, hình vuông.",
+        "Làm quen với đơn vị đo diện tích (cm²).",
+        "Sử dụng các đơn vị đo khối lượng: gam.",
+        "Sử dụng các đơn vị đo thời gian: tháng, năm, giờ, phút.",
+        "Thực hành xem đồng hồ chính xác đến từng phút.",
+        "Giải các bài toán thực tế về đo lường."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Thống kê và xác suất ứng dụng": {
+      "chapter": "MỘT SỐ YẾU TỐ THỐNG KÊ VÀ XÁC SUẤT",
+      "content": "Làm quen với bảng số liệu và biểu đồ cột. Phân tích dữ liệu và nhận biết các sự kiện có thể xảy ra.",
+      "objectives": [
+        "Làm quen với việc thu thập, tổ chức, biểu diễn, phân tích và xử lí số liệu thống kê.",
+        "Đọc, mô tả, nhận xét các số liệu trong một bảng.",
+        "Làm quen với biểu đồ cột.",
+        "Nhận biết và mô tả các khả năng xảy ra của một sự kiện (chắc chắn, có thể, không thể)."
+      ],
+      "common_exercises": []
+    }
+  },
+  "4": {
+    "Bài 1. Số tự nhiên. Dấu hiệu chia hết": {
+      "chapter": "SỐ VÀ PHÉP TÍNH",
+      "content": "Ôn tập và hệ thống hóa kiến thức về số tự nhiên, các phép toán. Nghiên cứu dấu hiệu chia hết, phân số và các phép tính với phân số.",
+      "objectives": [
+        "Đọc, viết, so sánh các số tự nhiên, làm quen với lớp triệu.",
+        "Thực hiện bốn phép tính với các số tự nhiên.",
+        "Vận dụng các tính chất giao hoán, kết hợp, phân phối để tính thuận tiện.",
+        "Vận dụng dấu hiệu chia hết cho 2, 5, 9, 3.",
+        "Giải các bài toán tìm số trung bình cộng và các bài toán thực tế khác."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Phân số và các phép toán": {
+      "chapter": "SỐ VÀ PHÉP TÍNH",
+      "content": "Nghiên cứu về phân số, các tính chất, so sánh và thực hiện bốn phép toán với phân số. Tìm hiểu về tỉ số.",
+      "objectives": [
+        "Nhận biết khái niệm ban đầu về phân số, phân số và phép chia số tự nhiên.",
+        "Áp dụng tính chất cơ bản để rút gọn, quy đồng mẫu số các phân số.",
+        "So sánh và sắp xếp các phân số.",
+        "Thực hiện bốn phép tính cộng, trừ, nhân, chia với phân số.",
+        "Giải các bài toán về tìm phân số của một số và các bài toán thực tế khác.",
+        "Nhận biết về tỉ số."
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Hình học và đo lường mở rộng": {
+      "chapter": "HÌNH HỌC VÀ ĐO LƯỜNG",
+      "content": "Nhận biết góc nhọn, tù, bẹt, hai đường thẳng song song, vuông góc. Tính diện tích hình bình hành, hình thoi.",
+      "objectives": [
+        "Nhận biết góc nhọn, góc tù, góc bẹt.",
+        "Nhận biết hai đường thẳng vuông góc, hai đường thẳng song song.",
+        "Nhận biết hình bình hành, hình thoi và các đặc điểm của chúng.",
+        "Tính diện tích hình bình hành, hình thoi.",
+        "Sử dụng các đơn vị đo khối lượng: yến, tạ, tấn.",
+        "Sử dụng các đơn vị đo thời gian: giây, thế kỉ.",
+        "Sử dụng các đơn vị đo diện tích: dm², m²."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Biểu đồ và phân tích dữ liệu": {
+      "chapter": "MỘT SỐ YẾU TỐ THỐNG KÊ VÀ XÁC SUẤT",
+      "content": "Thu thập số liệu, đọc và phân tích dữ liệu từ bảng số liệu và biểu đồ cột.",
+      "objectives": [
+        "Thu thập và ghi chép số liệu thống kê.",
+        "Lập bảng số liệu.",
+        "Đọc, mô tả, phân tích và xử lí số liệu trên bảng và biểu đồ cột."
+      ],
+      "common_exercises": []
+    }
+  },
+  "5": {
+    "Bài 1. Phân số thập phân và số thập phân": {
+      "chapter": "SỐ VÀ PHÉP TÍNH",
+      "content": "Tìm hiểu về phân số thập phân, hỗn số, số thập phân và các phép toán với số thập phân.",
+      "objectives": [
+        "Nhận biết và sử dụng hỗn số.",
+        "Đọc, viết, so sánh phân số thập phân, số thập phân.",
+        "Chuyển đổi các số đo đại lượng dưới dạng số thập phân.",
+        "Thực hiện bốn phép tính cộng, trừ, nhân, chia với số thập phân."
+      ],
+      "common_exercises": []
+    },
+    "Bài 2. Tỉ số phần trăm và ứng dụng": {
+      "chapter": "SỐ VÀ PHÉP TÍNH",
+      "content": "Nghiên cứu về tỉ số phần trăm và giải các bài toán liên quan đến tỉ số phần trăm.",
+      "objectives": [
+        "Nhận biết khái niệm tỉ số phần trăm.",
+        "Đọc, viết, và thực hiện các phép tính với tỉ số phần trăm.",
+        "Giải ba dạng bài toán cơ bản về tỉ số phần trăm.",
+        "Giải các bài toán thực tế liên quan đến tỉ số phần trăm (tính lãi suất, mua bán,...)"
+      ],
+      "common_exercises": []
+    },
+    "Bài 3. Hình học và đo lường tổng hợp": {
+      "chapter": "HÌNH HỌC VÀ ĐO LƯỜNG",
+      "content": "Tính diện tích các hình đã học, làm quen với hình thang, hình tròn. Tính thể tích hình hộp chữ nhật, hình lập phương.",
+      "objectives": [
+        "Tính diện tích hình tam giác, hình thang.",
+        "Nhận biết hình tròn, đường tròn và các yếu tố liên quan (tâm, bán kính, đường kính).",
+        "Tính chu vi, diện tích hình tròn.",
+        "Nhận biết hình hộp chữ nhật, hình lập phương và các đặc điểm của chúng.",
+        "Tính diện tích xung quanh, diện tích toàn phần, thể tích của hình hộp chữ nhật, hình lập phương.",
+        "Sử dụng các đơn vị đo diện tích (dam², hm², km²) và đo thể tích (cm³, dm³, m³)."
+      ],
+      "common_exercises": []
+    },
+    "Bài 4. Số đo thời gian và toán chuyển động đều": {
+      "chapter": "SỐ VÀ PHÉP TÍNH",
+      "content": "Nghiên cứu về các phép toán với số đo thời gian và giải các bài toán về chuyển động đều.",
+      "objectives": [
+        "Thực hiện các phép tính cộng, trừ, nhân, chia số đo thời gian.",
+        "Nhận biết các đại lượng trong chuyển động đều (vận tốc, quãng đường, thời gian).",
+        "Tính vận tốc, quãng đường, thời gian trong chuyển động đều.",
+        "Giải các bài toán thực tế về chuyển động cùng chiều, ngược chiều."
+      ],
+      "common_exercises": []
+    },
+    "Bài 5. Thống kê và Biểu đồ": {
+      "chapter": "MỘT SỐ YẾU TỐ THỐNG KÊ VÀ XÁC SUẤT",
+      "content": "Làm quen với biểu đồ hình quạt tròn và phân tích, xử lí số liệu từ các loại biểu đồ đã học.",
+      "objectives": [
+        "Đọc, mô tả, phân tích và xử lí số liệu trên các biểu đồ đã học (tranh, cột).",
+        "Làm quen với biểu đồ hình quạt tròn."
+      ],
+      "common_exercises": []
+    }
+  },
   "6": {
     "Bài 1. Tập hợp": {
       "chapter": "TẬP HỢP CÁC SỐ TỰ NHIÊN",
