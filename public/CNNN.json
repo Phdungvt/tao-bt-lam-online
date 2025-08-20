@@ -1,98 +1,430 @@
-
 {
   "10": {
-    "Chủ đề: Công nghệ trồng trọt cơ bản": {
-      "chapter": "CÔNG NGHỆ TRỒNG TRỌT",
-      "content": "Nghiên cứu các kỹ thuật cơ bản trong trồng trọt và chăm sóc cây trồng.",
+    "Bài 1: Giới thiệu về trồng trọt": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ TRỒNG TRỌT",
+      "content": "Cung cấp cái nhìn tổng quan về vai trò, triển vọng của ngành trồng trọt trong bối cảnh mới, các phương thức trồng trọt tiên tiến và định hướng các ngành nghề liên quan.",
       "objectives": [
-        "Trình bày được quy trình trồng một loại cây phổ biến.",
-        "Phân tích được ảnh hưởng của đất và nước đến cây trồng.",
-        "Hiểu được ứng dụng công nghệ trong trồng trọt.",
-        "Liên hệ thực tiễn về canh tác tại địa phương."
-      ],
-      "common_exercises": [
-        "Vẽ sơ đồ quy trình trồng lúa.",
-        "Phân tích ảnh hưởng của phân bón đến năng suất.",
-        "Liên hệ thực tiễn về tưới tiêu ở vùng đồng bằng."
+        "Nêu được vai trò, triển vọng của trồng trọt.",
+        "Trình bày được các nguyên lí của nông nghiệp hữu cơ, công nghệ cao.",
+        "Nhận biết được một số ngành nghề phổ biến trong lĩnh vực."
       ]
     },
-    "Chuyên đề: Chăn nuôi cơ bản": {
-      "chapter": "CÔNG NGHỆ CHĂN NUÔI",
-      "content": "Tìm hiểu kỹ thuật chăn nuôi và chăm sóc gia súc, gia cầm.",
+    "Bài 2: Cây trồng và các yếu tố chính trong trồng trọt": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ TRỒNG TRỌT",
+      "content": "Cung cấp cái nhìn tổng quan về vai trò, triển vọng của ngành trồng trọt trong bối cảnh mới, các phương thức trồng trọt tiên tiến và định hướng các ngành nghề liên quan.",
       "objectives": [
-        "Trình bày được quy trình chăn nuôi một loại gia súc.",
-        "Phân tích được ảnh hưởng của thức ăn đến chăn nuôi.",
-        "Hiểu được ứng dụng công nghệ trong chăn nuôi.",
-        "Liên hệ thực tiễn về chăn nuôi tại địa phương."
-      ],
-      "common_exercises": [
-        "Phân tích quy trình chăm sóc gà thịt.",
-        "Thảo luận về vai trò của thức ăn trong chăn nuôi.",
-        "Đánh giá hiệu quả của chuồng trại hiện đại."
+        "Phân tích được ảnh hưởng của các yếu tố chính (đất, nước, ánh sáng, nhiệt độ, không khí, dinh dưỡng, giống) đến cây trồng.",
+        "Đề xuất được biện pháp kĩ thuật canh tác phù hợp."
+      ]
+    },
+    "Bài 3: Giới thiệu về giống cây trồng": {
+      "chapter": "GIỐNG VÀ NHÂN GIỐNG CÂY TRỒNG",
+      "content": "Tìm hiểu về các loại giống cây trồng, các phương pháp chọn tạo và nhân giống phổ biến, bao gồm cả các ứng dụng công nghệ hiện đại.",
+      "objectives": [
+        "Trình bày được vai trò và các tiêu chí của giống cây trồng tốt.",
+        "Phân biệt được các cấp giống cây trồng."
+      ]
+    },
+    "Bài 4: Sản xuất giống cây trồng": {
+      "chapter": "GIỐNG VÀ NHÂN GIỐNG CÂY TRỒNG",
+      "content": "Tìm hiểu về các loại giống cây trồng, các phương pháp chọn tạo và nhân giống phổ biến, bao gồm cả các ứng dụng công nghệ hiện đại.",
+      "objectives": [
+        "Mô tả được các phương pháp chọn tạo, sản xuất giống cây trồng (chọn lọc, lai tạo, gây đột biến)."
+      ]
+    },
+    "Bài 5: Nhân giống cây trồng": {
+      "chapter": "GIỐNG VÀ NHÂN GIỐNG CÂY TRỒNG",
+      "content": "Tìm hiểu về các loại giống cây trồng, các phương pháp chọn tạo và nhân giống phổ biến, bao gồm cả các ứng dụng công nghệ hiện đại.",
+      "objectives": [
+        "Trình bày được mục đích, yêu cầu kĩ thuật của các phương pháp nhân giống vô tính (giâm, chiết, ghép).",
+        "Thực hiện được việc nhân giống một loại cây bằng phương pháp giâm hoặc chiết cành."
+      ]
+    },
+    "Bài 6: Ứng dụng công nghệ nuôi cấy mô tế bào trong nhân giống cây trồng": {
+      "chapter": "GIỐNG VÀ NHÂN GIỐNG CÂY TRỒNG",
+      "content": "Tìm hiểu về các loại giống cây trồng, các phương pháp chọn tạo và nhân giống phổ biến, bao gồm cả các ứng dụng công nghệ hiện đại.",
+      "objectives": [
+        "Trình bày được cơ sở khoa học, quy trình và ưu điểm của công nghệ nuôi cấy mô tế bào trong nhân giống cây trồng."
+      ]
+    },
+    "Bài 7: Một số tính chất của đất trồng": {
+      "chapter": "ĐẤT TRỒNG",
+      "content": "Nghiên cứu các tính chất của đất trồng, các biện pháp sử dụng, cải tạo đất và vai trò của phân bón trong việc duy trì và nâng cao độ phì nhiêu của đất.",
+      "objectives": [
+        "Trình bày được các thành phần chính và tính chất quan trọng của đất trồng (keo đất, phản ứng dung dịch đất, độ phì nhiêu)."
+      ]
+    },
+    "Bài 8: Thực hành: Xác định độ chua của đất": {
+      "chapter": "ĐẤT TRỒNG",
+      "content": "Nghiên cứu các tính chất của đất trồng, các biện pháp sử dụng, cải tạo đất và vai trò của phân bón trong việc duy trì và nâng cao độ phì nhiêu của đất.",
+      "objectives": [
+        "Thực hiện được việc xác định độ chua của mẫu đất bằng phương pháp đơn giản."
+      ]
+    },
+    "Bài 9: Biện pháp cải tạo và sử dụng đất": {
+      "chapter": "ĐẤT TRỒNG",
+      "content": "Nghiên cứu các tính chất của đất trồng, các biện pháp sử dụng, cải tạo đất và vai trò của phân bón trong việc duy trì và nâng cao độ phì nhiêu của đất.",
+      "objectives": [
+        "Trình bày được các biện pháp cải tạo và sử dụng các loại đất chính ở Việt Nam (đất xám bạc màu, đất mặn, đất phèn)."
+      ]
+    },
+    "Bài 10: Phân bón": {
+      "chapter": "PHÂN BÓN",
+      "content": "Tìm hiểu về các loại phân bón, đặc điểm, tính chất và kĩ thuật sử dụng hiệu quả, bền vững, đồng thời khám phá các công nghệ sản xuất phân bón tiên tiến.",
+      "objectives": [
+        "Phân biệt được các loại phân bón phổ biến.",
+        "Trình bày được đặc điểm và kĩ thuật sử dụng một số loại phân bón thông thường."
+      ]
+    },
+    "Bài 11: Thực hành: Nhận biết một số loại phân bón hoá học thông thường": {
+      "chapter": "PHÂN BÓN",
+      "content": "Tìm hiểu về các loại phân bón, đặc điểm, tính chất và kĩ thuật sử dụng hiệu quả, bền vững, đồng thời khám phá các công nghệ sản xuất phân bón tiên tiến.",
+      "objectives": [
+        "Nhận biết và phân biệt được một số loại phân bón hóa học dựa vào đặc điểm bên ngoài."
+      ]
+    },
+    "Bài 12: Ứng dụng công nghệ trong sản xuất phân bón": {
+      "chapter": "PHÂN BÓN",
+      "content": "Tìm hiểu về các loại phân bón, đặc điểm, tính chất và kĩ thuật sử dụng hiệu quả, bền vững, đồng thời khám phá các công nghệ sản xuất phân bón tiên tiến.",
+      "objectives": [
+        "Trình bày được nguyên lí sản xuất phân bón hữu cơ vi sinh và phân bón nano."
+      ]
+    },
+    "Bài 13: Sâu, bệnh và vai trò của phòng trừ sâu, bệnh hại cây trồng": {
+      "chapter": "PHÒNG TRỪ SÂU, BỆNH HẠI CÂY TRỒNG",
+      "content": "Nghiên cứu về các loại sâu, bệnh hại chính, các biện pháp phòng trừ theo hướng tổng hợp (IPM) và ứng dụng công nghệ sinh học để bảo vệ cây trồng an toàn, hiệu quả.",
+      "objectives": [
+        "Nhận dạng được một số loại sâu, bệnh hại phổ biến.",
+        "Mô tả được các giai đoạn phát triển chính của sâu hại."
+      ]
+    },
+    "Bài 14: Các biện pháp phòng trừ sâu, bệnh hại cây trồng": {
+      "chapter": "PHÒNG TRỪ SÂU, BỆNH HẠI CÂY TRỒNG",
+      "content": "Nghiên cứu về các loại sâu, bệnh hại chính, các biện pháp phòng trừ theo hướng tổng hợp (IPM) và ứng dụng công nghệ sinh học để bảo vệ cây trồng an toàn, hiệu quả.",
+      "objectives": [
+        "Trình bày được nguyên lí, yêu cầu của các biện pháp phòng trừ sâu, bệnh hại."
+      ]
+    },
+    "Bài 15: Phòng trừ tổng hợp sâu, bệnh hại cây trồng (IPM)": {
+      "chapter": "PHÒNG TRỪ SÂU, BỆNH HẠI CÂY TRỒNG",
+      "content": "Nghiên cứu về các loại sâu, bệnh hại chính, các biện pháp phòng trừ theo hướng tổng hợp (IPM) và ứng dụng công nghệ sinh học để bảo vệ cây trồng an toàn, hiệu quả.",
+      "objectives": [
+        "Trình bày được khái niệm và nguyên lí cơ bản của phòng trừ tổng hợp dịch hại (IPM).",
+        "Đề xuất được biện pháp phòng trừ tổng hợp."
+      ]
+    },
+    "Bài 16: Ứng dụng công nghệ sinh học trong phòng trừ sâu, bệnh hại cây trồng": {
+      "chapter": "PHÒNG TRỪ SÂU, BỆNH HẠI CÂY TRỒNG",
+      "content": "Nghiên cứu về các loại sâu, bệnh hại chính, các biện pháp phòng trừ theo hướng tổng hợp (IPM) và ứng dụng công nghệ sinh học để bảo vệ cây trồng an toàn, hiệu quả.",
+      "objectives": [
+        "Trình bày được cơ sở khoa học của việc ứng dụng công nghệ sinh học trong sản xuất chế phẩm trừ sâu, bệnh."
+      ]
+    },
+    "Bài 17: Giới thiệu chung về trồng trọt công nghệ cao": {
+      "chapter": "TRỒNG TRỌT CÔNG NGHỆ CAO",
+      "content": "Giới thiệu các mô hình và công nghệ trồng trọt hiện đại như trồng cây không dùng đất, nông nghiệp chính xác nhằm nâng cao năng suất và chất lượng sản phẩm.",
+      "objectives": [
+        "Trình bày được khái niệm, đặc điểm của trồng trọt công nghệ cao."
+      ]
+    },
+    "Bài 18: Công nghệ trồng cây không dùng đất": {
+      "chapter": "TRỒNG TRỌT CÔNG NGHỆ CAO",
+      "content": "Giới thiệu các mô hình và công nghệ trồng trọt hiện đại như trồng cây không dùng đất, nông nghiệp chính xác nhằm nâng cao năng suất và chất lượng sản phẩm.",
+      "objectives": [
+        "Trình bày được cơ sở khoa học, quy trình của công nghệ trồng cây không dùng đất (thuỷ canh, khí canh)."
+      ]
+    },
+    "Bài 19: Các công nghệ khác trong trồng trọt": {
+      "chapter": "TRỒNG TRỌT CÔNG NGHỆ CAO",
+      "content": "Giới thiệu các mô hình và công nghệ trồng trọt hiện đại như trồng cây không dùng đất, nông nghiệp chính xác nhằm nâng cao năng suất và chất lượng sản phẩm.",
+      "objectives": [
+        "Trình bày được nguyên lí của một số công nghệ cao khác (nhà kính, nhà lưới, công nghệ tưới, Internet vạn vật - IoT)."
+      ]
+    },
+    "Bài 20: Giới thiệu chung về lâm nghiệp": {
+      "chapter": "GIỚI THIỆU VỀ LÂM NGHIỆP",
+      "content": "Tìm hiểu về vai trò của rừng, các hoạt động trong lâm nghiệp và các ngành nghề liên quan, nhấn mạnh tầm quan trọng của việc phát triển lâm nghiệp bền vững.",
+      "objectives": [
+        "Nêu được vai trò, triển vọng của lâm nghiệp.",
+        "Trình bày được các hoạt động chính trong lâm nghiệp."
+      ]
+    },
+    "Bài 21: Một số ngành nghề trong lâm nghiệp": {
+      "chapter": "GIỚI THIỆU VỀ LÂM NGHIỆP",
+      "content": "Tìm hiểu về vai trò của rừng, các hoạt động trong lâm nghiệp và các ngành nghề liên quan, nhấn mạnh tầm quan trọng của việc phát triển lâm nghiệp bền vững.",
+      "objectives": [
+        "Nhận biết được một số ngành nghề phổ biến trong lĩnh vực lâm nghiệp."
       ]
     }
   },
   "11": {
-    "Chủ đề: Công nghệ bảo quản nông sản": {
-      "chapter": "CÔNG NGHỆ BẢO QUẢN",
-      "content": "Nghiên cứu các phương pháp bảo quản nông sản và ứng dụng thực tế.",
+    "Bài 1: Vai trò và triển vọng của chăn nuôi": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ CHĂN NUÔI",
+      "content": "Cung cấp kiến thức tổng quan về ngành chăn nuôi, vai trò, triển vọng trong bối cảnh mới và các phương thức chăn nuôi chính đang được áp dụng tại Việt Nam.",
       "objectives": [
-        "Trình bày được các phương pháp bảo quản nông sản.",
-        "Phân tích được tác động của bảo quản đến chất lượng.",
-        "Hiểu được ứng dụng công nghệ trong bảo quản.",
-        "Liên hệ thực tiễn về bảo quản trái cây."
-      ],
-      "common_exercises": [
-        "Phân tích quy trình bảo quản rau quả.",
-        "Thảo luận về tác động của nhiệt độ trong bảo quản.",
-        "Đánh giá hiệu quả của công nghệ lạnh."
+        "Nêu được vai trò, triển vọng của chăn nuôi.",
+        "Trình bày được nguyên lí của chăn nuôi hữu cơ, công nghệ cao."
       ]
     },
-    "Chuyên đề: Công nghệ thủy sản": {
-      "chapter": "CÔNG NGHỆ THỦY SẢN",
-      "content": "Tìm hiểu kỹ thuật nuôi trồng thủy sản và quản lý môi trường nước.",
+    "Bài 2: Vật nuôi và phương thức chăn nuôi": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ CHĂN NUÔI",
+      "content": "Cung cấp kiến thức tổng quan về ngành chăn nuôi, vai trò, triển vọng trong bối cảnh mới và các phương thức chăn nuôi chính đang được áp dụng tại Việt Nam.",
       "objectives": [
-        "Trình bày được quy trình nuôi cá nước ngọt.",
-        "Phân tích được ảnh hưởng của môi trường nước đến thủy sản.",
-        "Hiểu được ứng dụng công nghệ trong thủy sản.",
-        "Liên hệ thực tiễn về nuôi tôm ở Việt Nam."
-      ],
-      "common_exercises": [
-        "Phân tích quy trình nuôi tôm công nghiệp.",
-        "Thảo luận về quản lý nước trong nuôi thủy sản.",
-        "Đánh giá vai trò của công nghệ trong thủy sản."
+        "Phân loại được vật nuôi theo các tiêu chí khác nhau.",
+        "Nhận biết được một số ngành nghề phổ biến trong lĩnh vực chăn nuôi."
+      ]
+    },
+    "Bài 3: Thực hành: Nhận biết và chọn một số giống vật nuôi": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ CHĂN NUÔI",
+      "content": "Cung cấp kiến thức tổng quan về ngành chăn nuôi, vai trò, triển vọng trong bối cảnh mới và các phương thức chăn nuôi chính đang được áp dụng tại Việt Nam.",
+      "objectives": [
+        "Nhận biết được một số giống vật nuôi phổ biến qua quan sát ngoại hình."
+      ]
+    },
+    "Bài 4: Chọn và nhân giống vật nuôi": {
+      "chapter": "CÔNG NGHỆ GIỐNG VẬT NUÔI",
+      "content": "Nghiên cứu các phương pháp chọn và nhân giống vật nuôi, từ truyền thống đến hiện đại, nhằm tạo ra các giống có năng suất và chất lượng cao, thích ứng tốt với điều kiện chăn nuôi.",
+      "objectives": [
+        "Trình bày được mục đích, yêu cầu của việc chọn giống.",
+        "Mô tả được các phương pháp chọn, nhân giống vật nuôi."
+      ]
+    },
+    "Bài 5: Ứng dụng công nghệ sinh học trong chọn và nhân giống vật nuôi": {
+      "chapter": "CÔNG NGHỆ GIỐNG VẬT NUÔI",
+      "content": "Nghiên cứu các phương pháp chọn và nhân giống vật nuôi, từ truyền thống đến hiện đại, nhằm tạo ra các giống có năng suất và chất lượng cao, thích ứng tốt với điều kiện chăn nuôi.",
+      "objectives": [
+        "Trình bày được cơ sở khoa học và ứng dụng của công nghệ gen, công nghệ tế bào trong chọn và nhân giống vật nuôi."
+      ]
+    },
+    "Bài 6: Nhu cầu dinh dưỡng và khẩu phần ăn của vật nuôi": {
+      "chapter": "CÔNG NGHỆ THỨC ĂN CHĂN NUÔI",
+      "content": "Tìm hiểu về nhu cầu dinh dưỡng của vật nuôi, các loại thức ăn, phương pháp sản xuất, chế biến và bảo quản thức ăn chăn nuôi hiệu quả và an toàn.",
+      "objectives": [
+        "Phân tích được ảnh hưởng của yếu tố dinh dưỡng đến vật nuôi.",
+        "Lập được khẩu phần ăn cho một loại vật nuôi."
+      ]
+    },
+    "Bài 7: Thức ăn và công nghệ sản xuất thức ăn chăn nuôi": {
+      "chapter": "CÔNG NGHỆ THỨC ĂN CHĂN NUÔI",
+      "content": "Tìm hiểu về nhu cầu dinh dưỡng của vật nuôi, các loại thức ăn, phương pháp sản xuất, chế biến và bảo quản thức ăn chăn nuôi hiệu quả và an toàn.",
+      "objectives": [
+        "Phân loại được các loại thức ăn chăn nuôi.",
+        "Trình bày được quy trình sản xuất thức ăn hỗn hợp."
+      ]
+    },
+    "Bài 8: Công nghệ chế biến và bảo quản thức ăn chăn nuôi": {
+      "chapter": "CÔNG NGHỆ THỨC ĂN CHĂN NUÔI",
+      "content": "Tìm hiểu về nhu cầu dinh dưỡng của vật nuôi, các loại thức ăn, phương pháp sản xuất, chế biến và bảo quản thức ăn chăn nuôi hiệu quả và an toàn.",
+      "objectives": [
+        "Trình bày được mục đích, nguyên lí của các phương pháp chế biến, bảo quản thức ăn chăn nuôi."
+      ]
+    },
+    "Bài 9: Đại cương về bệnh ở vật nuôi": {
+      "chapter": "PHÒNG, TRỊ BỆNH CHO VẬT NUÔI",
+      "content": "Trang bị kiến thức về các loại bệnh phổ biến ở vật nuôi, nguyên nhân và các biện pháp phòng, trị bệnh theo hướng tổng hợp, an toàn sinh học.",
+      "objectives": [
+        "Phân biệt được bệnh truyền nhiễm và không truyền nhiễm.",
+        "Trình bày được các biện pháp phòng, trị bệnh tổng hợp."
+      ]
+    },
+    "Bài 10: Phòng, trị một số bệnh phổ biến ở gia súc": {
+      "chapter": "PHÒNG, TRỊ BỆNH CHO VẬT NUÔI",
+      "content": "Trang bị kiến thức về các loại bệnh phổ biến ở vật nuôi, nguyên nhân và các biện pháp phòng, trị bệnh theo hướng tổng hợp, an toàn sinh học.",
+      "objectives": [
+        "Nhận dạng được một số bệnh phổ biến ở gia súc và nêu được quy trình phòng, trị bệnh."
+      ]
+    },
+    "Bài 11: Phòng, trị một số bệnh phổ biến ở gia cầm": {
+      "chapter": "PHÒNG, TRỊ BỆNH CHO VẬT NUÔI",
+      "content": "Trang bị kiến thức về các loại bệnh phổ biến ở vật nuôi, nguyên nhân và các biện pháp phòng, trị bệnh theo hướng tổng hợp, an toàn sinh học.",
+      "objectives": [
+        "Nhận dạng được một số bệnh phổ biến ở gia cầm và nêu được quy trình phòng, trị bệnh."
+      ]
+    },
+    "Bài 12: Thực hành: Nhận biết một số loại vaccine và thuốc thú y": {
+      "chapter": "PHÒNG, TRỊ BỆNH CHO VẬT NUÔI",
+      "content": "Trang bị kiến thức về các loại bệnh phổ biến ở vật nuôi, nguyên nhân và các biện pháp phòng, trị bệnh theo hướng tổng hợp, an toàn sinh học.",
+      "objectives": [
+        "Nhận biết và mô tả được cách sử dụng một số loại vaccine, thuốc thú y thông dụng."
+      ]
+    },
+    "Bài 13: Công nghệ trong chăn nuôi": {
+      "chapter": "CÔNG NGHỆ CHĂN NUÔI",
+      "content": "Giới thiệu các công nghệ và quy trình chăn nuôi tiên tiến, chăn nuôi theo tiêu chuẩn VietGAP, và các mô hình chăn nuôi ứng dụng công nghệ cao.",
+      "objectives": [
+        "Trình bày được quy trình chăn nuôi theo tiêu chuẩn VietGAP.",
+        "Mô tả được một số mô hình chăn nuôi công nghệ cao."
+      ]
+    },
+    "Bài 14: Nuôi dưỡng và chăm sóc vật nuôi": {
+      "chapter": "CÔNG NGHỆ CHĂN NUÔI",
+      "content": "Giới thiệu các công nghệ và quy trình chăn nuôi tiên tiến, chăn nuôi theo tiêu chuẩn VietGAP, và các mô hình chăn nuôi ứng dụng công nghệ cao.",
+      "objectives": [
+        "Nuôi dưỡng và chăm sóc được một loại vật nuôi phổ biến."
+      ]
+    },
+    "Bài 15: Giới thiệu chung về thuỷ sản": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ THUỶ SẢN",
+      "content": "Cung cấp kiến thức đại cương về ngành thủy sản, vai trò, triển vọng và các ngành nghề liên quan, tạo nền tảng cho các nội dung chuyên sâu hơn.",
+      "objectives": [
+        "Nêu được vai trò, triển vọng của nuôi trồng thuỷ sản."
+      ]
+    },
+    "Bài 16: Một số ngành nghề trong thuỷ sản": {
+      "chapter": "GIỚI THIỆU CHUNG VỀ THUỶ SẢN",
+      "content": "Cung cấp kiến thức đại cương về ngành thủy sản, vai trò, triển vọng và các ngành nghề liên quan, tạo nền tảng cho các nội dung chuyên sâu hơn.",
+      "objectives": [
+        "Nhận biết được một số ngành nghề phổ biến trong lĩnh vực thuỷ sản."
       ]
     }
   },
   "12": {
-    "Chủ đề: Công nghệ sản xuất nông nghiệp bền vững": {
-      "chapter": "CÔNG NGHỆ NÔNG NGHIỆP BỀN VỮNG",
-      "content": "Nghiên cứu các phương pháp sản xuất nông nghiệp bền vững và bảo vệ môi trường.",
+    "Bài 1: Vai trò và triển vọng của lâm nghiệp": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Cung cấp kiến thức tổng quan về vai trò của rừng và ngành lâm nghiệp, các hoạt động chính và định hướng nghề nghiệp trong lĩnh vực này.",
       "objectives": [
-        "Trình bày được khái niệm nông nghiệp bền vững.",
-        "Phân tích được tác động của nông nghiệp đến môi trường.",
-        "Hiểu được biện pháp sản xuất bền vững.",
-        "Liên hệ thực tiễn về nông nghiệp hữu cơ."
-      ],
-      "common_exercises": [
-        "Phân tích tác động của thuốc bảo vệ thực vật.",
-        "Thảo luận về nông nghiệp hữu cơ ở Việt Nam.",
-        "Đánh giá hiệu quả của canh tác bền vững."
+        "Trình bày được vai trò của rừng và lâm nghiệp đối với kinh tế, xã hội, môi trường.",
+        "Nêu được triển vọng phát triển lâm nghiệp."
       ]
     },
-    "Chuyên đề: Quản lý kinh tế nông nghiệp": {
-      "chapter": "QUẢN LÝ NÔNG NGHIỆP",
-      "content": "Tìm hiểu các phương pháp quản lý kinh tế trong sản xuất nông nghiệp.",
+    "Bài 2: Các hoạt động cơ bản trong lâm nghiệp": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Cung cấp kiến thức tổng quan về vai trò của rừng và ngành lâm nghiệp, các hoạt động chính và định hướng nghề nghiệp trong lĩnh vực này.",
       "objectives": [
-        "Trình bày được khái niệm quản lý kinh tế nông nghiệp.",
-        "Phân tích được quy trình tối ưu hóa sản xuất.",
-        "Hiểu được vai trò của quản lý trong nông nghiệp.",
-        "Liên hệ thực tiễn về hợp tác xã nông nghiệp."
-      ],
-      "common_exercises": [
-        "Phân tích một mô hình hợp tác xã thành công.",
-        "Thảo luận về tối ưu hóa chi phí trong nông nghiệp.",
-        "Đánh giá vai trò của quản lý trong tăng năng suất."
+        "Mô tả được các hoạt động chính trong lâm nghiệp: trồng, chăm sóc, bảo vệ, khai thác và chế biến lâm sản."
+      ]
+    },
+    "Bài 3: Một số ngành nghề trong lâm nghiệp": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Cung cấp kiến thức tổng quan về vai trò của rừng và ngành lâm nghiệp, các hoạt động chính và định hướng nghề nghiệp trong lĩnh vực này.",
+      "objectives": [
+        "Mô tả được đặc điểm, yêu cầu của một số ngành nghề phổ biến trong lâm nghiệp."
+      ]
+    },
+    "Bài 4: Sản xuất giống cây lâm nghiệp": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Nghiên cứu các kĩ thuật từ khâu sản xuất giống, trồng, chăm sóc đến các mô hình nông lâm kết hợp nhằm nâng cao hiệu quả và tính bền vững của việc trồng rừng.",
+      "objectives": [
+        "Trình bày được quy trình sản xuất cây giống từ hạt và bằng phương pháp giâm hom."
+      ]
+    },
+    "Bài 5: Trồng và chăm sóc rừng": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Nghiên cứu các kĩ thuật từ khâu sản xuất giống, trồng, chăm sóc đến các mô hình nông lâm kết hợp nhằm nâng cao hiệu quả và tính bền vững của việc trồng rừng.",
+      "objectives": [
+        "Mô tả được quy trình trồng và chăm sóc rừng."
+      ]
+    },
+    "Bài 6: Một số mô hình trồng trọt kết hợp lâm nghiệp": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Nghiên cứu các kĩ thuật từ khâu sản xuất giống, trồng, chăm sóc đến các mô hình nông lâm kết hợp nhằm nâng cao hiệu quả và tính bền vững của việc trồng rừng.",
+      "objectives": [
+        "Mô tả được một số mô hình nông lâm kết hợp phổ biến ở Việt Nam."
+      ]
+    },
+    "Bài 7: Phòng, chống cháy rừng": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Tìm hiểu các biện pháp phòng chống cháy rừng, phòng trừ sâu bệnh hại và các nguyên tắc, phương pháp khai thác rừng bền vững.",
+      "objectives": [
+        "Nêu được nguyên nhân, tác hại và các biện pháp phòng, chống cháy rừng."
+      ]
+    },
+    "Bài 8: Phòng, trừ sâu, bệnh hại rừng": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Tìm hiểu các biện pháp phòng chống cháy rừng, phòng trừ sâu bệnh hại và các nguyên tắc, phương pháp khai thác rừng bền vững.",
+      "objectives": [
+        "Nêu được tác hại và các biện pháp phòng trừ tổng hợp sâu, bệnh hại rừng."
+      ]
+    },
+    "Bài 9: Khai thác tài nguyên rừng bền vững": {
+      "chapter": "LÂM NGHIỆP",
+      "content": "Tìm hiểu các biện pháp phòng chống cháy rừng, phòng trừ sâu bệnh hại và các nguyên tắc, phương pháp khai thác rừng bền vững.",
+      "objectives": [
+        "Trình bày được các nguyên tắc và một số phương thức khai thác rừng bền vững."
+      ]
+    },
+    "Bài 10: Vai trò và triển vọng của thuỷ sản": {
+      "chapter": "THUỶ SẢN",
+      "content": "Cung cấp kiến thức tổng quan về vai trò của ngành thuỷ sản, các đối tượng và hình thức nuôi trồng phổ biến cùng các ngành nghề liên quan.",
+      "objectives": [
+        "Trình bày được vai trò, triển vọng và thách thức của ngành thuỷ sản."
+      ]
+    },
+    "Bài 11: Một số đối tượng và hình thức nuôi thuỷ sản": {
+      "chapter": "THUỶ SẢN",
+      "content": "Cung cấp kiến thức tổng quan về vai trò của ngành thuỷ sản, các đối tượng và hình thức nuôi trồng phổ biến cùng các ngành nghề liên quan.",
+      "objectives": [
+        "Mô tả được đặc điểm của một số đối tượng thuỷ sản phổ biến và các hình thức nuôi chính."
+      ]
+    },
+    "Bài 12: Một số ngành nghề trong thuỷ sản": {
+      "chapter": "THUỶ SẢN",
+      "content": "Cung cấp kiến thức tổng quan về vai trò của ngành thuỷ sản, các đối tượng và hình thức nuôi trồng phổ biến cùng các ngành nghề liên quan.",
+      "objectives": [
+        "Mô tả được đặc điểm, yêu cầu của một số ngành nghề phổ biến trong thuỷ sản."
+      ]
+    },
+    "Bài 13: Một số tính chất của nước nuôi thuỷ sản": {
+      "chapter": "THUỶ SẢN",
+      "content": "Nghiên cứu các tính chất của nước nuôi thủy sản, các biện pháp quản lí và cải tạo môi trường nước để đảm bảo điều kiện sống tối ưu cho vật nuôi.",
+      "objectives": [
+        "Trình bày được một số tính chất vật lí, hoá học, sinh học của nước nuôi thuỷ sản."
+      ]
+    },
+    "Bài 14: Quản lí môi trường ao nuôi thuỷ sản": {
+      "chapter": "THUỶ SẢN",
+      "content": "Nghiên cứu các tính chất của nước nuôi thủy sản, các biện pháp quản lí và cải tạo môi trường nước để đảm bảo điều kiện sống tối ưu cho vật nuôi.",
+      "objectives": [
+        "Mô tả được các biện pháp quản lí môi trường nước ao nuôi."
+      ]
+    },
+    "Bài 15: Công nghệ sản xuất giống một số loài thuỷ sản": {
+      "chapter": "THUỶ SẢN",
+      "content": "Tìm hiểu quy trình công nghệ sản xuất giống một số loài thủy sản quan trọng, góp phần đảm bảo nguồn giống chất lượng cho ngành.",
+      "objectives": [
+        "Trình bày được quy trình công nghệ sản xuất giống cá rô phi và tôm."
+      ]
+    },
+    "Bài 16: Thức ăn và kĩ thuật cho một số đối tượng thuỷ sản ăn": {
+      "chapter": "THUỶ SẢN",
+      "content": "Nghiên cứu về các loại thức ăn, nhu cầu dinh dưỡng và kĩ thuật cho một số đối tượng thủy sản ăn, đảm bảo hiệu quả kinh tế và môi trường.",
+      "objectives": [
+        "Trình bày được các loại thức ăn và kĩ thuật cho cá, tôm ăn."
+      ]
+    },
+    "Bài 17: Công nghệ nuôi cá rô phi": {
+      "chapter": "THUỶ SẢN",
+      "content": "Trang bị quy trình công nghệ nuôi một số loài thủy sản có giá trị kinh tế như cá rô phi và tôm thẻ chân trắng.",
+      "objectives": [
+        "Trình bày được quy trình công nghệ nuôi cá rô phi."
+      ]
+    },
+    "Bài 18: Công nghệ nuôi tôm thẻ chân trắng": {
+      "chapter": "THUỶ SẢN",
+      "content": "Trang bị quy trình công nghệ nuôi một số loài thủy sản có giá trị kinh tế như cá rô phi và tôm thẻ chân trắng.",
+      "objectives": [
+        "Trình bày được quy trình công nghệ nuôi tôm thẻ chân trắng."
+      ]
+    },
+    "Bài 19: Phòng, trị bệnh tổng hợp cho thuỷ sản": {
+      "chapter": "THUỶ SẢN",
+      "content": "Tìm hiểu các biện pháp phòng trị bệnh tổng hợp và quy trình cụ thể cho một số bệnh thường gặp ở cá và tôm.",
+      "objectives": [
+        "Trình bày được các biện pháp phòng, trị bệnh tổng hợp cho thuỷ sản."
+      ]
+    },
+    "Bài 20: Phòng, trị một số bệnh phổ biến ở cá và tôm": {
+      "chapter": "THUỶ SẢN",
+      "content": "Tìm hiểu các biện pháp phòng trị bệnh tổng hợp và quy trình cụ thể cho một số bệnh thường gặp ở cá và tôm.",
+      "objectives": [
+        "Mô tả được dấu hiệu và cách phòng, trị một số bệnh phổ biến ở cá và tôm."
+      ]
+    },
+    "Bài 21: Bảo vệ và khai thác nguồn lợi thuỷ sản": {
+      "chapter": "THUỶ SẢN",
+      "content": "Nâng cao nhận thức về tầm quan trọng, thực trạng và các biện pháp nhằm bảo vệ và khai thác bền vững nguồn lợi thủy sản tự nhiên.",
+      "objectives": [
+        "Trình bày được tầm quan trọng, thực trạng và các biện pháp bảo vệ, khai thác bền vững nguồn lợi thuỷ sản."
       ]
     }
   }
