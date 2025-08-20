@@ -1,0 +1,483 @@
+{
+  "3": {
+    "Unit 1: Hello": {
+      "chapter": "LÀM QUEN & NỀN TẢNG (LỚP 3)",
+      "content": "Chào hỏi, giới thiệu bản thân và bạn bè.",
+      "objectives": [
+        "Nói và đáp lại lời chào (Hello, Hi).",
+        "Hỏi và trả lời tên (What's your name? - My name's...).",
+        "Sử dụng các mẫu câu đơn giản để giới thiệu."
+      ],
+      "common_exercises": [
+        "Đóng vai chào hỏi và giới thiệu.",
+        "Hát bài hát 'Hello'.",
+        "Ghép tên với hình ảnh nhân vật."
+      ]
+    },
+    "Unit 2: My School": {
+      "chapter": "LÀM QUEN & NỀN TẢNG (LỚP 3)",
+      "content": "Từ vựng về đồ dùng học tập và các hoạt động đơn giản ở trường.",
+      "objectives": [
+        "Nhận biết và gọi tên các đồ dùng học tập (pen, pencil, book, ruler).",
+        "Hỏi và trả lời về đồ dùng học tập (What's this? - It's a...).",
+        "Sử dụng các mệnh lệnh đơn giản trong lớp (Open your book, Close your book)."
+      ],
+      "common_exercises": [
+        "Chỉ và gọi tên đồ vật.",
+        "Chơi trò chơi đoán đồ vật.",
+        "Thực hiện theo các mệnh lệnh của giáo viên."
+      ]
+    },
+    "Unit 3: My Family": {
+      "chapter": "LÀM QUEN & NỀN TẢNG (LỚP 3)",
+      "content": "Từ vựng về các thành viên trong gia đình.",
+      "objectives": [
+        "Nhận biết và gọi tên các thành viên trong gia đình (father, mother, brother, sister).",
+        "Giới thiệu các thành viên trong gia đình (This is my father)."
+      ],
+      "common_exercises": [
+        "Vẽ cây gia đình và giới thiệu.",
+        "Nhìn tranh và mô tả gia đình.",
+        "Hát bài hát về gia đình."
+      ]
+    },
+    "Unit 4: Numbers and Colors": {
+      "chapter": "LÀM QUEN & NỀN TẢNG (LỚP 3)",
+      "content": "Học đếm từ 1 đến 10 và nhận biết các màu sắc cơ bản.",
+      "objectives": [
+        "Đếm và viết số từ 1 đến 10.",
+        "Hỏi và trả lời về số lượng (How many? - ...).",
+        "Nhận biết và gọi tên các màu sắc (red, blue, yellow, green)."
+      ],
+      "common_exercises": [
+        "Đếm đồ vật trong lớp.",
+        "Tô màu theo chỉ dẫn.",
+        "Chơi trò chơi tìm đồ vật theo màu sắc."
+      ]
+    }
+  },
+  "4": {
+    "Unit 1: My Classroom": {
+      "chapter": "PHÁT TRIỂN TỪ VỰNG & MẪU CÂU (LỚP 4)",
+      "content": "Mở rộng từ vựng về lớp học và hỏi về vị trí đồ vật.",
+      "objectives": [
+        "Gọi tên các đồ vật trong lớp học (desk, chair, board, door, window).",
+        "Hỏi và trả lời về vị trí đồ vật (Where is the...? - It's on/in/under the...).",
+        "Sử dụng mạo từ a/an."
+      ],
+      "common_exercises": [
+        "Mô tả vị trí các đồ vật trong tranh.",
+        "Chơi trò chơi giấu và tìm đồ vật.",
+        "Đặt câu với giới từ chỉ vị trí."
+      ]
+    },
+    "Unit 2: My Toys": {
+      "chapter": "PHÁT TRIỂN TỪ VỰNG & MẪU CÂU (LỚP 4)",
+      "content": "Từ vựng về đồ chơi và miêu tả đồ chơi.",
+      "objectives": [
+        "Gọi tên các loại đồ chơi (doll, ball, car, robot, puzzle).",
+        "Miêu tả đồ chơi bằng tính từ đơn giản (big, small, new, old).",
+        "Hỏi và trả lời về việc sở hữu (Do you have a...? - Yes, I do./No, I don't.)."
+      ],
+      "common_exercises": [
+        "Mang đồ chơi yêu thích đến lớp và miêu tả.",
+        "Vẽ và tô màu đồ chơi.",
+        "Thực hành hỏi và trả lời theo cặp."
+      ]
+    },
+    "Unit 3: My Body": {
+      "chapter": "PHÁT TRIỂN TỪ VỰNG & MẪU CÂU (LỚP 4)",
+      "content": "Từ vựng về các bộ phận cơ thể và các hành động.",
+      "objectives": [
+        "Gọi tên các bộ phận trên cơ thể (head, arm, hand, leg, foot).",
+        "Sử dụng các động từ hành động (touch, clap, stomp, wave).",
+        "Thực hiện theo các chỉ dẫn liên quan đến bộ phận cơ thể (Touch your head)."
+      ],
+      "common_exercises": [
+        "Hát bài 'Head, Shoulders, Knees and Toes'.",
+        "Chơi trò 'Simon says'.",
+        "Vẽ một người và ghi tên các bộ phận."
+      ]
+    },
+    "Unit 4: Animals": {
+      "chapter": "PHÁT TRIỂN TỪ VỰNG & MẪU CÂU (LỚP 4)",
+      "content": "Từ vựng về các con vật và miêu tả khả năng của chúng.",
+      "objectives": [
+        "Gọi tên các con vật quen thuộc (dog, cat, bird, fish).",
+        "Hỏi và trả lời về khả năng của con vật (Can it...? - Yes, it can./No, it can't.).",
+        "Sử dụng các động từ chỉ khả năng (run, jump, swim, fly)."
+      ],
+      "common_exercises": [
+        "Bắt chước tiếng kêu và hành động của các con vật.",
+        "Nhìn tranh và miêu tả con vật.",
+        "Làm mặt nạ hình con vật."
+      ]
+    }
+  },
+  "5": {
+    "Unit 1: My Daily Activities": {
+      "chapter": "GIAO TIẾP VỀ CUỘC SỐNG HẰNG NGÀY (LỚP 5)",
+      "content": "Miêu tả các hoạt động hàng ngày và hỏi giờ.",
+      "objectives": [
+        "Sử dụng các cụm từ chỉ hoạt động hàng ngày (get up, have breakfast, go to school).",
+        "Sử dụng thì hiện tại đơn để nói về thói quen.",
+        "Hỏi và trả lời về thời gian (What time is it? - It's... o'clock.)."
+      ],
+      "common_exercises": [
+        "Kể về một ngày của em.",
+        "Sắp xếp các hoạt động theo trình tự thời gian.",
+        "Thực hành hỏi và trả lời về thời gian."
+      ]
+    },
+    "Unit 2: Food and Drink": {
+      "chapter": "GIAO TIẾP VỀ CUỘC SỐNG HẰNG NGÀY (LỚP 5)",
+      "content": "Từ vựng về đồ ăn, thức uống và bày tỏ sự yêu thích.",
+      "objectives": [
+        "Gọi tên các loại đồ ăn, thức uống (rice, bread, milk, juice).",
+        "Bày tỏ sự yêu thích (I like... / I don't like...).",
+        "Hỏi và trả lời về sở thích ăn uống (What do you like?)"
+      ],
+      "common_exercises": [
+        "Vẽ bữa ăn yêu thích của em.",
+        "Chơi trò chơi đóng vai ở nhà hàng.",
+        "Khảo sát sở thích ăn uống của các bạn trong lớp."
+      ]
+    },
+    "Unit 3: The Weather": {
+      "chapter": "GIAO TIẾP VỀ CUỘC SỐNG HẰNG NGÀY (LỚP 5)",
+      "content": "Từ vựng về thời tiết và miêu tả thời tiết.",
+      "objectives": [
+        "Gọi tên các dạng thời tiết (sunny, rainy, windy, cloudy).",
+        "Hỏi và trả lời về thời tiết (What's the weather like? - It's...).",
+        "Sử dụng các tính từ miêu tả thời tiết."
+      ],
+      "common_exercises": [
+        "Vẽ tranh về các loại thời tiết.",
+        "Làm bản tin dự báo thời tiết.",
+        "Ghi nhật ký thời tiết trong một tuần."
+      ]
+    },
+    "Unit 4: My Hobbies": {
+      "chapter": "GIAO TIẾP VỀ CUỘC SỐNG HẰNG NGÀY (LỚP 5)",
+      "content": "Từ vựng về các sở thích và hoạt động giải trí.",
+      "objectives": [
+        "Sử dụng các động từ chỉ sở thích (read, draw, sing, dance).",
+        "Hỏi và trả lời về sở thích (What do you like doing? - I like...).",
+        "Sử dụng động từ V-ing sau 'like'."
+      ],
+      "common_exercises": [
+        "Biểu diễn sở thích của em cho cả lớp xem.",
+        "Phỏng vấn bạn bè về sở thích của họ.",
+        "Tạo một poster về các hoạt động giải trí."
+      ]
+    }
+  },
+  "6": {
+    "Unit 1: My New School": {
+      "chapter": "PHÁT TRIỂN KỸ NĂNG NGHE - NÓI (LỚP 6)",
+      "content": "Giới thiệu về trường học mới, các môn học và bạn bè. Sử dụng thì hiện tại đơn và hiện tại tiếp diễn.",
+      "objectives": [
+        "Sử dụng từ vựng về trường học và môn học.",
+        "Phân biệt và sử dụng thì hiện tại đơn và hiện tại tiếp diễn.",
+        "Nghe hiểu các đoạn hội thoại về hoạt động ở trường."
+      ],
+      "common_exercises": [
+        "Viết một đoạn văn ngắn giới thiệu về trường của em.",
+        "Đóng vai phỏng vấn một học sinh mới.",
+        "Nghe và điền thông tin vào thời khóa biểu."
+      ]
+    },
+    "Unit 2: My Home": {
+      "chapter": "NGỮ PHÁP & TỪ VỰNG NỀN TẢNG (LỚP 6)",
+      "content": "Mô tả nhà cửa, các phòng và đồ đạc. Sử dụng giới từ chỉ nơi chốn và cấu trúc 'There is/There are'.",
+      "objectives": [
+        "Sử dụng từ vựng về nhà cửa và đồ đạc.",
+        "Vận dụng đúng cấu trúc 'There is/There are'.",
+        "Sử dụng giới từ chỉ nơi chốn (in, on, under, next to, behind, in front of)."
+      ],
+      "common_exercises": [
+        "Vẽ sơ đồ ngôi nhà của em và mô tả.",
+        "Viết đoạn văn miêu tả phòng ngủ của em.",
+        "Chơi trò chơi tìm đồ vật trong tranh."
+      ]
+    },
+    "Unit 3: My Friends": {
+      "chapter": "PHÁT TRIỂN KỸ NĂNG ĐỌC - VIẾT (LỚP 6)",
+      "content": "Mô tả ngoại hình và tính cách của bạn bè. Sử dụng tính từ và thì hiện tại đơn.",
+      "objectives": [
+        "Sử dụng tính từ mô tả ngoại hình (tall, short, long hair) và tính cách (friendly, kind).",
+        "Đọc hiểu một đoạn văn mô tả người.",
+        "Viết một email đơn giản để mô tả một người bạn."
+      ],
+      "common_exercises": [
+        "Mô tả một bạn trong lớp để các bạn khác đoán.",
+        "Đọc một bài blog và trả lời câu hỏi.",
+        "Viết một đoạn văn về người bạn thân nhất của em."
+      ]
+    }
+  },
+  "7": {
+    "Unit 1: Hobbies": {
+      "chapter": "MỞ RỘNG GIAO TIẾP XÃ HỘI (LỚP 7)",
+      "content": "Nói về các sở thích, sử dụng động từ V-ing và so sánh các sở thích. Thì tương lai đơn.",
+      "objectives": [
+        "Sử dụng động từ dạng V-ing để nói về sở thích.",
+        "Sử dụng thì tương lai đơn (will) để nói về dự định.",
+        "Nghe và hiểu các đoạn hội thoại về các hoạt động giải trí."
+      ],
+      "common_exercises": [
+        "Thảo luận nhóm về các sở thích phổ biến.",
+        "Viết về một sở thích mà em muốn thử trong tương lai.",
+        "Nghe và nối người với sở thích của họ."
+      ]
+    },
+    "Unit 2: Health": {
+      "chapter": "NGỮ PHÁP & TỪ VỰNG NÂNG CAO (LỚP 7)",
+      "content": "Từ vựng về sức khỏe và bệnh tật. Sử dụng câu mệnh lệnh và câu khuyên bảo với 'should/shouldn't'.",
+      "objectives": [
+        "Sử dụng từ vựng về các vấn đề sức khỏe (headache, flu, cough).",
+        "Đưa ra lời khuyên bằng 'should' và 'shouldn't'.",
+        "Sử dụng câu mệnh lệnh để đưa ra chỉ dẫn."
+      ],
+      "common_exercises": [
+        "Đóng vai bác sĩ và bệnh nhân.",
+        "Viết các lời khuyên để giữ gìn sức khỏe.",
+        "Tạo một poster về các thói quen tốt cho sức khỏe."
+      ]
+    },
+    "Unit 3: Community Service": {
+      "chapter": "PHÁT TRIỂN KỸ NĂNG ĐỌC - VIẾT (LỚP 7)",
+      "content": "Đọc và viết về các hoạt động phục vụ cộng đồng. Sử dụng thì quá khứ đơn với động từ có quy tắc và bất quy tắc.",
+      "objectives": [
+        "Sử dụng thì quá khứ đơn để kể về các sự kiện đã qua.",
+        "Đọc hiểu một bài báo về hoạt động tình nguyện.",
+        "Viết một bài tường thuật ngắn về một hoạt động cộng đồng đã tham gia."
+      ],
+      "common_exercises": [
+        "Kể về một hoạt động tình nguyện mà em biết.",
+        "Đọc và tóm tắt một câu chuyện về giúp đỡ người khác.",
+        "Viết một bài blog về trải nghiệm làm việc nhóm."
+      ]
+    }
+  },
+  "8": {
+    "Unit 1: Leisure Activities": {
+      "chapter": "KHÁM PHÁ THẾ GIỚI (LỚP 8)",
+      "content": "Mở rộng từ vựng về các hoạt động giải trí. Sử dụng động từ chỉ sự yêu thích/ghét + V-ing.",
+      "objectives": [
+        "Sử dụng các động từ như love, enjoy, hate + V-ing.",
+        "So sánh các hoạt động giải trí.",
+        "Nghe và hiểu các kế hoạch cho ngày cuối tuần."
+      ],
+      "common_exercises": [
+        "Tạo một cuộc khảo sát về các hoạt động giải trí trong lớp.",
+        "Viết một bài đánh giá về một bộ phim hoặc một trò chơi.",
+        "Lên kế hoạch cho một chuyến đi chơi cuối tuần."
+      ]
+    },
+    "Unit 2: A Trip to the Countryside": {
+      "chapter": "NGỮ PHÁP & TỪ VỰNG PHỨC TẠP (LỚP 8)",
+      "content": "Mô tả cuộc sống ở nông thôn. So sánh hơn và so sánh nhất của tính từ. Thì quá khứ tiếp diễn.",
+      "objectives": [
+        "Sử dụng so sánh hơn và so sánh nhất.",
+        "Sử dụng thì quá khứ tiếp diễn để diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ.",
+        "Kết hợp thì quá khứ đơn và quá khứ tiếp diễn."
+      ],
+      "common_exercises": [
+        "So sánh cuộc sống ở thành thị và nông thôn.",
+        "Viết một câu chuyện ngắn sử dụng thì quá khứ tiếp diễn.",
+        "Mô tả một bức tranh về phong cảnh làng quê."
+      ]
+    },
+    "Unit 3: Science and Technology": {
+      "chapter": "PHÁT TRIỂN KỸ NĂNG ĐỌC - VIẾT (LỚP 8)",
+      "content": "Đọc và viết về các phát minh khoa học. Câu bị động (thì hiện tại đơn và quá khứ đơn).",
+      "objectives": [
+        "Sử dụng câu bị động để mô tả các quy trình và phát minh.",
+        "Đọc hiểu một văn bản về lịch sử của một phát minh.",
+        "Viết một đoạn văn mô tả cách một thiết bị hoạt động."
+      ],
+      "common_exercises": [
+        "Thuyết trình về một nhà khoa học nổi tiếng.",
+        "Viết lại các câu chủ động thành câu bị động.",
+        "Thiết kế một poster về một phát minh trong tương lai."
+      ]
+    }
+  },
+  "9": {
+    "Unit 1: A Visit from a Pen Pal": {
+      "chapter": "HỘI NHẬP VĂN HÓA (LỚP 9)",
+      "content": "Chào đón một người bạn qua thư. Thì hiện tại hoàn thành và cách sử dụng với 'for' và 'since'.",
+      "objectives": [
+        "Sử dụng thì hiện tại hoàn thành để nói về kinh nghiệm và trải nghiệm.",
+        "Phân biệt cách dùng 'for' và 'since'.",
+        "Nghe hiểu các cuộc trò chuyện về các chuyến đi."
+      ],
+      "common_exercises": [
+        "Viết một lá thư cho một người bạn qua thư.",
+        "Kể về những nơi em đã từng đến.",
+        "Đóng vai hướng dẫn viên du lịch giới thiệu về thành phố của em."
+      ]
+    },
+    "Unit 2: The Environment": {
+      "chapter": "NGỮ PHÁP & TỪ VỰNG TỔNG HỢP (LỚP 9)",
+      "content": "Thảo luận về các vấn đề môi trường. Câu điều kiện loại 1 và mệnh đề nguyên nhân, kết quả (because, so, therefore).",
+      "objectives": [
+        "Sử dụng câu điều kiện loại 1 để nói về các khả năng trong tương lai.",
+        "Sử dụng các từ nối chỉ nguyên nhân và kết quả.",
+        "Thảo luận và đề xuất các giải pháp cho các vấn đề môi trường."
+      ],
+      "common_exercises": [
+        "Tạo một chiến dịch bảo vệ môi trường trong trường học.",
+        "Viết một bài luận ngắn về một vấn đề môi trường ở địa phương.",
+        "Tranh luận về các biện pháp giảm thiểu ô nhiễm."
+      ]
+    },
+    "Unit 3: A First-aid Course": {
+      "chapter": "PHÁT TRIỂN KỸ NĂNG ĐỌC - VIẾT (LỚP 9)",
+      "content": "Học về sơ cứu. Mệnh đề mục đích (in order to, so as to) và mệnh đề chỉ thời gian trong tương lai.",
+      "objectives": [
+        "Sử dụng mệnh đề mục đích để giải thích lý do.",
+        "Đọc hiểu các hướng dẫn sơ cứu.",
+        "Viết một bộ hướng dẫn cho một tình huống khẩn cấp."
+      ],
+      "common_exercises": [
+        "Thực hành các bước sơ cứu cơ bản.",
+        "Thiết kế một bộ dụng cụ sơ cứu.",
+        "Viết một câu chuyện về một tình huống ai đó đã được sơ cứu kịp thời."
+      ]
+    }
+  },
+  "10": {
+    "Unit 1: Family Life": {
+      "chapter": "CUỘC SỐNG VÀ XÃ HỘI (LỚP 10)",
+      "content": "Thảo luận về vai trò và trách nhiệm của các thành viên trong gia đình. Thì hiện tại đơn và hiện tại tiếp diễn, trạng từ chỉ tần suất.",
+      "objectives": [
+        "Sử dụng thì hiện tại đơn và trạng từ chỉ tần suất để nói về các thói quen và công việc nhà.",
+        "Phân biệt cách dùng thì hiện tại đơn và hiện tại tiếp diễn.",
+        "Thảo luận và bày tỏ quan điểm về sự phân chia công việc trong gia đình."
+      ],
+      "common_exercises": [
+        "Viết về các công việc nhà mà bạn thường làm.",
+        "Thực hiện một cuộc phỏng vấn về cuộc sống gia đình.",
+        "Tranh luận về vai trò của nam và nữ trong gia đình hiện đại."
+      ]
+    },
+    "Unit 2: Humans and the Environment": {
+      "chapter": "NGỮ PHÁP VÀ KỸ NĂNG NÂNG CAO (LỚP 10)",
+      "content": "Các vấn đề môi trường và giải pháp. Câu bị động (tất cả các thì), danh động từ và động từ nguyên mẫu.",
+      "objectives": [
+        "Sử dụng câu bị động ở các thì phức tạp hơn (hiện tại hoàn thành, tương lai đơn).",
+        "Phân biệt và sử dụng đúng danh động từ (gerund) và động từ nguyên mẫu có 'to' (to-infinitive).",
+        "Đọc hiểu các bài báo về môi trường và đề xuất giải pháp."
+      ],
+      "common_exercises": [
+        "Viết một bài luận về một vấn đề môi trường toàn cầu.",
+        "Thuyết trình về một dự án tái chế.",
+        "Chuyển đổi các câu từ chủ động sang bị động và ngược lại."
+      ]
+    },
+    "Unit 3: Inventions": {
+      "chapter": "KHOA HỌC VÀ CÔNG NGHỆ (LỚP 10)",
+      "content": "Nói về các phát minh và nhà phát minh. Mệnh đề quan hệ xác định và không xác định.",
+      "objectives": [
+        "Sử dụng mệnh đề quan hệ với who, which, that, whose, where, when.",
+        "Phân biệt mệnh đề quan hệ xác định và không xác định (có và không có dấu phẩy).",
+        "Viết một đoạn văn mô tả một phát minh quan trọng."
+      ],
+      "common_exercises": [
+        "Nối hai câu đơn thành một câu phức sử dụng mệnh đề quan hệ.",
+        "Viết tiểu sử ngắn về một nhà phát minh.",
+        "Tạo một bài trình chiếu về những phát minh đã thay đổi thế giới."
+      ]
+    }
+  },
+  "11": {
+    "Unit 1: The Generation Gap": {
+      "chapter": "CÁC VẤN ĐỀ XÃ HỘI (LỚP 11)",
+      "content": "Thảo luận về khoảng cách thế hệ. Các động từ khuyết thiếu (modal verbs) chỉ sự bắt buộc, cấm đoán và lời khuyên (must, have to, mustn't, should).",
+      "objectives": [
+        "Bày tỏ sự bắt buộc, cấm đoán, và đưa ra lời khuyên.",
+        "Nghe hiểu các cuộc thảo luận về xung đột giữa các thế hệ.",
+        "Viết một email đưa ra lời khuyên cho một người bạn."
+      ],
+      "common_exercises": [
+        "Đóng vai giải quyết một tình huống mâu thuẫn trong gia đình.",
+        "Viết các quy tắc cho một câu lạc bộ sử dụng động từ khuyết thiếu.",
+        "Tranh luận về các chủ đề như giờ giới nghiêm, cách ăn mặc."
+      ]
+    },
+    "Unit 2: Becoming Independent": {
+      "chapter": "PHÁT TRIỂN BẢN THÂN (LỚP 11)",
+      "content": "Nói về sự độc lập và các kỹ năng sống. Câu chẻ (Cleft sentences).",
+      "objectives": [
+        "Sử dụng câu chẻ (It is/was... that...) để nhấn mạnh thông tin.",
+        "Đọc hiểu các bài viết về kỹ năng sống cần thiết cho thanh thiếu niên.",
+        "Viết một bài luận về tầm quan trọng của việc trở nên độc lập."
+      ],
+      "common_exercises": [
+        "Viết lại câu sử dụng cấu trúc câu chẻ.",
+        "Thảo luận nhóm về những kỹ năng sống quan trọng nhất.",
+        "Lập kế hoạch để cải thiện một kỹ năng sống của bản thân."
+      ]
+    },
+    "Unit 3: Cities of the Future": {
+      "chapter": "KHOA HỌC VÀ TƯƠNG LAI (LỚP 11)",
+      "content": "Mô tả các thành phố trong tương lai. Câu điều kiện loại 2 và mệnh đề quan hệ rút gọn (sử dụng V-ing và V3/ed).",
+      "objectives": [
+        "Sử dụng câu điều kiện loại 2 để nói về các tình huống giả định ở hiện tại.",
+        "Rút gọn mệnh đề quan hệ để làm câu văn ngắn gọn hơn.",
+        "Viết một đoạn văn mô tả thành phố mơ ước của bạn."
+      ],
+      "common_exercises": [
+        "Thảo luận về những thay đổi mà công nghệ sẽ mang lại cho các thành phố.",
+        "Viết lại câu, rút gọn mệnh đề quan hệ.",
+        "Thiết kế một poster về một thành phố thông minh."
+      ]
+    }
+  },
+  "12": {
+    "Unit 1: Life Stories": {
+      "chapter": "ÔN TẬP VÀ HOÀN THIỆN (LỚP 12)",
+      "content": "Kể về cuộc đời của những người nổi tiếng. Ôn tập các thì quá khứ (quá khứ đơn, quá khứ tiếp diễn, quá khứ hoàn thành).",
+      "objectives": [
+        "Phối hợp các thì quá khứ để kể một câu chuyện một cách mạch lạc.",
+        "Đọc và tóm tắt tiểu sử của một nhân vật lịch sử.",
+        "Viết một bài luận tường thuật về một sự kiện quan trọng trong cuộc đời ai đó."
+      ],
+      "common_exercises": [
+        "Kể lại một câu chuyện hoặc một bộ phim đã xem.",
+        "Viết một bài báo về một người có ảnh hưởng.",
+        "Thực hành phỏng vấn và viết lại câu chuyện của một người bạn."
+      ]
+    },
+    "Unit 2: Urbanisation": {
+      "chapter": "CÁC VẤN ĐỀ TOÀN CẦU (LỚP 12)",
+      "content": "Thảo luận về ưu và nhược điểm của đô thị hóa. Câu so sánh kép (The + comparative, the + comparative) và câu đảo ngữ.",
+      "objectives": [
+        "Sử dụng cấu trúc so sánh kép để diễn tả mối quan hệ nguyên nhân-kết quả.",
+        "Sử dụng câu đảo ngữ để nhấn mạnh (với Not only... but also, Never, So/Such... that).",
+        "Viết một bài luận phân tích tác động của đô thị hóa."
+      ],
+      "common_exercises": [
+        "Tranh luận về việc nên sống ở thành phố lớn hay thị trấn nhỏ.",
+        "Viết lại câu sử dụng cấu trúc đảo ngữ.",
+        "Phân tích một biểu đồ về sự tăng trưởng dân số đô thị."
+      ]
+    },
+    "Unit 3: The Green Movement": {
+      "chapter": "LUYỆN THI TỔNG HỢP (LỚP 12)",
+      "content": "Tổng hợp các kỹ năng ngôn ngữ để thảo luận về phong trào sống xanh. Ôn tập toàn bộ ngữ pháp và từ vựng trọng tâm.",
+      "objectives": [
+        "Vận dụng tổng hợp các cấu trúc ngữ pháp đã học để viết bài và thuyết trình.",
+        "Luyện tập các dạng bài thi tốt nghiệp THPT (trắc nghiệm, đọc hiểu, viết lại câu, viết đoạn văn).",
+        "Phát triển kỹ năng tư duy phản biện về các vấn đề xã hội."
+      ],
+      "common_exercises": [
+        "Làm các bài thi thử.",
+        "Thực hiện một dự án nhóm về một sáng kiến 'sống xanh'.",
+        "Viết một bài luận dài (khoảng 250 từ) về một chủ đề xã hội."
+      ]
+    }
+  }
+}
