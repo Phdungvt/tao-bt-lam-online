@@ -1,130 +1,401 @@
-
 {
   "6": {
-    "Chủ đề: Quy tắc ứng xử trong gia đình và trường học": {
+    "Bài 1. Tự hào về truyền thống gia đình, dòng họ": {
       "chapter": "GIÁO DỤC ĐẠO ĐỨC",
-      "content": "Nghiên cứu các quy tắc ứng xử cơ bản trong gia đình và môi trường học đường.",
+      "content": "Hình thành và phát triển các phẩm chất đạo đức cơ bản, phù hợp với lứa tuổi như yêu thương, trung thực, trách nhiệm, tự chủ trong các mối quan hệ với bản thân, gia đình và cộng đồng.",
       "objectives": [
-        "Trình bày được các quy tắc ứng xử trong gia đình và trường học.",
-        "Phân tích được ý nghĩa của việc tuân thủ quy tắc ứng xử.",
-        "Hiểu được trách nhiệm cá nhân trong việc xây dựng môi trường tốt đẹp.",
-        "Liên hệ thực tiễn về ứng xử với bạn bè."
-      ],
-      "common_exercises": [
-        "Phân tích một tình huống ứng xử tốt trong lớp học.",
-        "Thảo luận về vai trò của quy tắc trong gia đình.",
-        "Liên hệ thực tiễn về giúp đỡ bạn bè ở trường."
+        "Nêu được một số truyền thống của gia đình, dòng họ.",
+        "Kể được những việc làm thể hiện sự tự hào về truyền thống gia đình, dòng họ.",
+        "Thực hiện được những việc làm phù hợp với lứa tuổi để phát huy truyền thống gia đình, dòng họ."
       ]
     },
-    "Chuyên đề: Tôn trọng bản thân và người khác": {
-      "chapter": "GIÁO DỤC NHÂN ÁI",
-      "content": "Tìm hiểu giá trị tôn trọng bản thân và người khác trong cuộc sống.",
+    "Bài 2. Yêu thương con người": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Hình thành và phát triển các phẩm chất đạo đức cơ bản, phù hợp với lứa tuổi như yêu thương, trung thực, trách nhiệm, tự chủ trong các mối quan hệ với bản thân, gia đình và cộng đồng.",
       "objectives": [
-        "Trình bày được khái niệm tôn trọng bản thân và người khác.",
-        "Phân tích được biểu hiện của sự tôn trọng trong giao tiếp.",
-        "Hiểu được lợi ích của việc tôn trọng người khác.",
-        "Liên hệ thực tiễn về ứng xử với người lớn tuổi."
-      ],
-      "common_exercises": [
-        "Phân tích một ví dụ về sự tôn trọng trong lớp học.",
-        "Thảo luận về cách tôn trọng bạn bè khác biệt.",
-        "Đánh giá hành vi tôn trọng trong gia đình."
+        "Nêu được biểu hiện của yêu thương con người và ý nghĩa của nó.",
+        "Phân tích được những tình huống đơn giản thể hiện lòng yêu thương con người.",
+        "Thực hiện được những việc làm thể hiện tình yêu thương con người bằng những hành động cụ thể."
+      ]
+    },
+    "Bài 3. Siêng năng, kiên trì": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Hình thành và phát triển các phẩm chất đạo đức cơ bản, phù hợp với lứa tuổi như yêu thương, trung thực, trách nhiệm, tự chủ trong các mối quan hệ với bản thân, gia đình và cộng đồng.",
+      "objectives": [
+        "Nêu được các biểu hiện của siêng năng, kiên trì trong học tập và trong lao động.",
+        "Nêu được ý nghĩa của siêng năng, kiên trì.",
+        "Nhận biết được những biểu hiện trái với siêng năng, kiên trì và hậu quả của nó.",
+        "Siêng năng, kiên trì trong học tập và lao động."
+      ]
+    },
+    "Bài 4. Tôn trọng sự thật": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Hình thành và phát triển các phẩm chất đạo đức cơ bản, phù hợp với lứa tuổi như yêu thương, trung thực, trách nhiệm, tự chủ trong các mối quan hệ với bản thân, gia đình và cộng đồng.",
+      "objectives": [
+        "Nêu được các biểu hiện của tôn trọng sự thật.",
+        "Nêu được ý nghĩa của tôn trọng sự thật.",
+        "Nhận biết được những biểu hiện trái với tôn trọng sự thật và hậu quả của nó.",
+        "Tôn trọng sự thật và thể hiện sự tôn trọng sự thật trong cuộc sống hằng ngày."
+      ]
+    },
+    "Bài 5. Tự lập": {
+      "chapter": "GIÁO DỤC KĨ NĂNG SỐNG",
+      "content": "Trang bị kiến thức và rèn luyện các kĩ năng cần thiết để học sinh có thể thích ứng với sự thay đổi, tự quản lí bản thân, giải quyết vấn đề và hợp tác hiệu quả.",
+      "objectives": [
+        "Nêu được một số biểu hiện của tính tự lập trong học tập và trong sinh hoạt hằng ngày.",
+        "Nêu được ý nghĩa của tự lập.",
+        "Thực hiện được một số việc làm cụ thể thể hiện tính tự lập trong học tập và trong sinh hoạt hằng ngày."
+      ]
+    },
+    "Bài 6. Tự nhận thức bản thân": {
+      "chapter": "GIÁO DỤC KĨ NĂNG SỐNG",
+      "content": "Trang bị kiến thức và rèn luyện các kĩ năng cần thiết để học sinh có thể thích ứng với sự thay đổi, tự quản lí bản thân, giải quyết vấn đề và hợp tác hiệu quả.",
+      "objectives": [
+        "Nhận ra được điểm mạnh, điểm yếu của bản thân về thái độ, năng lực, sở thích.",
+        "Biết được điểm mạnh của bản thân để phát huy, điểm yếu của bản thân để khắc phục."
+      ]
+    },
+    "Bài 7. Thiết lập và thực hiện mục tiêu cá nhân": {
+      "chapter": "GIÁO DỤC KĨ NĂNG SỐNG",
+      "content": "Trang bị kiến thức và rèn luyện các kĩ năng cần thiết để học sinh có thể thích ứng với sự thay đổi, tự quản lí bản thân, giải quyết vấn đề và hợp tác hiệu quả.",
+      "objectives": [
+        "Nêu được ý nghĩa của việc xác định mục tiêu.",
+        "Xác định được mục tiêu học tập, rèn luyện của bản thân trong năm học.",
+        "Xây dựng và thực hiện được kế hoạch để đạt mục tiêu đã đề ra."
+      ]
+    },
+    "Bài 8. Tiết kiệm": {
+      "chapter": "GIÁO DỤC KINH TẾ",
+      "content": "Cung cấp những kiến thức kinh tế cơ bản, giúp học sinh bước đầu hình thành năng lực tài chính, hiểu được vai trò của các hoạt động kinh tế đối với đời sống.",
+      "objectives": [
+        "Nêu được các biểu hiện của tiết kiệm và ý nghĩa của việc tiết kiệm.",
+        "Lập được kế hoạch tiết kiệm tiền và thực hiện được kế hoạch đó.",
+        "Tiết kiệm được các nguồn lực khác cho bản thân, gia đình và xã hội."
+      ]
+    },
+    "Bài 9. Quyền và nghĩa vụ cơ bản của công dân": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Trang bị những kiến thức phổ thông về pháp luật, giúp học sinh hình thành ý thức tôn trọng pháp luật, sống và làm việc theo Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được một số quyền và nghĩa vụ cơ bản của công dân theo quy định của Hiến pháp.",
+        "Thực hiện tốt các quyền và nghĩa vụ của bản thân."
+      ]
+    },
+    "Bài 10. Quyền trẻ em": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Trang bị những kiến thức phổ thông về pháp luật, giúp học sinh hình thành ý thức tôn trọng pháp luật, sống và làm việc theo Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được các nhóm quyền cơ bản của trẻ em theo quy định của pháp luật.",
+        "Nêu được ý nghĩa của quyền trẻ em và bổn phận của trẻ em.",
+        "Phân biệt được hành vi vi phạm và không vi phạm quyền trẻ em trong các tình huống đơn giản.",
+        "Thực hiện tốt bổn phận của mình."
+      ]
+    },
+    "Bài 11. Quy tắc ứng xử nơi công cộng": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Trang bị những kiến thức phổ thông về pháp luật, giúp học sinh hình thành ý thức tôn trọng pháp luật, sống và làm việc theo Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được một số quy định của pháp luật về quy tắc ứng xử nơi công cộng.",
+        "Nêu được sự cần thiết phải tuân thủ các quy tắc ứng xử nơi công cộng.",
+        "Nhận biết được các hành vi vi phạm quy tắc ứng xử nơi công cộng.",
+        "Đồng tình, ủng hộ các hành vi ứng xử có văn hóa; phê phán các hành vi ứng xử thiếu văn hóa nơi công cộng."
+      ]
+    },
+    "Bài 12. Tôn trọng sự khác biệt": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Hình thành và phát triển các phẩm chất đạo đức cơ bản, phù hợp với lứa tuổi như yêu thương, trung thực, trách nhiệm, tự chủ trong các mối quan hệ với bản thân, gia đình và cộng đồng.",
+      "objectives": [
+        "Nêu được sự cần thiết phải tôn trọng sự khác biệt.",
+        "Chấp nhận và tôn trọng sự khác biệt của bạn bè trong lớp và những người xung quanh.",
+        "Thể hiện sự tôn trọng sự khác biệt bằng hành vi cụ thể."
       ]
     }
   },
   "7": {
-    "Chủ đề: Trách nhiệm với bản thân và cộng đồng": {
-      "chapter": "GIÁO DỤC TRÁCH NHIỆM",
-      "content": "Nghiên cứu trách nhiệm cá nhân trong học tập và tham gia cộng đồng.",
+    "Bài 1. Sống giản dị": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Tiếp tục phát triển các phẩm chất đạo đức đã hình thành, nâng cao nhận thức và hành vi phù hợp với các chuẩn mực đạo đức xã hội.",
       "objectives": [
-        "Trình bày được khái niệm trách nhiệm cá nhân.",
-        "Phân tích được vai trò của trách nhiệm trong học tập.",
-        "Hiểu được ý nghĩa của việc tham gia cộng đồng.",
-        "Liên hệ thực tiễn về tham gia hoạt động tập thể."
-      ],
-      "common_exercises": [
-        "Phân tích trách nhiệm học tập của học sinh.",
-        "Thảo luận về vai trò trong một nhóm hoạt động.",
-        "Liên hệ thực tiễn về tham gia dọn vệ sinh trường học."
+        "Nêu được những biểu hiện của lối sống giản dị.",
+        "Nêu được ý nghĩa của lối sống giản dị.",
+        "Thực hiện được lối sống giản dị trong cuộc sống hằng ngày."
       ]
     },
-    "Chuyên đề: Bảo vệ môi trường": {
-      "chapter": "GIÁO DỤC MÔI TRƯỜNG",
-      "content": "Tìm hiểu trách nhiệm bảo vệ môi trường và hành động cụ thể.",
+    "Bài 2. Trung thực": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Tiếp tục phát triển các phẩm chất đạo đức đã hình thành, nâng cao nhận thức và hành vi phù hợp với các chuẩn mực đạo đức xã hội.",
       "objectives": [
-        "Trình bày được khái niệm bảo vệ môi trường.",
-        "Phân tích được tác động của rác thải đến môi trường.",
-        "Hiểu được trách nhiệm của học sinh trong bảo vệ môi trường.",
-        "Liên hệ thực tiễn về phân loại rác tại trường."
-      ],
-      "common_exercises": [
-        "Phân tích tác động của nhựa dùng một lần.",
-        "Thảo luận về biện pháp giảm rác thải ở trường.",
-        "Đánh giá hiệu quả của phân loại rác."
+        "Nêu được những biểu hiện của trung thực và không trung thực.",
+        "Nêu được ý nghĩa của trung thực.",
+        "Nhận biết được những tình huống cần phải trung thực.",
+        "Trung thực trong học tập và trong quan hệ với mọi người."
+      ]
+    },
+    "Bài 3. Tự trọng": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Tiếp tục phát triển các phẩm chất đạo đức đã hình thành, nâng cao nhận thức và hành vi phù hợp với các chuẩn mực đạo đức xã hội.",
+      "objectives": [
+        "Nêu được những biểu hiện của tự trọng.",
+        "Nêu được ý nghĩa của tự trọng.",
+        "Tự giác thực hiện những hành vi thể hiện tự trọng và nhắc nhở bạn bè cùng thực hiện."
+      ]
+    },
+    "Bài 4. Đạo đức và kỉ luật": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Tiếp tục phát triển các phẩm chất đạo đức đã hình thành, nâng cao nhận thức và hành vi phù hợp với các chuẩn mực đạo đức xã hội.",
+      "objectives": [
+        "Nêu được mối quan hệ giữa đạo đức và kỉ luật.",
+        "Nêu được ý nghĩa của việc rèn luyện đạo đức và kỉ luật đối với mỗi người.",
+        "Thường xuyên rèn luyện đạo đức và kỉ luật của bản thân."
+      ]
+    },
+    "Bài 5. Chăm sóc di sản văn hóa": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Tiếp tục phát triển các phẩm chất đạo đức đã hình thành, nâng cao nhận thức và hành vi phù hợp với các chuẩn mực đạo đức xã hội.",
+      "objectives": [
+        "Nêu được một số di sản văn hóa của quê hương, đất nước.",
+        "Nêu được ý nghĩa của việc chăm sóc di sản văn hóa.",
+        "Thể hiện được sự tự hào về các di sản văn hóa của quê hương, đất nước.",
+        "Tham gia các hoạt động chăm sóc di sản văn hóa phù hợp với lứa tuổi."
+      ]
+    },
+    "Bài 6. Quản lí tiền": {
+      "chapter": "GIÁO DỤC KINH TẾ",
+      "content": "Phát triển năng lực tài chính, hiểu biết sâu hơn về các hoạt động kinh tế và vai trò của người tiêu dùng.",
+      "objectives": [
+        "Nêu được các khoản chi tiêu cá nhân.",
+        "Biết cách tạo nguồn thu nhập cá nhân.",
+        "Lập và thực hiện được kế hoạch chi tiêu cá nhân một cách hợp lí.",
+        "Thực hiện được những việc làm cụ thể để có thêm thu nhập phù hợp với lứa tuổi."
+      ]
+    },
+    "Bài 7. Phòng, chống bạo lực học đường": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Nâng cao hiểu biết về pháp luật, hình thành ý thức tuân thủ pháp luật và khả năng tự bảo vệ bản thân theo quy định của pháp luật.",
+      "objectives": [
+        "Nêu được các hình thức bạo lực học đường.",
+        "Nêu được nguyên nhân và hậu quả của bạo lực học đường.",
+        "Nêu được một số quy định của pháp luật về phòng, chống bạo lực học đường.",
+        "Có thái độ kiên quyết, lên án, phê phán các hành vi bạo lực học đường.",
+        "Ứng phó được với các tình huống bạo lực học đường."
+      ]
+    },
+    "Bài 8. Môi trường và tài nguyên thiên nhiên": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Nâng cao hiểu biết về pháp luật, hình thành ý thức tuân thủ pháp luật và khả năng tự bảo vệ bản thân theo quy định của pháp luật.",
+      "objectives": [
+        "Nêu được thực trạng môi trường và tài nguyên thiên nhiên ở Việt Nam.",
+        "Nêu được một số quy định của pháp luật về bảo vệ môi trường và tài nguyên thiên nhiên.",
+        "Tích cực tham gia các hoạt động tuyên truyền và bảo vệ môi trường, tài nguyên thiên nhiên."
+      ]
+    },
+    "Bài 9. Quyền và nghĩa vụ của công dân trong gia đình": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Nâng cao hiểu biết về pháp luật, hình thành ý thức tuân thủ pháp luật và khả năng tự bảo vệ bản thân theo quy định của pháp luật.",
+      "objectives": [
+        "Nêu được một số quy định của pháp luật về quyền và nghĩa vụ của các thành viên trong gia đình.",
+        "Nêu được ý nghĩa của việc thực hiện quyền và nghĩa vụ của các thành viên trong gia đình.",
+        "Thực hiện tốt quyền và nghĩa vụ của bản thân trong gia đình."
+      ]
+    },
+    "Bài 10. Giải quyết mâu thuẫn": {
+      "chapter": "GIÁO DỤC KĨ NĂNG SỐNG",
+      "content": "Nâng cao kĩ năng tự quản lí, kĩ năng xã hội và kĩ năng giải quyết vấn đề trong các mối quan hệ và tình huống phức tạp hơn.",
+      "objectives": [
+        "Nêu được nguyên nhân và hậu quả của những mâu thuẫn trong các mối quan hệ bạn bè và người thân.",
+        "Thực hiện được các bước giải quyết mâu thuẫn một cách hòa bình, tích cực."
+      ]
+    },
+    "Bài 11. Ứng phó với căng thẳng": {
+      "chapter": "GIÁO DỤC KĨ NĂNG SỐNG",
+      "content": "Nâng cao kĩ năng tự quản lí, kĩ năng xã hội và kĩ năng giải quyết vấn đề trong các mối quan hệ và tình huống phức tạp hơn.",
+      "objectives": [
+        "Nêu được một số biểu hiện, nguyên nhân, ảnh hưởng tiêu cực của sự căng thẳng.",
+        "Thực hiện được một số cách ứng phó tích cực với sự căng thẳng trong học tập và cuộc sống."
       ]
     }
   },
   "8": {
-    "Chủ đề: Quyền và nghĩa vụ cơ bản của học sinh": {
-      "chapter": "GIÁO DỤC PHÁP LUẬT",
-      "content": "Nghiên cứu các quyền và nghĩa vụ cơ bản của học sinh theo quy định.",
+    "Bài 1. Tự hào về truyền thống dân tộc Việt Nam": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Bồi dưỡng lòng yêu nước, tự hào dân tộc và trách nhiệm của công dân đối với cộng đồng, đất nước.",
       "objectives": [
-        "Trình bày được các quyền và nghĩa vụ của học sinh.",
-        "Phân tích được ý nghĩa của việc thực hiện nghĩa vụ.",
-        "Hiểu được trách nhiệm tuân thủ quy định trường học.",
-        "Liên hệ thực tiễn về quyền học tập."
-      ],
-      "common_exercises": [
-        "Phân tích một quyền cụ thể của học sinh.",
-        "Thảo luận về trách nhiệm giữ gìn tài sản trường học.",
-        "Liên hệ thực tiễn về tham gia lớp học."
+        "Nêu được một số truyền thống tiêu biểu của dân tộc Việt Nam.",
+        "Nêu được ý nghĩa của truyền thống dân tộc đối với mỗi cá nhân và sự phát triển của đất nước.",
+        "Tự hào về truyền thống của dân tộc Việt Nam.",
+        "Tham gia các hoạt động phát huy truyền thống dân tộc phù hợp với lứa tuổi."
       ]
     },
-    "Chuyên đề: Phòng chống bạo lực học đường": {
-      "chapter": "GIÁO DỤC AN NINH",
-      "content": "Tìm hiểu nguyên nhân và biện pháp phòng chống bạo lực học đường.",
+    "Bài 2. Lao động cần cù, sáng tạo": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Bồi dưỡng lòng yêu nước, tự hào dân tộc và trách nhiệm của công dân đối với cộng đồng, đất nước.",
       "objectives": [
-        "Trình bày được khái niệm bạo lực học đường.",
-        "Phân tích được nguyên nhân dẫn đến bạo lực học đường.",
-        "Hiểu được vai trò của học sinh trong phòng chống bạo lực.",
-        "Liên hệ thực tiễn về xây dựng môi trường học đường an toàn."
-      ],
-      "common_exercises": [
-        "Phân tích một tình huống bạo lực học đường.",
-        "Thảo luận về vai trò của giáo viên trong phòng chống bạo lực.",
-        "Đánh giá biện pháp giảm thiểu xung đột."
+        "Nêu được những biểu hiện của lao động cần cù, sáng tạo.",
+        "Nêu được ý nghĩa của lao động cần cù, sáng tạo.",
+        "Cần cù, sáng tạo trong học tập, lao động."
+      ]
+    },
+    "Bài 3. Tôn trọng người khác": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Bồi dưỡng lòng yêu nước, tự hào dân tộc và trách nhiệm của công dân đối với cộng đồng, đất nước.",
+      "objectives": [
+        "Nêu được những biểu hiện của tôn trọng người khác.",
+        "Nêu được ý nghĩa của tôn trọng người khác.",
+        "Tôn trọng bạn bè và người lớn tuổi.",
+        "Phê phán những hành vi thiếu tôn trọng người khác."
+      ]
+    },
+    "Bài 4. Phòng, chống bạo lực gia đình": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Cung cấp kiến thức pháp luật chuyên sâu hơn về quyền con người, quyền công dân và các lĩnh vực pháp luật liên quan trực tiếp đến cuộc sống.",
+      "objectives": [
+        "Nêu được các hình thức bạo lực gia đình.",
+        "Nêu được nguyên nhân và hậu quả của bạo lực gia đình.",
+        "Nêu được một số quy định của pháp luật về phòng, chống bạo lực gia đình.",
+        "Có thái độ kiên quyết, lên án, phê phán các hành vi bạo lực gia đình.",
+        "Ứng phó được với các tình huống bạo lực gia đình."
+      ]
+    },
+    "Bài 5. Phòng, chống tệ nạn xã hội": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Cung cấp kiến thức pháp luật chuyên sâu hơn về quyền con người, quyền công dân và các lĩnh vực pháp luật liên quan trực tiếp đến cuộc sống.",
+      "objectives": [
+        "Kể được tên một số tệ nạn xã hội phổ biến.",
+        "Nêu được nguyên nhân, hậu quả của tệ nạn xã hội.",
+        "Nêu được một số quy định của pháp luật về phòng, chống tệ nạn xã hội.",
+        "Tránh xa các tệ nạn xã hội và tuyên truyền, vận động mọi người cùng phòng, chống tệ nạn xã hội."
+      ]
+    },
+    "Bài 6. Quyền và nghĩa vụ của công dân về bảo vệ Tổ quốc": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Cung cấp kiến thức pháp luật chuyên sâu hơn về quyền con người, quyền công dân và các lĩnh vực pháp luật liên quan trực tiếp đến cuộc sống.",
+      "objectives": [
+        "Nêu được một số quy định của pháp luật về quyền và nghĩa vụ của công dân trong bảo vệ Tổ quốc.",
+        "Nêu được trách nhiệm của học sinh trong việc thực hiện quyền và nghĩa vụ bảo vệ Tổ quốc.",
+        "Luôn có ý thức bảo vệ Tổ quốc và sẵn sàng thực hiện nghĩa vụ bảo vệ Tổ quốc."
+      ]
+    },
+    "Bài 7. Xác định mục tiêu nghề nghiệp của bản thân": {
+      "chapter": "GIÁO DỤC KĨ NĂNG SỐNG",
+      "content": "Phát triển các kĩ năng định hướng tương lai, ra quyết định và giải quyết vấn đề một cách có trách nhiệm.",
+      "objectives": [
+        "Nêu được ý nghĩa của việc lựa chọn nghề nghiệp.",
+        "Nêu được những yêu cầu cơ bản của một số ngành nghề phổ biến trong xã hội.",
+        "Xác định được loại hình nghề nghiệp phù hợp với sở thích, khả năng của bản thân."
+      ]
+    },
+    "Bài 8. Lập kế hoạch chi tiêu": {
+      "chapter": "GIÁO DỤC KINH TẾ",
+      "content": "Hình thành năng lực của người tiêu dùng thông thái, hiểu biết về hoạt động sản xuất kinh doanh và vai trò của nhà nước trong nền kinh tế.",
+      "objectives": [
+        "Nêu được sự cần thiết phải lập kế hoạch chi tiêu.",
+        "Phân biệt được các khoản chi tiêu cho nhu cầu cá nhân.",
+        "Lập được kế hoạch chi tiêu cá nhân theo tuần, tháng.",
+        "Thực hiện được kế hoạch chi tiêu đã lập."
+      ]
+    },
+    "Bài 9. Hoạt động sản xuất kinh doanh": {
+      "chapter": "GIÁO DỤC KINH TẾ",
+      "content": "Hình thành năng lực của người tiêu dùng thông thái, hiểu biết về hoạt động sản xuất kinh doanh và vai trò của nhà nước trong nền kinh tế.",
+      "objectives": [
+        "Nêu được vai trò của hoạt động sản xuất kinh doanh.",
+        "Kể được một số hoạt động sản xuất kinh doanh.",
+        "Nhận biết được một số phẩm chất của người sản xuất, kinh doanh.",
+        "Ủng hộ các hoạt động sản xuất, kinh doanh theo đúng quy định của pháp luật."
       ]
     }
   },
   "9": {
-    "Chủ đề: Tinh thần yêu nước và trách nhiệm xã hội": {
-      "chapter": "GIÁO DỤC TỔ QUỐC",
-      "content": "Nghiên cứu tinh thần yêu nước và trách nhiệm với xã hội của học sinh.",
+    "Bài 1. Góp phần xây dựng xã hội văn minh": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Phát triển ý thức công dân, lòng yêu nước, tinh thần nhân văn, hợp tác và trách nhiệm đối với bản thân, gia đình, xã hội và môi trường.",
       "objectives": [
-        "Trình bày được khái niệm tinh thần yêu nước.",
-        "Phân tích được biểu hiện của tinh thần yêu nước ở lứa tuổi học sinh.",
-        "Hiểu được trách nhiệm tham gia các hoạt động xã hội.",
-        "Liên hệ thực tiễn về bảo vệ tài nguyên thiên nhiên."
-      ],
-      "common_exercises": [
-        "Phân tích một ví dụ về tinh thần yêu nước.",
-        "Thảo luận về vai trò của học sinh trong bảo vệ môi trường.",
-        "Đánh giá hành động yêu nước trong cộng đồng."
+        "Nêu được các biểu hiện của lối sống văn minh.",
+        "Nêu được ý nghĩa của lối sống văn minh.",
+        "Phê phán các biểu hiện thiếu văn minh trong xã hội.",
+        "Chủ động, tích cực tham gia các hoạt động xây dựng xã hội văn minh phù hợp với lứa tuổi."
       ]
     },
-    "Chuyên đề: Hiểu biết pháp luật cơ bản": {
-      "chapter": "GIÁO DỤC PHÁP LUẬT",
-      "content": "Tìm hiểu các quy định pháp luật cơ bản và trách nhiệm tuân thủ.",
+    "Bài 2. Sống có lí tưởng": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Phát triển ý thức công dân, lòng yêu nước, tinh thần nhân văn, hợp tác và trách nhiệm đối với bản thân, gia đình, xã hội và môi trường.",
       "objectives": [
-        "Trình bày được khái niệm pháp luật cơ bản.",
-        "Phân tích được vai trò của pháp luật trong đời sống.",
-        "Hiểu được trách nhiệm tuân thủ pháp luật của học sinh.",
-        "Liên hệ thực tiễn về tuân thủ giao thông."
-      ],
-      "common_exercises": [
-        "Phân tích một quy định giao thông cơ bản.",
-        "Thảo luận về hậu quả của vi phạm pháp luật.",
-        "Đánh giá vai trò của pháp luật trong trường học."
+        "Nêu được biểu hiện của người sống có lí tưởng.",
+        "Nêu được ý nghĩa của việc sống có lí tưởng.",
+        "Xác định được lí tưởng sống của bản thân.",
+        "Lập và thực hiện được kế hoạch rèn luyện, học tập để thực hiện lí tưởng sống."
+      ]
+    },
+    "Bài 3. Trách nhiệm của thanh niên": {
+      "chapter": "GIÁO DỤC ĐẠO ĐỨC",
+      "content": "Phát triển ý thức công dân, lòng yêu nước, tinh thần nhân văn, hợp tác và trách nhiệm đối với bản thân, gia đình, xã hội và môi trường.",
+      "objectives": [
+        "Nêu được vai trò, trách nhiệm của thanh niên đối với bản thân, gia đình, xã hội và Tổ quốc.",
+        "Nêu được một số tấm gương thanh niên tiêu biểu.",
+        "Luôn có ý thức trách nhiệm và thực hiện trách nhiệm của mình bằng những việc làm cụ thể."
+      ]
+    },
+    "Bài 4. Hợp tác cùng phát triển": {
+      "chapter": "GIÁO DỤC KĨ NĂNG SỐNG",
+      "content": "Trang bị các kĩ năng nâng cao để giải quyết vấn đề, hợp tác hiệu quả và sẵn sàng hội nhập trong bối cảnh toàn cầu hóa.",
+      "objectives": [
+        "Nêu được các hình thức hợp tác.",
+        "Nêu được ý nghĩa của hợp tác.",
+        "Thực hiện tốt việc hợp tác với bạn bè và những người xung quanh trong các hoạt động chung."
+      ]
+    },
+    "Bài 5. Quyền và nghĩa vụ lao động của công dân": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Tổng hợp, hệ thống hóa kiến thức pháp luật, nâng cao ý thức và năng lực thực hiện quyền, nghĩa vụ công dân theo quy định của Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được một số quy định của pháp luật về quyền và nghĩa vụ lao động của công dân.",
+        "Nêu được ý nghĩa của quyền và nghĩa vụ lao động đối với mỗi người và xã hội.",
+        "Tôn trọng và thực hiện đúng quyền và nghĩa vụ lao động của công dân."
+      ]
+    },
+    "Bài 6. Quyền và nghĩa vụ của công dân về hôn nhân": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Tổng hợp, hệ thống hóa kiến thức pháp luật, nâng cao ý thức và năng lực thực hiện quyền, nghĩa vụ công dân theo quy định của Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được một số quy định của pháp luật về hôn nhân.",
+        "Nêu được ý nghĩa của các quy định của pháp luật về hôn nhân.",
+        "Ủng hộ những việc làm đúng, phê phán những việc làm sai với quy định của pháp luật về hôn nhân."
+      ]
+    },
+    "Bài 7. Quyền và nghĩa vụ của công dân về kinh doanh": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Tổng hợp, hệ thống hóa kiến thức pháp luật, nâng cao ý thức và năng lực thực hiện quyền, nghĩa vụ công dân theo quy định của Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được một số quy định của pháp luật về quyền và nghĩa vụ của công dân về kinh doanh.",
+        "Nêu được ý nghĩa của quyền và nghĩa vụ của công dân về kinh doanh đối với mỗi người và xã hội.",
+        "Tôn trọng và thực hiện đúng quyền và nghĩa vụ kinh doanh của công dân."
+      ]
+    },
+    "Bài 8. Quyền và nghĩa vụ của công dân về thuế": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Tổng hợp, hệ thống hóa kiến thức pháp luật, nâng cao ý thức và năng lực thực hiện quyền, nghĩa vụ công dân theo quy định của Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được một số quy định của pháp luật về quyền và nghĩa vụ của công dân về thuế.",
+        "Nêu được ý nghĩa của quyền và nghĩa vụ của công dân về thuế đối với sự phát triển của đất nước.",
+        "Tôn trọng và thực hiện đúng quyền và nghĩa vụ của công dân về thuế."
+      ]
+    },
+    "Bài 9. Vi phạm pháp luật và trách nhiệm pháp lí": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Tổng hợp, hệ thống hóa kiến thức pháp luật, nâng cao ý thức và năng lực thực hiện quyền, nghĩa vụ công dân theo quy định của Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được các loại vi phạm pháp luật và trách nhiệm pháp lí tương ứng.",
+        "Phân biệt được các loại vi phạm pháp luật và trách nhiệm pháp lí trong các tình huống đơn giản.",
+        "Luôn có ý thức chấp hành pháp luật để không bị vi phạm pháp luật."
+      ]
+    },
+    "Bài 10. Quyền và nghĩa vụ của công dân về tham gia quản lí nhà nước và xã hội": {
+      "chapter": "GIÁO DỤC PHÁP LUẬT",
+      "content": "Tổng hợp, hệ thống hóa kiến thức pháp luật, nâng cao ý thức và năng lực thực hiện quyền, nghĩa vụ công dân theo quy định của Hiến pháp và pháp luật.",
+      "objectives": [
+        "Nêu được một số quy định của pháp luật về quyền và nghĩa vụ của công dân về tham gia quản lí nhà nước và xã hội.",
+        "Nêu được ý nghĩa của quyền và nghĩa vụ của công dân về tham gia quản lí nhà nước và xã hội.",
+        "Tích cực tham gia các hoạt động quản lí nhà nước và xã hội phù hợp với lứa tuổi."
       ]
     }
   }
