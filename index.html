@@ -448,10 +448,15 @@
     </div>
     
 
-     <div id="export-options-modal" class="fixed inset-0 bg-gray-600 bg-opacity-50 hidden items-center justify-center z-30">
-        <div class="bg-white rounded-lg shadow-xl p-6 w-full max-w-md">
-            <h3 class="text-xl font-bold mb-4">Tùy chọn xuất file</h3>
-            <div class="space-y-4">
+    <div id="export-options-modal" class="fixed inset-0 bg-gray-600 bg-opacity-50 hidden items-center justify-center z-30 p-4">
+        <div class="bg-white rounded-lg shadow-xl w-full max-w-md flex flex-col max-h-[90vh]">
+            <!-- Modal Header -->
+            <div class="p-6 border-b border-gray-200 flex-shrink-0">
+                <h3 class="text-xl font-bold">Tùy chọn xuất file</h3>
+            </div>
+    
+            <!-- Modal Body (Scrollable) -->
+            <div class="p-6 space-y-4 overflow-y-auto">
                 <div>
                     <label for="export-title-input" class="block text-sm font-medium text-gray-700">Tiêu đề bài thi</label>
                     <input type="text" id="export-title-input" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500" placeholder="Ví dụ: Đề kiểm tra 15 phút">
@@ -462,11 +467,39 @@
                     <input type="number" id="export-time-limit-input" value="45" min="0" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
                     <p class="text-xs text-gray-500 mt-1">Nhập 0 để không giới hạn thời gian.</p>
                 </div>
-                 <div>
+                <div>
                     <label for="export-retries-input" class="block text-sm font-medium text-gray-700">Số lần làm lại tối đa</label>
                     <input type="number" id="export-retries-input" value="1" min="0" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
-                     <p class="text-xs text-gray-500 mt-1">Số lần học sinh được phép làm lại sau lần đầu tiên. Nhập 0 nghĩa là chỉ được làm bài 1 lần duy nhất.</p>
+                    <p class="text-xs text-gray-500 mt-1">Số lần học sinh được phép làm lại sau lần đầu tiên. Nhập 0 nghĩa là chỉ được làm bài 1 lần duy nhất.</p>
                 </div>
+                <!-- New Scoring Fields -->
+                <div class="pt-4 border-t">
+                    <h4 class="text-md font-semibold mb-3 text-gray-800">Cài đặt thang điểm (Tổng điểm mặc định là 10)</h4>
+                    <div class="grid grid-cols-2 gap-4">
+                        <div>
+                            <label for="export-points-mc" class="block text-sm font-medium text-gray-700">Tổng điểm P.I (TN)</label>
+                            <input type="number" id="export-points-mc" value="5" min="0" step="0.25" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+                        </div>
+                        <div>
+                            <label for="export-points-sa" class="block text-sm font-medium text-gray-700">Tổng điểm P.III (TL Ngắn)</label>
+                            <input type="number" id="export-points-sa" value="2" min="0" step="0.25" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+                        </div>
+                        <div>
+                            <label for="export-points-essay" class="block text-sm font-medium text-gray-700">Tổng điểm P.IV (Tự luận)</label>
+                            <input type="number" id="export-points-essay" value="1" min="0" step="0.25" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+                        </div>
+                    </div>
+                    <div class="mt-4">
+                        <label for="export-points-tf-method" class="block text-sm font-medium text-gray-700">Cách tính điểm P.II (Đúng/Sai)</label>
+                        <p class="text-xs text-gray-500 mt-1 mb-2">Mỗi câu Đúng/Sai có 4 ý, tổng 1 điểm. Chọn cách tính điểm cho các ý đúng trong 1 câu.</p>
+                        <select id="export-points-tf-method" class="mt-1 block w-full border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500">
+                            <option value="progressive">Lũy tiến (1ý=0.1, 2ý=0.25, 3ý=0.5, 4ý=1)</option>
+                            <option value="even">Đồng đều (Mỗi ý đúng 0.25 điểm)</option>
+                        </select>
+                        <p class="text-xs text-gray-500 mt-1">Tổng điểm phần II sẽ được tự động tính dựa trên số câu.</p>
+                    </div>
+                </div>
+                <!-- End New Scoring Fields -->
                 <div class="relative flex items-start">
                     <div class="flex h-5 items-center">
                         <input id="export-show-answers-check" type="checkbox" checked class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
@@ -476,7 +509,7 @@
                         <p class="text-gray-500">Sau khi nộp bài, học sinh có thể thấy câu trả lời đúng.</p>
                     </div>
                 </div>
-                 <div class="relative flex items-start">
+                <div class="relative flex items-start">
                     <div class="flex h-5 items-center">
                         <input id="export-show-explanation-check" type="checkbox" checked class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
                     </div>
@@ -486,7 +519,9 @@
                     </div>
                 </div>
             </div>
-            <div class="mt-6 flex justify-end gap-3">
+    
+            <!-- Modal Footer -->
+            <div class="p-6 bg-gray-50 rounded-b-lg border-t border-gray-200 flex justify-end gap-3 flex-shrink-0">
                 <button id="cancel-export-btn" class="bg-gray-200 text-gray-800 font-semibold py-2 px-4 rounded-md hover:bg-gray-300">Hủy</button>
                 <button id="confirm-export-btn" class="bg-green-600 text-white font-semibold py-2 px-4 rounded-md hover:bg-green-700">Xác nhận xuất</button>
             </div>
