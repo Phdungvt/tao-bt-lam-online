@@ -142,6 +142,10 @@ const exportTimeLimitInput = document.getElementById('export-time-limit-input');
 const exportRetriesInput = document.getElementById('export-retries-input');
 const exportShowAnswersCheck = document.getElementById('export-show-answers-check');
 const exportShowExplanationCheck = document.getElementById('export-show-explanation-check');
+const exportPointsMC = document.getElementById('export-points-mc');
+const exportPointsSA = document.getElementById('export-points-sa');
+const exportPointsEssay = document.getElementById('export-points-essay');
+const exportPointsTFMethod = document.getElementById('export-points-tf-method');
 
 
 // Study Guide Modal
@@ -916,17 +920,21 @@ function handleExportHTML(options, title) {
     const quizDataForExport = quizData.map(item => {
         const exportItem = {
             type: item.type,
-            question: item.type === 'true-false' ? item.main_question : item.question,
+            question: item.question,
+            main_question: item.main_question, // For true-false
             questionImage: item.questionImage || null,
             explanation: item.explanation || null,
         };
-        if (item.type === 'multiple-choice') {
+        const mappedSchemaType = mapEnglishTypeToSchemaType(item.type);
+        exportItem.mappedType = mappedSchemaType;
+
+        if (mappedSchemaType === 'multiple-choice') {
             exportItem.options = item.options;
             exportItem.optionsImage = item.optionsImage || [];
             exportItem.correctAnswerIndex = item.correctAnswerIndex;
-        } else if (item.type === 'true-false') {
+        } else if (mappedSchemaType === 'true-false') {
             exportItem.statements = item.statements.map(s => ({ statement: s.statement, is_correct: s.is_correct }));
-        } else if (item.type === 'short-answer' || item.type === 'essay') {
+        } else if (mappedSchemaType === 'short-answer' || mappedSchemaType === 'essay') {
             exportItem.answer = item.answer;
         }
         return exportItem;
@@ -1063,17 +1071,26 @@ function handleExportHTML(options, title) {
             </footer>
         </div>
 
-        <script>
+        <script type="module">
+            import { GoogleGenAI, Type } from "https://esm.sh/@google/genai@^1.13.0";
+
             let quizData = ${JSON.stringify(quizDataForExport)};
             const quizOptions = ${JSON.stringify(options)};
             const apiKey = "${userApiKey}"; 
             const googleScriptUrl = "${googleScriptUrl}";
-            const knowledgeBase = ${JSON.stringify(knowledgeBase)};
             let studentInfo = {};
             let isSubmitted = false;
             let timerInterval;
             let retriesLeft = quizOptions.retriesAllowed;
             let currentAudio = null; // To manage audio playback
+            let ai = null;
+            if (apiKey) {
+                try {
+                    ai = new GoogleGenAI({ apiKey });
+                } catch(e) {
+                    console.error("Invalid API Key provided for student page.", e);
+                }
+            }
 
             function formatLatexWithSpaces(text) {
                 if (!text || typeof text !== 'string') return text;
@@ -1116,43 +1133,6 @@ function handleExportHTML(options, title) {
                     }
                 }, 1000);
             }
-            
-            async function generateContentAPI(payload, apiKey) {
-                if (!apiKey) {
-                    console.error("API Key is missing for generative content.");
-                    return null;
-                }
-                const API_URL = \`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=\${apiKey}\`;
-                
-                try {
-                    const response = await fetch(API_URL, {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify(payload)
-                    });
-
-                    if (!response.ok) {
-                        const errorBody = await response.json();
-                        throw new Error(\`API Error: \${errorBody.error?.message || response.status}\`);
-                    }
-                    
-                    const result = await response.json();
-                    
-                    if (result.candidates && result.candidates[0].content && result.candidates[0].content.parts[0]) {
-                        return result.candidates[0].content.parts[0].text;
-                    } else {
-                         if (result.promptFeedback && result.promptFeedback.blockReason) {
-                               throw new Error(\`API call blocked: \${result.promptFeedback.blockReason}\`);
-                         }
-                         console.warn("API returned no text.", result);
-                         return null;
-                    }
-                } catch (error) {
-                    console.error("Lỗi khi gọi Gemini API:", error);
-                    return null;
-                }
-            }
-
 
             // --- Gemini API Caller (for TTS) ---
             async function callGeminiAPI(payload, apiKey, model = 'gemini-2.5-flash-preview-tts') {
@@ -1312,13 +1292,13 @@ function handleExportHTML(options, title) {
             }
 
             function getTextForTTS(item) {
-                let text = item.question || '';
+                let text = item.question || item.main_question || '';
                 text = text.replace(/\\$/g, ''); // Remove LaTeX delimiters for cleaner speech
 
-                if (item.type === 'multiple-choice' && item.options) {
+                if (item.mappedType === 'multiple-choice' && item.options) {
                     const optionsText = item.options.map((opt, i) => \`\${String.fromCharCode(65 + i)}. \${opt}\`).join(' ');
                     text += ' ' + optionsText.replace(/\\$/g, '');
-                } else if (item.type === 'true-false' && item.statements) {
+                } else if (item.mappedType === 'true-false' && item.statements) {
                     const statementsText = item.statements.map((s, i) => \`\${String.fromCharCode(97 + i)}. \${s.statement}\`).join(' ');
                     text += ' ' + statementsText.replace(/\\$/g, '');
                 }
@@ -1329,7 +1309,7 @@ function handleExportHTML(options, title) {
                 studentQuizContainer.innerHTML = '';
                 
                 const groupedQuestions = quizData.reduce((acc, q) => {
-                    const type = q.type;
+                    const type = q.mappedType;
                     if (!acc[type]) {
                         acc[type] = [];
                     }
@@ -1364,7 +1344,7 @@ function handleExportHTML(options, title) {
                         const globalIndex = quizData.indexOf(item);
                         questionCounter++;
                         groupHTML += \`<div class="question-card" id="student-q-\${globalIndex}">\`;
-                        let questionText = formatLatexWithSpaces(item.question || '').replace(/\\n/g, '<br>');
+                        let questionText = formatLatexWithSpaces(item.question || item.main_question || '').replace(/\\n/g, '<br>');
                         
                         const textToSpeak = getTextForTTS(item);
                         
@@ -1385,7 +1365,7 @@ function handleExportHTML(options, title) {
                                  </div>\`;
                         
                         groupHTML += \`<div class="mt-6">\`;
-                        switch(item.type) {
+                        switch(item.mappedType) {
                             case 'multiple-choice':
                                 groupHTML += \`<div class="options-grid grid grid-cols-1 md:grid-cols-2 gap-4">\`;
                                 item.options.forEach((opt, i) => {
@@ -1435,7 +1415,7 @@ function handleExportHTML(options, title) {
 
             async function generatePerformanceReview(allAnswersData) {
                 const feedbackContainer = document.getElementById('ai-feedback-container');
-                if (!feedbackContainer) return null;
+                if (!feedbackContainer || !ai) return null;
 
                 feedbackContainer.classList.remove('hidden');
                 feedbackContainer.innerHTML = \`
@@ -1463,45 +1443,60 @@ function handleExportHTML(options, title) {
 
                  const prompt = \`Bạn là một trợ lý giáo viên chuyên nghiệp và thân thiện, nói tiếng Việt. Nhiệm vụ của bạn là phân tích kết quả bài làm của một học sinh và đưa ra nhận xét mang tính xây dựng.
                 
-                Dưới đây là toàn bộ bài làm của học sinh:
-                \${JSON.stringify(allAnswersData, null, 2)}
+                Dưới đây là toàn bộ bài làm của học sinh, bao gồm các câu trả lời sai:
+                \${JSON.stringify(incorrectAnswers, null, 2)}
                 
-                Dựa vào các lỗi sai này, hãy tạo một phản hồi JSON duy nhất theo cấu trúc sau. Lời văn phải khích lệ, rõ ràng, dễ hiểu.
+                Dựa vào các lỗi sai này, hãy tạo một phản hồi. Lời văn phải khích lệ, rõ ràng, dễ hiểu.
+                QUAN TRỌNG: Với các câu hỏi Đúng/Sai (type: 'true-false'), hãy chú ý vào trường 'details' để phân tích lỗi sai ở từng mệnh đề nhỏ.
                 
-                {
-                  "overallFeedback": {
-                    "summary": "Tóm tắt năng lực của học sinh trong 1-2 câu ngắn gọn, súc tích để gửi cho giáo viên. Ví dụ: 'Nắm vững kiến thức cơ bản nhưng cần cải thiện kỹ năng tính toán.'",
-                    "strengths": "Nhận xét chi tiết về điểm mạnh, phần kiến thức học sinh đã nắm vững (suy luận từ các câu làm đúng) để hiển thị cho học sinh.",
-                    "areasForImprovement": "Nhận xét chi tiết về những mảng kiến thức học sinh cần cải thiện dựa trên các câu sai để hiển thị cho học sinh."
-                  },
-                  "studySuggestions": [
-                    "Gợi ý 2-3 chủ đề kiến thức cụ thể cần ôn tập lại, dựa trên bản chất của các câu hỏi sai."
-                  ],
-                  "errorAnalysis": [
-                    {
-                      "questionNumber": "<số thứ tự câu hỏi>",
-                      "explanation": "Giải thích chi tiết từng bước tại sao đáp án đúng là đúng, và phân tích lỗi sai trong câu trả lời của học sinh. Lời giải phải rõ ràng, logic, và sử dụng LaTeX cho công thức toán nếu cần."
-                    }
-                  ]
-                }
+                - 'summary': Tóm tắt năng lực của học sinh trong 1-2 câu ngắn gọn, súc tích để gửi cho giáo viên. Ví dụ: 'Nắm vững kiến thức cơ bản nhưng cần cải thiện kỹ năng tính toán.'
+                - 'strengths': Nhận xét chi tiết về điểm mạnh, phần kiến thức học sinh đã nắm vững (suy luận từ các câu làm đúng, không có trong dữ liệu câu sai) để hiển thị cho học sinh.
+                - 'areasForImprovement': Nhận xét chi tiết về những mảng kiến thức học sinh cần cải thiện dựa trên các câu sai để hiển thị cho học sinh.
+                - 'studySuggestions': Gợi ý 2-3 chủ đề kiến thức cụ thể cần ôn tập lại, dựa trên bản chất của các câu hỏi sai.
+                - 'errorAnalysis': Chỉ bao gồm các câu hỏi học sinh trả lời sai. Giải thích chi tiết từng bước tại sao đáp án đúng là đúng, và phân tích lỗi sai trong câu trả lời của học sinh. Lời giải phải rõ ràng, logic, và sử dụng LaTeX cho công thức toán nếu cần.\`;
                 
-                QUAN TRỌNG: Chỉ trả về một đối tượng JSON hợp lệ, không có bất kỳ văn bản nào khác trước hoặc sau nó. Trong trường 'errorAnalysis', chỉ bao gồm các câu hỏi học sinh trả lời sai.\`;
-
-                const payload = {
-                  "contents": [
-                    {
-                      "parts": [
-                        { "text": prompt }
-                      ]
-                    }
-                  ],
-                  "generationConfig": {
-                    "responseMimeType": "application/json",
-                  }
+                const schema = {
+                    type: Type.OBJECT,
+                    properties: {
+                        "overallFeedback": {
+                            type: Type.OBJECT,
+                            properties: {
+                                "summary": { type: Type.STRING },
+                                "strengths": { type: Type.STRING },
+                                "areasForImprovement": { type: Type.STRING }
+                            },
+                            required: ["summary", "strengths", "areasForImprovement"]
+                        },
+                        "studySuggestions": {
+                            type: Type.ARRAY,
+                            items: { type: Type.STRING }
+                        },
+                        "errorAnalysis": {
+                            type: Type.ARRAY,
+                            items: {
+                                type: Type.OBJECT,
+                                properties: {
+                                    "questionNumber": { type: Type.STRING },
+                                    "explanation": { type: Type.STRING }
+                                },
+                                required: ["questionNumber", "explanation"]
+                            }
+                        }
+                    },
+                    required: ["overallFeedback", "studySuggestions", "errorAnalysis"]
                 };
 
                 try {
-                    const resultText = await generateContentAPI(payload, apiKey);
+                    const response = await ai.models.generateContent({
+                        model: "gemini-2.5-flash",
+                        contents: prompt,
+                        config: {
+                            responseMimeType: "application/json",
+                            responseSchema: schema
+                        }
+                    });
+
+                    const resultText = response.text;
                     const feedbackData = JSON.parse(resultText);
 
                     const loader = document.getElementById('ai-feedback-loader');
@@ -1538,7 +1533,7 @@ function handleExportHTML(options, title) {
                         html += \`
                             <details class="bg-slate-50 border rounded-lg overflow-hidden">
                                 <summary class="font-semibold p-4 cursor-pointer hover:bg-slate-100 flex justify-between items-center">
-                                    <span>Câu \${analysis.questionNumber}: Bạn chọn <span class="text-red-600">\${questionInfo.yourAnswer.split('.')[0]}</span>, đáp án đúng là <span class="text-green-600">\${questionInfo.correctAnswer.split('.')[0]}</span></span>
+                                    <span>Câu \${analysis.questionNumber}: Bạn chọn <span class="text-red-600">\${questionInfo.yourAnswer}</span>, đáp án đúng là <span class="text-green-600">\${questionInfo.correctAnswer}</span></span>
                                     <svg class="w-5 h-5 transition-transform transform details-arrow" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
                                 </summary>
                                 <div class="p-4 border-t bg-white prose prose-sm max-w-none">
@@ -1577,48 +1572,112 @@ function handleExportHTML(options, title) {
                 isSubmitted = true;
                 clearInterval(timerInterval);
 
-                let correctCount = 0;
-                let totalQuestions = quizData.length;
+                let totalStudentScore = 0;
+                let totalCorrectAnswers = 0;
                 let allAnswersData = [];
 
-                // 1. Grade the quiz and collect answer data
-                quizData.forEach((item, index) => {
-                    let isCorrect = false;
-                    let yourAnswer = "Không trả lời";
-                    let yourAnswerFull = "Không trả lời";
-                    let correctAnswer = "N/A";
-                    let correctAnswerFull = "N/A";
+                const questionCounts = quizData.reduce((acc, q) => {
+                    const type = q.mappedType;
+                    acc[type] = (acc[type] || 0) + 1;
+                    return acc;
+                }, {});
 
-                    switch(item.type) {
+                // --- GRADING LOGIC ---
+                quizData.forEach((item, index) => {
+                    let questionNumber = index + 1;
+                    let answerData = { questionNumber };
+
+                    switch (item.mappedType) {
                         case 'multiple-choice':
                             const selectedOption = document.querySelector(\`input[name="q\${index}"]:checked\`);
-                            correctAnswer = String.fromCharCode(65 + item.correctAnswerIndex);
-                            correctAnswerFull = \`\${correctAnswer}. \${item.options[item.correctAnswerIndex]}\`;
-                            if (selectedOption) {
-                                const selectedIndex = parseInt(selectedOption.value, 10);
-                                yourAnswer = String.fromCharCode(65 + selectedIndex);
-                                yourAnswerFull = \`\${yourAnswer}. \${item.options[selectedIndex]}\`;
-                                isCorrect = selectedIndex === item.correctAnswerIndex;
+                            const isCorrectMC = selectedOption ? parseInt(selectedOption.value) === item.correctAnswerIndex : false;
+                            if (isCorrectMC) {
+                                totalCorrectAnswers++;
+                                if (questionCounts['multiple-choice'] > 0) {
+                                   totalStudentScore += quizOptions.scoring.mc / questionCounts['multiple-choice'];
+                                }
                             }
+                            answerData.type = 'multiple-choice';
+                            answerData.question = item.question;
+                            answerData.options = item.options;
+                            answerData.yourAnswer = selectedOption ? String.fromCharCode(65 + parseInt(selectedOption.value)) : "Không trả lời";
+                            answerData.correctAnswer = String.fromCharCode(65 + item.correctAnswerIndex);
+                            answerData.isCorrect = isCorrectMC;
                             break;
-                        // Add other question types here for grading and data collection
+
+                        case 'true-false':
+                            let correctStatementsCount = 0;
+                            let yourAnswerPattern = [];
+                            let correctAnswerPattern = [];
+                            let details = [];
+
+                            item.statements.forEach((s, i) => {
+                                const selectedTF = document.querySelector(\`input[name="q\${index}-s\${i}"]:checked\`);
+                                const studentChoice = selectedTF ? selectedTF.value === 'true' : null;
+                                const isStatementCorrect = studentChoice === s.is_correct;
+                                
+                                if (isStatementCorrect) correctStatementsCount++;
+                                
+                                yourAnswerPattern.push(studentChoice === null ? '?' : (studentChoice ? 'Đ' : 'S'));
+                                correctAnswerPattern.push(s.is_correct ? 'Đ' : 'S');
+                                details.push({ statement: s.statement, yourChoice: studentChoice === null ? 'Không trả lời' : (studentChoice ? 'Đúng' : 'Sai'), correctChoice: s.is_correct ? 'Đúng' : 'Sai', isCorrect: isStatementCorrect });
+                            });
+
+                            let questionPoints = 0;
+                            if (quizOptions.scoring.tfMethod === 'progressive') {
+                                const progressivePoints = { 0: 0, 1: 0.1, 2: 0.25, 3: 0.5, 4: 1.0 };
+                                questionPoints = progressivePoints[correctStatementsCount];
+                            } else { // even
+                                questionPoints = correctStatementsCount * 0.25;
+                            }
+                            totalStudentScore += questionPoints;
+                            if(correctStatementsCount === 4) totalCorrectAnswers++;
+
+                            answerData.type = 'true-false';
+                            answerData.question = item.main_question;
+                            answerData.yourAnswer = yourAnswerPattern.join('-');
+                            answerData.correctAnswer = correctAnswerPattern.join('-');
+                            answerData.isCorrect = correctStatementsCount === 4;
+                            answerData.details = details;
+                            break;
+                        
+                        case 'short-answer':
+                            const saInput = document.querySelector(\`input[name="q\${index}"]\`);
+                            const saAnswer = saInput ? saInput.value.trim().toLowerCase() : "";
+                            const isCorrectSA = saAnswer === item.answer.trim().toLowerCase();
+                             if (isCorrectSA) {
+                                totalCorrectAnswers++;
+                                if (questionCounts['short-answer'] > 0) {
+                                   totalStudentScore += quizOptions.scoring.sa / questionCounts['short-answer'];
+                                }
+                            }
+                            answerData.type = 'short-answer';
+                            answerData.question = item.question;
+                            answerData.yourAnswer = saInput.value || "Không trả lời";
+                            answerData.correctAnswer = item.answer;
+                            answerData.isCorrect = isCorrectSA;
+                            break;
+                            
+                        case 'essay':
+                             const essayInput = document.querySelector(\`textarea[name="q\${index}"]\`);
+                             answerData.type = 'essay';
+                             answerData.question = item.question;
+                             answerData.yourAnswer = essayInput.value || "Không trả lời";
+                             answerData.correctAnswer = item.answer;
+                             answerData.isCorrect = null; // Needs manual grading
+                             break;
                     }
-
-                    if (isCorrect) correctCount++;
-                    allAnswersData.push({
-                        questionNumber: index + 1,
-                        question: item.question,
-                        options: item.options, // for context
-                        yourAnswer: yourAnswer,
-                        yourAnswerFull: yourAnswerFull,
-                        correctAnswer: correctAnswer,
-                        correctAnswerFull: correctAnswerFull,
-                        isCorrect: isCorrect
-                    });
+                    allAnswersData.push(answerData);
                 });
-                const score = (correctCount / totalQuestions * 10).toFixed(1);
 
-                // 2. Render the summary table
+                // --- SCORE CALCULATION & DISPLAY ---
+                // The teacher sets the points for each section. The final score is the sum of these points.
+                // It is displayed on a 10-point scale, so we assume the teacher sets the total points to 10.
+                const finalScore = totalStudentScore;
+                const totalQuestions = quizData.length;
+
+
+                // --- RENDER SUMMARY TABLE ---
                 let summaryTableHTML = \`
                 <div class="bg-white p-6 rounded-xl shadow-lg mb-8">
                     <h3 class="text-xl font-bold text-slate-800 mb-4">🎯 TỔNG KẾT:</h3>
@@ -1640,9 +1699,9 @@ function handleExportHTML(options, title) {
                             <td class="px-4 py-3 font-medium">\${ans.questionNumber}</td>
                             <td class="px-4 py-3 \${ans.isCorrect ? '' : 'text-red-500 font-bold'}">\${ans.yourAnswer}</td>
                             <td class="px-4 py-3">\${ans.correctAnswer}</td>
-                            <td class="px-4 py-3 flex justify-center">\${ans.isCorrect ? 
+                            <td class="px-4 py-3 flex justify-center">\${ans.isCorrect === true ? 
                                 '<svg class="w-6 h-6 text-green-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>' : 
-                                '<svg class="w-6 h-6 text-red-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"></path></svg>'
+                                (ans.isCorrect === false ? '<svg class="w-6 h-6 text-red-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"></path></svg>' : '<span>-</span>')
                             }</td>
                         </tr>\`;
                 });
@@ -1651,14 +1710,23 @@ function handleExportHTML(options, title) {
                             </tbody>
                         </table>
                     </div>
-                    <div class="mt-4 space-y-1">
-                        <p class="font-semibold text-green-600">✅ Số câu đúng: \${correctCount}/\${totalQuestions}</p>
-                        <p class="font-semibold text-blue-600">📊 Điểm: \${score}/10</p>
+                    <div class="mt-4 space-y-1 text-left">
+                        <p class="font-semibold text-green-600">✅ Số câu đúng hoàn toàn: \${totalCorrectAnswers}/\${totalQuestions}</p>
+                         <p class="font-semibold text-blue-600">📊 Điểm (thang 10): \${finalScore.toFixed(2)}/10</p>
+                         \${questionCounts['essay'] > 0 ? \`<p class="text-sm text-gray-600 italic">Lưu ý: Điểm trên chưa bao gồm \${quizOptions.scoring.essay} điểm của phần Tự luận cần giáo viên chấm.</p>\` : ''}
                     </div>
                 </div>\`;
                 
                 resultContainer.innerHTML = summaryTableHTML;
                 resultContainer.classList.remove('hidden');
+
+                // Wait for MathJax rendering to complete and add a small buffer time.
+                // This prevents a race condition where the AI is called before the results table is fully rendered,
+                // which can cause errors in data collection for the AI prompt.
+                if (window.MathJax && typeof window.MathJax.typesetPromise === 'function') {
+                    await window.MathJax.typesetPromise([resultContainer]);
+                }
+                await new Promise(resolve => setTimeout(resolve, 300));
                 
                 // 3. Call AI feedback generation if enabled and create assessment string
                 let competencyAssessment = "Giáo viên không yêu cầu AI phân tích bài làm.";
@@ -1684,7 +1752,7 @@ function handleExportHTML(options, title) {
                 const formData = new FormData();
                 formData.append('name', studentInfo.name);
                 formData.append('class', studentInfo.class);
-                formData.append('score', \`\${score}/10\`);
+                formData.append('score', \`\${finalScore.toFixed(2)}/10\`);
                 formData.append('assessment', competencyAssessment);
                 formData.append('timestamp', new Date().toLocaleString('vi-VN'));
                 
@@ -1735,7 +1803,7 @@ function handleExportHTML(options, title) {
             retryBtn.addEventListener('click', () => {
                 // Group questions by type to shuffle within parts
                 const grouped = quizData.reduce((acc, q) => {
-                    const type = q.type;
+                    const type = q.mappedType;
                     if (!acc[type]) {
                         acc[type] = [];
                     }
@@ -2886,7 +2954,13 @@ document.addEventListener('DOMContentLoaded', () => {
             timeLimit: parseInt(exportTimeLimitInput.value, 10) || 0,
             retriesAllowed: parseInt(exportRetriesInput.value, 10) || 0,
             showAnswers: exportShowAnswersCheck.checked,
-            showExplanation: exportShowExplanationCheck.checked
+            showExplanation: exportShowExplanationCheck.checked,
+            scoring: {
+                mc: parseFloat(exportPointsMC.value) || 0,
+                sa: parseFloat(exportPointsSA.value) || 0,
+                essay: parseFloat(exportPointsEssay.value) || 0,
+                tfMethod: exportPointsTFMethod.value,
+            }
         };
         const title = exportTitleInput.value.trim() || 'Bài Tập Luyện Tập';
         handleExportHTML(options, title);
